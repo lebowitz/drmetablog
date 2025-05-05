@@ -1,6 +1,11 @@
 Title: Why an Old Humanist Sometimes Feels That the World Has Changed
 Date: February 18, 2006
 
-Here's the description of a project posted on a literary website by (I'm guessing) a young Shakespeare scholar: "I want to create a comprehensive XML schema for Shakespeare's plays, and then apply the schema in an online prototype. The schema will conform to TEI standards where possible and appropriate, and exceed them where necessary. Creating a DTD will not give us the versatility we want, so we have moved to a schema instead."
+Here's the description of a project posted on a literary website by (I'm
+guessing) a young Shakespeare scholar: "I want to create a comprehensive
+XML schema for Shakespeare's plays, and then apply the schema in an online
+prototype. The schema will conform to TEI standards where possible and
+appropriate, and exceed them where necessary. Creating a DTD will not give us
+the versatility we want, so we have moved to a schema instead."
 
 "XML schema?"  "TEI standards?"  "DTD?"  What language are we speaking?

@@ -1,8 +1,6 @@
 Title: My cardiologist treats a new patient
 Date: July 05, 2008
 
-
-
 Nurse, how good is the anaesthetist?
 
 Does Medicare cover this procedure?
@@ -19,4 +17,5 @@ Doctor, wait until you see your next patient.
 
 That's the loudest murmur I've ever heard.
 
-Can you move it along, Doc?  The family is in the waiting room and they're getting impatient.
+Can you move it along, Doc?  The family is in the waiting room and they're
+getting impatient.

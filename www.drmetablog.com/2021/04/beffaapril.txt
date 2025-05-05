@@ -1,22 +1,116 @@
 Title: Beffa -- April 1, 2021
 Date: April 01, 2021
 
-Regular readers of this metablague know that Dr. M. has resumed his study of Italian. Foolish say some, but heroic say others, because to try to master a language when one is an octogenarian is truly daunting. However, native speakers of English, even older ones, can, if patient, slowly acquire Italian. Its sounds are similar and sometimes identical to those of English; the conjugations, only three of them, are on the whole regular; and many of its words have English or Latin cognates. For me, pronouns present a problem, because they're sometimes required when I wouldn't think to use them, and sometimes dropped when I'd prefer them to be there -- and, moreover, they come in slightly varied direct, indirect, and reflexive forms. And then there are the pronomi combinati or double pronouns which are confusing in themselves and which are sometimes but not always attached to infinitives, gerunds and imperatives as enclitics. It's probably too late in the game for me to become a fluent speaker, but I have hopes of becoming a competent reader. I can now read at about the 6th or 7th grade level; I have the grammar under control so it's mostly a problem of vocabulary and idiom.
+Regular readers of this metablague know that Dr. M. has resumed his study of
+Italian. Foolish say some, but heroic say others, because to try to master a
+language when one is an octogenarian is truly daunting. However, native speakers
+of English, even older ones, can, if patient, slowly acquire Italian. Its sounds
+are similar and sometimes identical to those of English; the conjugations, only
+three of them, are on the whole regular; and many of its words have English or
+Latin cognates. For me, pronouns present a problem, because they're sometimes
+required when I wouldn't think to use them, and sometimes dropped when I'd
+prefer them to be there -- and, moreover, they come in slightly varied direct,
+indirect, and reflexive forms. And then there are the pronomi combinati or
+double pronouns which are confusing in themselves and which are sometimes but
+not always attached to infinitives, gerunds and imperatives as enclitics.
+It's probably too late in the game for me to become a fluent speaker, but I
+have hopes of becoming a competent reader. I can now read at about the 6th or
+7th grade level; I have the grammar under control so it's mostly a problem of
+vocabulary and idiom.
 
-For a greater challenge, I've begun to study a little Beffa. Beffa is a Kartvelian language with admixtures of Cascagian and Ghetti. Fortunately for me, there's a small Beffan community here in our town. I work with an introductory textbook -- Pathways to Modern Beffa (2012) by Divino Divano -- and with a native speaker named Ismail Kartakov. We meet three times a week when he's available. Sometimes I enjoy a Beffa-speaking dinner with Ismail and his wife Soraya and their three young children. I've also been to some Beffan parties and exuberant dances. I sometimes feel odd-man-out but it's been fun. The Beffan community, reputedly hostile to outsiders, has been very welcoming. And the goat, mountain oyster, and black radish stew is superb.
+For a greater challenge, I've begun to study a little Beffa. Beffa is a
+Kartvelian language with admixtures of Cascagian and Ghetti. Fortunately for me,
+there's a small Beffan community here in our town. I work with an introductory
+textbook -- Pathways to Modern Beffa (2012) by Divino Divano -- and with a
+native speaker named Ismail Kartakov. We meet three times a week when he's
+available. Sometimes I enjoy a Beffa-speaking dinner with Ismail and his wife
+Soraya and their three young children. I've also been to some Beffan parties and
+exuberant dances. I sometimes feel odd-man-out but it's been fun. The Beffan
+community, reputedly hostile to outsiders, has been very welcoming. And the
+goat, mountain oyster, and black radish stew is superb.
 
-Beffa is a bit more complicated than English. For example, while English has 26 consonants, Beffa has 56, including a two kinds of glottal stops that sound almost like clicks as well as a voiced glottal fricative that resembles a cat's purr. It also has both a voiced and unvoiced bilabial trill that sound a lot like an English "raspberry," and an unusual, possibly unique lingual-dental stop in which the tongue is pushed firmly against not the upper but the lower teeth. One peculiarity of Beffa is its consonant clusters -- a word may begin with as many as six consonants yoked together before the first vowel appears. Some words have an initial six consonants followed by a vowel and then a cluster of five or six more consonants. This can be strange to English speakers and sometimes I notice Ismail's younger children giggling at my feeble attempts to replicate their plosives. (Voiceless plosives are usually aspirated and one must take care not to insert a schwa between aspirants.) Beffa also has a varied repertoire of vowels, including a number of diphthongs and a couple of triphthongs. There aren't any tones, thank goodness. There's one triphthong the use of which can be perilous, for if you get it wrong the observation "your blue parrot is pining for the fjords" apparently sounds almost exactly like "my knife is longer and sharper than yours."
+Beffa is a bit more complicated than English. For example, while English has
+26 consonants, Beffa has 56, including a two kinds of glottal stops that sound
+almost like clicks as well as a voiced glottal fricative that resembles a cat's
+purr. It also has both a voiced and unvoiced bilabial trill that sound a lot
+like an English "raspberry," and an unusual, possibly unique lingual-dental stop
+in which the tongue is pushed firmly against not the upper but the lower teeth.
+One peculiarity of Beffa is its consonant clusters -- a word may begin with as
+many as six consonants yoked together before the first vowel appears. Some words
+have an initial six consonants followed by a vowel and then a cluster of five
+or six more consonants. This can be strange to English speakers and sometimes
+I notice Ismail's younger children giggling at my feeble attempts to replicate
+their plosives. (Voiceless plosives are usually aspirated and one must take care
+not to insert a schwa between aspirants.) Beffa also has a varied repertoire
+of vowels, including a number of diphthongs and a couple of triphthongs. There
+aren't any tones, thank goodness. There's one triphthong the use of which can be
+perilous, for if you get it wrong the observation "your blue parrot is pining
+for the fjords" apparently sounds almost exactly like "my knife is longer and
+sharper than yours."
 
-Nouns have both natural and grammatical gender. Nouns can be masculine, feminine, neuter, ambiguous, common, animate or inanimate. They can be singular, dual, plural, or paucative (i.e. a few). Neuter nouns rarely have duals. Beffa has six fully formed declensions, distinguished primarily by the fact that plurals in declensions 1 and 3 are formed with a prefix, in 2 and 4 by a suffix, and in 5 and 6 by an infix. There are also some fifteen cases, all useful but some slightly unusual. There are the familiar nominative, possessive, accusative and dative (or indirect object). There are also a series of cases that describe motion: the locative ("the ball that is lying on the ground"), the ablative (("the ball that is coming in your direction"); the separative ("the ball that is moving away from you"); the commitative ("the ball that is touching your hand"); the partitive ("the ball that has left your hand"); the terminative ("the ball that has stopped moving"); the superessive ("the ball that is on top of another ball"); the penetrative ("the ball that is inside another ball"); the perditive ("the ball that is lost"); the oscillative ("the ball that is going back and forth"); the thumpative ("the ball that is bouncing"); the plungitive "the ball that has fallen into the water"); the remunerative ("the ball that has been bought or sold"); the joculatorative ("the ball that does not fall to the ground"); the alfactorative ("the ball that stinks like a corpse"); the perplexive ("the ball that has disappeared"); and the insouciative ("the ball that has disappeared and no one cares"). Nouns can be either proximate or obviative; nouns that are central to the discourse (proximate) are declined very differently than nouns that are of marginal importance (obviative). There is also an unusual suffix (at least, unusual to me, for I had never encountered it before) that indicates whether the object specified touches the earth or is removed from the earth. And an infix which indicates whether the object is horizontal, vertical, diagonal, spiral, or invisible.
+Nouns have both natural and grammatical gender. Nouns can be masculine,
+feminine, neuter, ambiguous, common, animate or inanimate. They can be singular,
+dual, plural, or paucative (i.e. a few). Neuter nouns rarely have duals. Beffa
+has six fully formed declensions, distinguished primarily by the fact that
+plurals in declensions 1 and 3 are formed with a prefix, in 2 and 4 by a suffix,
+and in 5 and 6 by an infix. There are also some fifteen cases, all useful but
+some slightly unusual. There are the familiar nominative, possessive, accusative
+and dative (or indirect object). There are also a series of cases that describe
+motion: the locative ("the ball that is lying on the ground"), the ablative
+(("the ball that is coming in your direction"); the separative ("the ball that
+is moving away from you"); the commitative ("the ball that is touching your
+hand"); the partitive ("the ball that has left your hand"); the terminative
+("the ball that has stopped moving"); the superessive ("the ball that is on top
+of another ball"); the penetrative ("the ball that is inside another ball"); the
+perditive ("the ball that is lost"); the oscillative ("the ball that is going
+back and forth"); the thumpative ("the ball that is bouncing"); the plungitive
+"the ball that has fallen into the water"); the remunerative ("the ball that
+has been bought or sold"); the joculatorative ("the ball that does not fall
+to the ground"); the alfactorative ("the ball that stinks like a corpse");
+the perplexive ("the ball that has disappeared"); and the insouciative ("the
+ball that has disappeared and no one cares"). Nouns can be either proximate or
+obviative; nouns that are central to the discourse (proximate) are declined
+very differently than nouns that are of marginal importance (obviative). There
+is also an unusual suffix (at least, unusual to me, for I had never encountered
+it before) that indicates whether the object specified touches the earth or
+is removed from the earth. And an infix which indicates whether the object is
+horizontal, vertical, diagonal, spiral, or invisible.
 
-Verbs can be singular dual, plural, paucative, or undetermined: active, passive or middle. There are five fully-formed conjugations and apparently remnants of three others that are retained from the past when the language was more fully synthetic. The most commonly used tenses are present indicative, imperfect indicative, past imperfect indicative, future indicative, future imperfect indicative, future perfect indicative, pluperfect indicative, past pluperfect indicative, future pluperfect indicative, future stative, pluperfect resultative, present optative, future optative, past imperfect optative, present subjunctive, future subjunctive, past pluperfect subjunctive, future pluperfect subjunctive, future pluperfect conditional subjunctive, and future pluperfect optative conditional subjunctive aorist. Curiously, there is no future imperfect subjunctive. Moreover, there are two kinds of vocatives: one when a woman addresses a man; a second when a man addresses a woman or an animal. There is also votive, a tense that was formerly used for addressing the deities in prayer, but is now reserved for tribal chiefs, heads of state or royalty. The votive is very similar to the conditional and the erroneous substitution of a conditional for a votive was formerly grounds for mutilation but nowadays leads only to acute embarrassment, or, in the case of a particularly egregious grammatical lapse, to exile.
+Verbs can be singular dual, plural, paucative, or undetermined: active,
+passive or middle. There are five fully-formed conjugations and apparently
+remnants of three others that are retained from the past when the language was
+more fully synthetic. The most commonly used tenses are present indicative,
+imperfect indicative, past imperfect indicative, future indicative, future
+imperfect indicative, future perfect indicative, pluperfect indicative, past
+pluperfect indicative, future pluperfect indicative, future stative, pluperfect
+resultative, present optative, future optative, past imperfect optative, present
+subjunctive, future subjunctive, past pluperfect subjunctive, future pluperfect
+subjunctive, future pluperfect conditional subjunctive, and future pluperfect
+optative conditional subjunctive aorist. Curiously, there is no future imperfect
+subjunctive. Moreover, there are two kinds of vocatives: one when a woman
+addresses a man; a second when a man addresses a woman or an animal. There
+is also votive, a tense that was formerly used for addressing the deities in
+prayer, but is now reserved for tribal chiefs, heads of state or royalty. The
+votive is very similar to the conditional and the erroneous substitution of
+a conditional for a votive was formerly grounds for mutilation but nowadays
+leads only to acute embarrassment, or, in the case of a particularly egregious
+grammatical lapse, to exile.
 
-Some verbs are ergative so that the subject of either a transitive or intransitive verb can be in an absolutive case. Some common ergative verbs are "to become," "to eat,", and "to gouge" (as in, "to gouge out the eyes of an enemy").
+Some verbs are ergative so that the subject of either a transitive or
+intransitive verb can be in an absolutive case. Some common ergative verbs are
+"to become," "to eat,", and "to gouge" (as in, "to gouge out the eyes of an
+enemy").
 
-Beffan script is known as "dabbenaggine." This passage comments on the familiar Beffan proverb, "If you steal my horse, I will steal your wife."
+Beffan script is known as "dabbenaggine." This passage comments on the familiar
+Beffan proverb, "If you steal my horse, I will steal your wife."
 
 .
 
-Beffa used to be written boustrophedonically, but since the reforms of 1912 has been written right to left. For some reason which I cannot possibly imagine, dabbenaggine leaves no spaces between words but runs them all together without breaks, which makes it just slightly harder to master.
+Beffa used to be written boustrophedonically, but since the reforms of 1912
+has been written right to left. For some reason which I cannot possibly imagine,
+dabbenaggine leaves no spaces between words but runs them all together without
+breaks, which makes it just slightly harder to master.
 
-Pronouns and determiners are difficult and complicated and perhaps I'll describe them sometime in the future when I'm more familiar with their multiple and various forms.
+Pronouns and determiners are difficult and complicated and perhaps I'll describe
+them sometime in the future when I'm more familiar with their multiple and
+various forms.

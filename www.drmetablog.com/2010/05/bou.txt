@@ -1,13 +1,29 @@
 Title: Boustrophedon, Rongorongo, and the Phaistos Disc
 Date: May 03, 2010
 
-In a previous post, I expressed fascination that writing could go in any possible direction. I began with Swift, who satirized both "women" and the English when he described the fanciful Lilliputian script: "their manner of Writing is very peculiar, being neither from the Left to the Right, like the Europeans; nor from the Right to the Left, like the Arabians; nor from up to down, like the Chinese; nor from down to up, like the Cascagians; but aslant from one Corner of the Paper to the other, like Ladies in England."
+In a previous post, I expressed fascination that writing could go in any
+possible direction. I began with Swift, who satirized both "women" and the
+English when he described the fanciful Lilliputian script: "their manner of
+Writing is very peculiar, being neither from the Left to the Right, like the
+Europeans; nor from the Right to the Left, like the Arabians; nor from up to
+down, like the Chinese; nor from down to up, like the Cascagians; but aslant
+from one Corner of the Paper to the other, like Ladies in England."
 
-To Swift's curious catalog (the Cascagians are of course his own invention), I added boustrophedon, a system that Swift did not know but one that would surely have delighted him.
+To Swift's curious catalog (the Cascagians are of course his own invention), I
+added boustrophedon, a system that Swift did not know but one that would surely
+have delighted him.
 
-In boustrophedon (a lovely Greekish word that signifies "turn like an ox plowing"), alternate lines move in opposite directions. Lines one, three, five and seven and so on proceed from left to right; lines two, four, six, and eight from right to left. Ancient languages such as Safaitic were written in boustrophedon; some Etruscan inscriptions, still undeciphered, seem to follow the same pattern.
+In boustrophedon (a lovely Greekish word that signifies "turn like an ox
+plowing"), alternate lines move in opposite directions. Lines one, three, five
+and seven and so on proceed from left to right; lines two, four, six, and
+eight from right to left. Ancient languages such as Safaitic were written in
+boustrophedon; some Etruscan inscriptions, still undeciphered, seem to follow
+the same pattern.
 
-Boustrophedon is not unreasonable, but it's certainly awkward for those of us who have made a fetish of left to right. Here's how Shakespeare transforms boustrophedonically. The passage takes a bit of effort to read but it's certainly intelligible.
+Boustrophedon is not unreasonable, but it's certainly awkward for those of us
+who have made a fetish of left to right. Here's how Shakespeare transforms
+boustrophedonically. The passage takes a bit of effort to read but it's
+certainly intelligible.
 
 It is the cause, it is the cause, my soul,—
 
@@ -21,14 +37,41 @@ And smooth as monumental alabaster.
 
 .nem erom yarteb ll'ehs esle, eid tsum ehs teY.
 
-Right, left, up, down, aslant, and back and forth might seem to have exhausted the possible formats. But such is not the case. Rongorongo, the language of Easter Island, is written in still another style, that of "reverse boustrophedon." In Lost Languages (2002), Andrew Robinson describes how this most peculiar system works.
+Right, left, up, down, aslant, and back and forth might seem to have exhausted
+the possible formats. But such is not the case. Rongorongo, the language
+of Easter Island, is written in still another style, that of "reverse
+boustrophedon." In Lost Languages (2002), Andrew Robinson describes how this
+most peculiar system works.
 
-"To read a Rongorongo tablet, one started at the bottom left-hand corner and read along line 1 to the right-hand corner. Then one turned the tablet through 180 degrees and began reading line 2 from left to right again,  At the end of line 2, one repeated the 180-degree turn so that the tablet was in the same orientation as at the beginning, and read line 3 from left to right and so on....  Every even-number line is written back-to-front and upside-down in relation to an ordinary English text."
+"To read a Rongorongo tablet, one started at the bottom left-hand corner and
+read along line 1 to the right-hand corner. Then one turned the tablet through
+180 degrees and began reading line 2 from left to right again,  At the end of
+line 2, one repeated the 180-degree turn so that the tablet was in the same
+orientation as at the beginning, and read line 3 from left to right and so
+on....  Every even-number line is written back-to-front and upside-down in
+relation to an ordinary English text."
 
-I don't believe that even Jonathan Swift could have invented a manner of composition so counter-intuitive, so odd.  But then, those Easter Islanders (or, more properly, Rapanui) danced to a drummer who is uniquely their own. I don't believe that there's a second reverse boustrophedonesque culture anywhere on the planet.
+I don't believe that even Jonathan Swift could have invented a manner of
+composition so counter-intuitive, so odd.  But then, those Easter Islanders
+(or, more properly, Rapanui) danced to a drummer who is uniquely their own. I
+don't believe that there's a second reverse boustrophedonesque culture anywhere
+on the planet.
 
-Is that all? Are there no other possibilities? Yes indeed, there's also the phaistos disc, which (according to Andrew Robinson once again), "was discovered in 1908 by Luigi Pernier in the ruins of a palace at Phaistos in southern Crete. The archeological context suggests that the date of the disc is 1850-1600 BC. The disc is 6.5 inches in diameter and .75 inches thick and is made of fine clay. On both sides is an inscription which consists of characters impressed on the wet clay with a punch or stamp before it was fired. They are arranged in a spiral around the center of each side."
+Is that all? Are there no other possibilities? Yes indeed, there's also the
+phaistos disc, which (according to Andrew Robinson once again), "was discovered
+in 1908 by Luigi Pernier in the ruins of a palace at Phaistos in southern Crete.
+The archeological context suggests that the date of the disc is 1850-1600 BC.
+The disc is 6.5 inches in diameter and .75 inches thick and is made of fine
+clay. On both sides is an inscription which consists of characters impressed on
+the wet clay with a punch or stamp before it was fired. They are arranged in a
+spiral around the center of each side."
 
-The writing begins at the outermost circle and works its roundabout way towards the center, which means either that the scribe knew exactly how many letters (or ideographs, or syllables) he intended to use, or that he started at the center and wrote backwards until he reached the circumference of the disc. Neither method is particularly convenient or flexible, so it's not surprising that spiral writing never caught on. It certainly wouldn't do for people like me who revise heavily.
+The writing begins at the outermost circle and works its roundabout way towards
+the center, which means either that the scribe knew exactly how many letters (or
+ideographs, or syllables) he intended to use, or that he started at the center
+and wrote backwards until he reached the circumference of the disc. Neither
+method is particularly convenient or flexible, so it's not surprising that
+spiral writing never caught on. It certainly wouldn't do for people like me who
+revise heavily.
 
 The phaistos disc cannot be translated.

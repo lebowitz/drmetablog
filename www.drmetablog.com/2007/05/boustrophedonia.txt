@@ -1,13 +1,31 @@
 Title: Boustrophedoniana
 Date: May 23, 2007
 
-I'm fond of a passage in Gulliver's Travels where Jonathan Swift describes Lilliputian script. In a single sentence, Swift manages to attack and nail two of his favorite targets: "ladies" and "England." The Lilliputians "manner of writing is quite peculiar being neither from the left to the right, like the Europeans;  nor from the right to the left, like the Arabians; nor from up to down, like the Chinese, nor from down to up, like the Cascagians, but aslant from one Corner of the Paper to another, like Ladies in England.
+I'm fond of a passage in Gulliver's Travels where Jonathan Swift describes
+Lilliputian script. In a single sentence, Swift manages to attack and nail two
+of his favorite targets: "ladies" and "England." The Lilliputians "manner of
+writing is quite peculiar being neither from the left to the right, like the
+Europeans;  nor from the right to the left, like the Arabians; nor from up to
+down, like the Chinese, nor from down to up, like the Cascagians, but aslant
+from one Corner of the Paper to another, like Ladies in England.
 
-In good satirical fashion, Dr. S. supplements truth with fancy: the "Cascagians," who write from bottom to top, may sound like the Carpathians or Sarmatians or some other trans-Caucasus people, but they don't exist. It appears that Swift invented them in order to complete his survey of the directions in which writing might flow.
+In good satirical fashion, Dr. S. supplements truth with fancy: the
+"Cascagians," who write from bottom to top, may sound like the Carpathians or
+Sarmatians or some other trans-Caucasus people, but they don't exist. It appears
+that Swift invented them in order to complete his survey of the directions in
+which writing might flow.
 
-Yet even including the fantastical Cascagians, Swift's list is not comprehensive. There are other possibilities for writing beside up and down, right and left or aslant.
+Yet even including the fantastical Cascagians, Swift's list is not
+comprehensive. There are other possibilities for writing beside up and down,
+right and left or aslant.
 
-In boustrophedon (a lovely Greekish word that signifies "turn like an ox plowing"), alternate lines move in opposite directions. Lines one, three, five and seven and so on proceed from left to right; lines two, four, six, and eight from right to left. Ancient languages such as Safaitic were written in boustrophedon; some Etruscan inscriptions, still undeciphered, seem to follow the same pattern. Boustrophedon is not unreasonable, but it's certainly awkward for those who have made a fetish of left to right.
+In boustrophedon (a lovely Greekish word that signifies "turn like an ox
+plowing"), alternate lines move in opposite directions. Lines one, three, five
+and seven and so on proceed from left to right; lines two, four, six, and
+eight from right to left. Ancient languages such as Safaitic were written in
+boustrophedon; some Etruscan inscriptions, still undeciphered, seem to follow
+the same pattern. Boustrophedon is not unreasonable, but it's certainly awkward
+for those who have made a fetish of left to right.
 
 Here's how Shakespeare transforms boustrophedonically.
 
@@ -23,13 +41,24 @@ And smooth as monumental alabaster.
 
 .nem erom yarteb ll'ehs esle, eid tsum ehs teY.
 
-Survival of the fittest, applying even to scripts, no doubt led to the extinction of boustrophedon.
+Survival of the fittest, applying even to scripts, no doubt led to the
+extinction of boustrophedon.
 
-Query: would our brains be more supple and more imaginative if we had retained this style of writing? Or would we simply be more perplexed? Or dizzy? And would we, as a civilization, prize as the peak of wit and award the laurel to the palindrome?
+Query: would our brains be more supple and more imaginative if we had retained
+this style of writing? Or would we simply be more perplexed? Or dizzy? And would
+we, as a civilization, prize as the peak of wit and award the laurel to the
+palindrome?
 
-Incidentally, Rongorongo, the indigenous language of Easter Island, was apparently written in reverse boustrophedon, i.e. bottom to top -- a compositional practice that any satirist, even Swift, would have been delighted to invent.
+Incidentally, Rongorongo, the indigenous language of Easter Island, was
+apparently written in reverse boustrophedon, i.e. bottom to top -- a
+compositional practice that any satirist, even Swift, would have been delighted
+to invent.
 
-May 26.  Marion Morrison, Ph.D., an associate professor of English at the University of Iowa, writes: "I'm confused about 'reverse boustrophedon.' Is it real, or is it another Dr. Metablog 'invention'?  Is Rongorongo a metablogian Cascagian?  I'm skeptical. And how does it work?  Can you favor us with a few lines in so-called 'reverse boustrophedon?'
+May 26.  Marion Morrison, Ph.D., an associate professor of English at the
+University of Iowa, writes: "I'm confused about 'reverse boustrophedon.' Is it
+real, or is it another Dr. Metablog 'invention'?  Is Rongorongo a metablogian
+Cascagian?  I'm skeptical. And how does it work?  Can you favor us with a few
+lines in so-called 'reverse boustrophedon?'
 
 Vivian replies:
 
@@ -37,7 +66,8 @@ Devoutly to be wish'd....
 
 noitammusnoc a siT' .ot rieh si hself tahT
 
-The heartache, and the thousand natural shocks dne ew yas ot peels a yb dna ;emor oN
+The heartache, and the thousand natural shocks dne ew yas ot peels a yb dna
+;emor oN
 
 And by opposing end them. To die- to sleep-
 

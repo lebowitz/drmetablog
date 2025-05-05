@@ -1,28 +1,76 @@
 Title: "Mr. Kripke"
 Date: September 27, 2011
 
-When I was in graduate school (fifty years ago, believe it or not), I enrolled for a course called "Modern American Poetry." In the unthrilling days of yesteryear, "modern" still meant the generation of Eliot and Pound. This particular course, however, was so up-to-the moment that it might have been called "last month's American poetry." Some of the poets whom we studied turned out to be mere flashes in the pan, and none of them, I think, ever came close to Yeats or Frost. Nevertheless, it was good to know about Olson and Hall and Bly and Snodgrass and Levertov. There were major omissions to the curriculum: Sylvia Plath had not yet flashed across the horizon, and Ginsberg, Ferlinghetti, Corso and Duncan were far too rude to have been invited to this particular party.
+When I was in graduate school (fifty years ago, believe it or not), I enrolled
+for a course called "Modern American Poetry." In the unthrilling days of
+yesteryear, "modern" still meant the generation of Eliot and Pound. This
+particular course, however, was so up-to-the moment that it might have been
+called "last month's American poetry." Some of the poets whom we studied
+turned out to be mere flashes in the pan, and none of them, I think, ever came
+close to Yeats or Frost. Nevertheless, it was good to know about Olson and
+Hall and Bly and Snodgrass and Levertov. There were major omissions to the
+curriculum: Sylvia Plath had not yet flashed across the horizon, and Ginsberg,
+Ferlinghetti, Corso and Duncan were far too rude to have been invited to this
+particular party.
 
-Our instructor was a genial man named John Lincoln Sweeney. Although he was not a bristling-with-bibliography kind of academic celebrity, he knew everything about the subject and was famous as a supporter of poets and artists. I knew that he was "different" -- even my callow unsophisticated eye noticed the elegant bespoke suits and the aristocratic mien. At the Woodberry Poetry Library in Lamont, Sweeney was listed as "curator" but I have not doubt that he was also patron. Woodberry collected not only books but also records and audiotapes and films of poetry readings. It was a spectacular resource. There was a rumor that there were poetry gatherings at Sweeney's mansion on Beacon Street, across the river, but I was never invited. Why would I have been?
+Our instructor was a genial man named John Lincoln Sweeney. Although he was not
+a bristling-with-bibliography kind of academic celebrity, he knew everything
+about the subject and was famous as a supporter of poets and artists. I knew
+that he was "different" -- even my callow unsophisticated eye noticed the
+elegant bespoke suits and the aristocratic mien. At the Woodberry Poetry Library
+in Lamont, Sweeney was listed as "curator" but I have not doubt that he was also
+patron. Woodberry collected not only books but also records and audiotapes and
+films of poetry readings. It was a spectacular resource. There was a rumor that
+there were poetry gatherings at Sweeney's mansion on Beacon Street, across the
+river, but I was never invited. Why would I have been?
 
 Here's a photograph of Jack and Maire Sweeney:
 
-Sweeney's letters are now housed in the Trinity College, Dublin Library. "Correspondents include Conrad Aiken, William Alfred, Padraic Colum, e.e. cummings, Richard Eberhart, Leon Edel, T.S. Eliot, Robert Fitzgerald, Seamus Heaney, Ted Hughes and Sylvia Plath, Thomas Kinsella, Philip Larkin, Marianne Moore, Edwin and Willa Muir, Wallace Stevens, and Richard Wilbur." The paintings (Picasso, Modigliani, Matisse) were bequeathed to the National Gallery of Ireland.
+Sweeney's letters are now housed in the Trinity College, Dublin Library.
+"Correspondents include Conrad Aiken, William Alfred, Padraic Colum, e.e.
+cummings, Richard Eberhart, Leon Edel, T.S. Eliot, Robert Fitzgerald, Seamus
+Heaney, Ted Hughes and Sylvia Plath, Thomas Kinsella, Philip Larkin, Marianne
+Moore, Edwin and Willa Muir, Wallace Stevens, and Richard Wilbur." The
+paintings (Picasso, Modigliani, Matisse) were bequeathed to the National
+Gallery of Ireland.
 
-There were about twenty students in "Modern American Poetry." Nineteen of them were regular; one was irregular. Whenever "Mr. Kripke," whom I remember as an exceedingly scruffy young fellow, signaled that he wanted to participate in the conversation, time stopped. Both the instructor and my classmates treated Mr. Kripke, who spoke in halting, awkward, and oracular tones, with extraordinary deference. "What's the deal?" I asked, privately. "He's supposed to be very smart," I was told. I myself didn't understand a word that Mr. Kripke said during the entire semester. Not a single word. When I don't understand, it's hard for me to tell whether the speaker is spouting hot air, or I'm just not smart enough.
+There were about twenty students in "Modern American Poetry." Nineteen of them
+were regular; one was irregular. Whenever "Mr. Kripke," whom I remember as an
+exceedingly scruffy young fellow, signaled that he wanted to participate in the
+conversation, time stopped. Both the instructor and my classmates treated Mr.
+Kripke, who spoke in halting, awkward, and oracular tones, with extraordinary
+deference. "What's the deal?" I asked, privately. "He's supposed to be very
+smart," I was told. I myself didn't understand a word that Mr. Kripke said
+during the entire semester. Not a single word. When I don't understand, it's
+hard for me to tell whether the speaker is spouting hot air, or I'm just not
+smart enough.
 
-"Mr. Kripke" dropped from my consciousness. But just the other day, I noticed an advertisement in the NYRB for a colloquium honoring the achievement of Saul Kripke, Distinguished Professor at Princeton and at the CUNY Graduate Center.
+"Mr. Kripke" dropped from my consciousness. But just the other day, I noticed
+an advertisement in the NYRB for a colloquium honoring the achievement of Saul
+Kripke, Distinguished Professor at Princeton and at the CUNY Graduate Center.
 
-Here's the scoop: according to wikipedia, "a recent poll conducted among philosophers ranked Saul Kripke among the top ten most important philosophers of the past 200 years." Top ten?  This is no trivial praise. No wonder everyone stopped to listen. It was like having Michael Jordan in your gym class.
+Here's the scoop: according to wikipedia, "a recent poll conducted among
+philosophers ranked Saul Kripke among the top ten most important philosophers of
+the past 200 years." Top ten?  This is no trivial praise. No wonder everyone
+stopped to listen. It was like having Michael Jordan in your gym class.
 
-Kripke was apparently a prodigy who made important contributions to modal logic, whatever that is, while still in his teens. For example:
+Kripke was apparently a prodigy who made important contributions to modal
+logic, whatever that is, while still in his teens. For example:
 
-A Kripke model is a triple , where  is a Kripke frame, and  is a relation between nodes of W and modal formulas, such that:
+A Kripke model is a triple , where is a Kripke frame, and is a relation between
+nodes of W and modal formulas, such that:
 
 Which. frankly  I never doubted.
 
-Mr. Kripke had a couple of branches of logic (and mathematics) named after him before he entered college. No wonder I didn't understand (and still wouldn't) what he was struggling to say. The most recent philosopher I can understand is John Locke, and then only the easy parts.
+Mr. Kripke had a couple of branches of logic (and mathematics) named after him
+before he entered college. No wonder I didn't understand (and still wouldn't)
+what he was struggling to say. The most recent philosopher I can understand is
+John Locke, and then only the easy parts.
 
-In retrospect, that class in poetry had more drama than I gave it credit for. Here was John Sweeney, civilized and be-boutonniered, acquaintance of Yeats, friend to every important poet in America. And there was Saul Kripke, not only a mathematical and philosophical genius but also the son of "the only conservative rabbi in Omaha, Nebraska."
+In retrospect, that class in poetry had more drama than I gave it credit for.
+Here was John Sweeney, civilized and be-boutonniered, acquaintance of Yeats,
+friend to every important poet in America. And there was Saul Kripke, not
+only a mathematical and philosophical genius but also the son of "the only
+conservative rabbi in Omaha, Nebraska."
 
 And then there was me.

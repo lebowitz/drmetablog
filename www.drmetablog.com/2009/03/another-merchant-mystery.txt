@@ -1,22 +1,107 @@
 Title: Another Merchant Mystery
 Date: March 28, 2009
 
-In The Merchant of Venice, as it appears in one up-to-date modern edition, Portia's husband-to-be Bassanio is attended by a pair of friends named Solanio and Salerio. Yet In another equally authoritative edition of the play, the friends are named Solanio and Salerino -- and moreover, in this edition, a third and apparently separate character named Salerio enters half-way through the play. What's going on? Why the inconsistency?
+In The Merchant of Venice, as it appears in one up-to-date modern edition,
+Portia's husband-to-be Bassanio is attended by a pair of friends named Solanio
+and Salerio. Yet In another equally authoritative edition of the play, the
+friends are named Solanio and Salerino -- and moreover, in this edition, a third
+and apparently separate character named Salerio enters half-way through the
+play. What's going on? Why the inconsistency?
 
-First some onomastic context. Shakespeare could be quite casual about the naming of his characters. In The Second Part of King Henry the Fourth, there are two distinct figures, one named Bardolph and the other, for no good reason, Lord Bardolph. Two separate and very different Jacques complicate As You Like It, while in The Taming of the Shrew, easy-to-confuse Gremio and Grumio have needlessly perplexed generations of readers. Even in The Merchant of Venice, Shakespeare twice used the name Balthazar -- initially for a servant of Portia and then a second time, gratuitously, as the pseudonym that Portia adopts when she poses as a Paduan lawyer. But nowhere is Shakespeare quite so arbitrary as he is with the names of the two (or is it three?) Sallies.
+First some onomastic context. Shakespeare could be quite casual about the naming
+of his characters. In The Second Part of King Henry the Fourth, there are two
+distinct figures, one named Bardolph and the other, for no good reason, Lord
+Bardolph. Two separate and very different Jacques complicate As You Like
+It, while in The Taming of the Shrew, easy-to-confuse Gremio and Grumio have
+needlessly perplexed generations of readers. Even in The Merchant of Venice,
+Shakespeare twice used the name Balthazar -- initially for a servant of
+Portia and then a second time, gratuitously, as the pseudonym that Portia
+adopts when she poses as a Paduan lawyer. But nowhere is Shakespeare quite
+so arbitrary as he is with the names of the two (or is it three?) Sallies.
 
-Solanio, Salarino, and Salerio all inhabited Merchant when it first appeared in the 1600 quarto edition known to scholars as Q1, but whether Shakespeare meant there to be two characters or three is a matter of mystery. It's possible, in fact, that the playwright changed his mind in the course of writing. And what would be evidence for Shakespeare's indecision? Scholars have now determined that the first Merchant quarto was set in type by compositors who worked from a manuscript in Shakespeare's own handwriting -- an "autograph" -- that preserved evidence of the writer, quill in hand, in the very thick of invention. Shakespeare himself, it appears, vacillated about the names by which to denote the Sallies and also about how many of them there were to be. His waffling was reproduced by the compositors who dutifully set what they had in front of them -- first thoughts, re-thinkings, revisions, errors, and all. No wonder that modern editors have been baffled.
+Solanio, Salarino, and Salerio all inhabited Merchant when it first appeared in
+the 1600 quarto edition known to scholars as Q1, but whether Shakespeare meant
+there to be two characters or three is a matter of mystery. It's possible, in
+fact, that the playwright changed his mind in the course of writing. And what
+would be evidence for Shakespeare's indecision? Scholars have now determined
+that the first Merchant quarto was set in type by compositors who worked
+from a manuscript in Shakespeare's own handwriting -- an "autograph" --
+that preserved evidence of the writer, quill in hand, in the very thick of
+invention. Shakespeare himself, it appears, vacillated about the names by
+which to denote the Sallies and also about how many of them there were to be.
+His waffling was reproduced by the compositors who dutifully set what they
+had in front of them -- first thoughts, re-thinkings, revisions, errors, and
+all. No wonder that modern editors have been baffled.
 
-Here's a brief outline of a complicated textual tangle. In the stage direction with which the play begins, Shakespeare introduces two of the characters in question. "Enter... Salaryno, and Salanio."  In terms of personality, the pair seem to be conceived as twins or doubles. Both are excessively talkative -- long on enthusiasm and short on common sense. It appears that Shakespeare not only cast the two characters from the same psychological mold, but that he also decided to underline their similarity by giving them near-identical names -- and it is from this initial decision that the confusions springs. The trouble begins right there in the play's first scene. If Shakespeare had retained his original names and followed his customary procedure, he would have assigned Salaryno and Salanio the abbreviated speech headings "Sala." and "Sala." -- clearly a recipe for disaster. So before he had entered fifty lines into the scene, the playwright traded in one vowel for another and transformed Salanio into "Sola." It's a curiosity that in the first scene of The Merchant of Venice (as it appears in Q1), Salanio enters but Solanio exits. Oddly enough, the pattern repeats itself when Solanio re-appears in the subsequent scene in which the Sallies and Lorenzo plan Jessica's elopement. Solanio is once again Salanio in the initial stage direction and Solanio or "Sola." in the speech headings. Was Shakespeare irresolute or simply forgetful?
+Here's a brief outline of a complicated textual tangle. In the stage direction
+with which the play begins, Shakespeare introduces two of the characters in
+question. "Enter... Salaryno, and Salanio."  In terms of personality, the
+pair seem to be conceived as twins or doubles. Both are excessively talkative
+-- long on enthusiasm and short on common sense. It appears that Shakespeare
+not only cast the two characters from the same psychological mold, but that
+he also decided to underline their similarity by giving them near-identical
+names -- and it is from this initial decision that the confusions springs. The
+trouble begins right there in the play's first scene. If Shakespeare had
+retained his original names and followed his customary procedure, he would
+have assigned Salaryno and Salanio the abbreviated speech headings "Sala." and
+"Sala." -- clearly a recipe for disaster. So before he had entered fifty lines
+into the scene, the playwright traded in one vowel for another and transformed
+Salanio into "Sola." It's a curiosity that in the first scene of The Merchant
+of Venice (as it appears in Q1), Salanio enters but Solanio exits. Oddly
+enough, the pattern repeats itself when Solanio re-appears in the subsequent
+scene in which the Sallies and Lorenzo plan Jessica's elopement. Solanio is
+once again Salanio in the initial stage direction and Solanio or "Sola." in the
+speech headings. Was Shakespeare irresolute or simply forgetful?
 
-And now Salanio/Solanio's companion, Salarino, also begins to mutate. When Jessica steals from Shylock's house, she is accompanied by a character who bears the name Salerino -- that is, Salarino/Salaryno rechristened with a medial "e."  We're now a third of the way through the play, and readers have already encountered two characters, one of whom is named Salanio/Solanio and the other Salarino/Salarynol/Salerino. At this point things become truly messy. Jessica elopes with Lorenzo and they and their co-conspirators flee Venice for Belmont. Gratiano, first to arrive at the country retreat, greets Lorenzo and his bride Jessica and an accompanying friend. "But who comes here?" he inquires. "Lorenzo and his infidel?/ What, and my old Venetian friend Salerio?"  Who, we may ask, is this Salerio?  Readers who have been paying attention know that Gratiano doesn't have an "old Venetian friend" Salerio. Instead, he has two old Venetian friends -- Solanio and Salarino. Is Salerio a new character? Or, given the whimsicality of Q1's spellings, is he simply a orthographical variant of one of the Sallies with whom readers are already acquainted?
+And now Salanio/Solanio's companion, Salarino, also begins to mutate. When
+Jessica steals from Shylock's house, she is accompanied by a character who bears
+the name Salerino -- that is, Salarino/Salaryno rechristened with a medial
+"e."  We're now a third of the way through the play, and readers have already
+encountered two characters, one of whom is named Salanio/Solanio and the other
+Salarino/Salarynol/Salerino. At this point things become truly messy. Jessica
+elopes with Lorenzo and they and their co-conspirators flee Venice for Belmont.
+Gratiano, first to arrive at the country retreat, greets Lorenzo and his bride
+Jessica and an accompanying friend. "But who comes here?" he inquires. "Lorenzo
+and his infidel?/ What, and my old Venetian friend Salerio?"  Who, we may ask,
+is this Salerio?  Readers who have been paying attention know that Gratiano
+doesn't have an "old Venetian friend" Salerio. Instead, he has two old Venetian
+friends -- Solanio and Salarino. Is Salerio a new character? Or, given the
+whimsicality of Q1's spellings, is he simply a orthographical variant of one of
+the Sallies with whom readers are already acquainted?
 
-The action then returns immediately to Venice where a new scene begins with the following stage direction: "Enter the Iew (i.e. Shylock) and Salerio."  But Salerio, if he's anything more than a spelling error, can't be in both Venice and Belmont at the same time (in fact, he's just been commisssioned to carry a message from country to city). An editor vents her frustration: "Q1's Salerio cannot be right, as he is on the way back to Venice." Apparently Shakespeare himself was totally befuddled about whom he had named what and where he had sent whom. Certainly, the printers themselves were baffled. The three earliest editions of The Merchant of Venice each assign a different name to the Sally who remained in Venice in the company of Shylock. In Q1, as we've just noted, it's Salerio; in the lightly-edited second quarto (dated 1600, but actually a forgery printed in 1619), he is Salarino, and in the 1623 Folio, it's Solanio.
+The action then returns immediately to Venice where a new scene begins with the
+following stage direction: "Enter the Iew (i.e. Shylock) and Salerio."  But
+Salerio, if he's anything more than a spelling error, can't be in both Venice
+and Belmont at the same time (in fact, he's just been commisssioned to carry a
+message from country to city). An editor vents her frustration: "Q1's Salerio
+cannot be right, as he is on the way back to Venice." Apparently Shakespeare
+himself was totally befuddled about whom he had named what and where he had
+sent whom. Certainly, the printers themselves were baffled. The three earliest
+editions of The Merchant of Venice each assign a different name to the Sally
+who remained in Venice in the company of Shylock. In Q1, as we've just noted,
+it's Salerio; in the lightly-edited second quarto (dated 1600, but actually a
+forgery printed in 1619), he is Salarino, and in the 1623 Folio, it's Solanio.
 
-If Q1 did, as is supposed, follow Shakespeare's manuscript, then the playwright himself made the muddle, but who can say for certain that the confusion couldn't have been the fault of one of the various scribes, book holders, compositors, or editors through whose hands the manuscript might have passed.  In any case, the snarl wasn't untangled in Shakespeare's time, and it hasn't been sorted out since. Some editors give two characters, some three;  some name the characters Solanio and Salarino, and some add a Salerio to the mix.
+If Q1 did, as is supposed, follow Shakespeare's manuscript, then the playwright
+himself made the muddle, but who can say for certain that the confusion couldn't
+have been the fault of one of the various scribes, book holders, compositors,
+or editors through whose hands the manuscript might have passed.  In any case,
+the snarl wasn't untangled in Shakespeare's time, and it hasn't been sorted out
+since. Some editors give two characters, some three;  some name the characters
+Solanio and Salarino, and some add a Salerio to the mix.
 
-Why didn't Shakespeare simply create one all-purpose Sally? Because the duplication makes dramatic sense. When one of the Sallies attacks Shylock venemously, his bigotry might be dismissed as personal idiosyncrasy, but when two of them gang up, they speak not as individuals but as a chorus that expresses the nasty side of Venetian society.
+Why didn't Shakespeare simply create one all-purpose Sally? Because the
+duplication makes dramatic sense. When one of the Sallies attacks Shylock
+venemously, his bigotry might be dismissed as personal idiosyncrasy, but
+when two of them gang up, they speak not as individuals but as a chorus that
+expresses the nasty side of Venetian society.
 
-But why didn't Shakespeare himself fix the problem? Did he leave it to his actors to work it out on the stage, or was he a big-picture guy indifferent to such details? Perhaps he did sort it all out in a scribal or subsequent version of the play to which Elizabethan printers never gained access?
+But why didn't Shakespeare himself fix the problem? Did he leave it to his
+actors to work it out on the stage, or was he a big-picture guy indifferent to
+such details? Perhaps he did sort it all out in a scribal or subsequent version
+of the play to which Elizabethan printers never gained access?
 
-In any case, Shakespeare learned a lesson from his adventure with Salerio, Solanio and Salarino. When he next came to invent characters who were doubles or twins, he took the precaution to give them names that were impossible to confound: Rosencrantz and Guildenstern.
+In any case, Shakespeare learned a lesson from his adventure with Salerio,
+Solanio and Salarino. When he next came to invent characters who were doubles
+or twins, he took the precaution to give them names that were impossible to
+confound: Rosencrantz and Guildenstern.

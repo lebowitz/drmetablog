@@ -1,26 +1,57 @@
 Title: Fermat's Room;  Goldbach's Conjecture.
 Date: November 16, 2011
 
-I reached my peak with numbers when I was a child at P. S. 217 (under the tutelage of Mrs. McNulty).  Addition, subtraction, multiplication, division -- that's my area of expertise. Geometry, algebra, trig -- way too abstract for my pedestrian brain. Calculus and up -- not the least chance.
+I reached my peak with numbers when I was a child at P. S. 217 (under the
+tutelage of Mrs. McNulty).  Addition, subtraction, multiplication, division --
+that's my area of expertise. Geometry, algebra, trig -- way too abstract for my
+pedestrian brain. Calculus and up -- not the least chance.
 
 Arithmetic yes, mathematics no.
 
-Sometimes I try to read popularizations of mathematical theory, but I rarely make it beyond the first few sentences. Once symbols start to appear, I'm done. Especially Greek letters (in parentheses).
+Sometimes I try to read popularizations of mathematical theory, but I rarely
+make it beyond the first few sentences. Once symbols start to appear, I'm done.
+Especially Greek letters (in parentheses).
 
-The consolation prize is that I'm better than most people at mental arithmetic. I can do sums and approximations and other stuff in my head.
+The consolation prize is that I'm better than most people at mental arithmetic .
+I can do sums and approximations and other stuff in my head                    .
 
-Last night, we watched Fermat's Room. It's the kind of movie that is often called an "ingenious thriller."  It's also a member of a very small group of films that concern mathematics or mathematicians:  Good Will Hunting, Stand and Deliver, Antonia's Line, Straw Dogs.
+Last night, we watched Fermat's Room. It's the kind of movie that is often
+called an "ingenious thriller."  It's also a member of a very small group of
+films that concern mathematics or mathematicians:  Good Will Hunting, Stand and
+Deliver, Antonia's Line, Straw Dogs.
 
-Fermat's Room focuses on a possible proof of Christian Goldbach's Conjecture. I suppose that I should have known about Herr Goldbach and his guess, but I confess to ignorance. Goldbach's conjecture dates to 1742 and is apparently one of the oldest unsolved problems in number theory. In brief, Goldbach theorized that every even integer greater than 2 can be written as the sum of two prime numbers. For example, 10 is equal to 3 plus 7, 20 to 17 plus 3 (or 13 plus 7), and 100 resolves into 47 plus 53. Although no one has found a number that doesn't work, the conjecture can't be proved -- or, at least, hasn't been proved because there are some very large numbers out there. In Fermat's Room, two of the characters claim to have proved the conjecture. And they are consequently at odds.
+Fermat's Room focuses on a possible proof of Christian Goldbach's Conjecture.
+I suppose that I should have known about Herr Goldbach and his guess, but I
+confess to ignorance. Goldbach's conjecture dates to 1742 and is apparently one
+of the oldest unsolved problems in number theory. In brief, Goldbach theorized
+that every even integer greater than 2 can be written as the sum of two prime
+numbers. For example, 10 is equal to 3 plus 7, 20 to 17 plus 3 (or 13 plus
+7), and 100 resolves into 47 plus 53. Although no one has found a number that
+doesn't work, the conjecture can't be proved -- or, at least, hasn't been proved
+because there are some very large numbers out there. In Fermat's Room, two of
+the characters claim to have proved the conjecture. And they are consequently at
+odds.
 
-I had always thought of prime numbers as a kind of novelty or curiosity. But if primes are a component of all even numbers -- well, that's something.  Goldbach's idea raises the stature of primes in my perennially naive eyes -- in exactly the same way that the Fibonacci series became more important to me when I learned that the chambered nautilis is structured Fibonacci-wise.
+I had always thought of prime numbers as a kind of novelty or curiosity. But
+if primes are a component of all even numbers -- well, that's something. 
+Goldbach's idea raises the stature of primes in my perennially naive eyes -- in
+exactly the same way that the Fibonacci series became more important to me when
+I learned that the chambered nautilis is structured Fibonacci-wise.
 
-While watching the movie (which is a good one), I ran through the even numbers from 10 to 70.  Everything was in order. But why?
+While watching the movie (which is a good one), I ran through the even numbers
+from 10 to 70.  Everything was in order. But why?
 
-Later in the evening, I read that every even number can also be resolved into the sum of a semi-prime (which is the product of two primes) and a prime. So 100 equals 77 (7 time 11) and 23. I spent a restless  night summing, in my bed, semi-primes and primes from 10 to 100. All in order, once again.
+Later in the evening, I read that every even number can also be resolved into
+the sum of a semi-prime (which is the product of two primes) and a prime. So 100
+equals 77 (7 time 11) and 23. I spent a restless  night summing, in my bed,
+semi-primes and primes from 10 to 100. All in order, once again.
 
 Why should it be so?
 
-Whether it should be, or not, it is.  I remember that I used to answer my children and my students with the response, "That's not a why question?" Goldbach's Conjecture is a fact, not a why.
+Whether it should be, or not, it is.  I remember that I used to answer my
+children and my students with the response, "That's not a why question?"
+Goldbach's Conjecture is a fact, not a why.
 
-It's like gravity. I understand that the apple falls to the ground and that the moon doesn't head out into space and that it's harder to walk uphill than downhill. But I still don't understand why. It works, and that's enough. For me.
+It's like gravity. I understand that the apple falls to the ground and that
+the moon doesn't head out into space and that it's harder to walk uphill than
+downhill. But I still don't understand why. It works, and that's enough. For me.
