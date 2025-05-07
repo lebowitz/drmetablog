@@ -4,3 +4,5 @@ venv/
 # Google NGrams data files
 data/
 *.gz
+scrape
+venv
