@@ -1,0 +1,6 @@
+# Python virtual environment
+venv/
+
+# Google NGrams data files
+data/
+*.gz
