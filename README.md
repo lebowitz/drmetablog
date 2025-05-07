@@ -145,7 +145,23 @@ This approach demonstrates how word frequency data from large corpora can reveal
 
 ## Files Created
 - `topic_extraction.py`: Performs LDA topic modeling
+- `analyze_topics.py`: Analyzes topic distribution over time
 - `download_google_1grams.py`: Downloads Google Ngram data
 - `lexical_distinctiveness_simple.py`: Compares blog vocabulary with general English 
+- `rare_word_analysis_strict.py`: Identifies rare words excluding common derivatives
+- `truly_rare_words_fixed.py`: Focuses on genuinely rare specialized vocabulary
 - `output/distinctive_vocabulary.html`: HTML report of distinctive vocabulary
 - `output/distinctive_vocabulary.csv`: CSV data of distinctive vocabulary
+- `rare_word_analysis.md`: Analysis of highly unusual vocabulary
+
+## GitHub Pages
+
+This project includes a [GitHub Pages site](https://github.io/USERNAME/drmetablog) with full analysis results.
+
+Key findings from the [rare word analysis](rare_word_analysis.md) include the author's use of extremely uncommon vocabulary like:
+
+1. counterhuman (54 occurrences)
+2. blague (49 occurrences) - French for "joke"
+3. demotic (12 occurrences)
+4. doppelganger (11 occurrences)
+5. pandiculation (8 occurrences) - the act of stretching and yawning
