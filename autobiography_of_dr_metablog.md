@@ -1,6 +1,10 @@
-# Memories, Meanderings, and Malapropisms: An Autobiography of Sorts
+---
+layout: default
+title: Autobiography
+permalink: /autobiography_of_dr_metablog.html
+---
 
-[Visit Dr. Metablog](https://www.drmetablog.com/) | [Home](README.md) | **[Autobiography](autobiography_of_dr_metablog.md)** | [Portrait](portrait_of_dr_metablog.md) | [Topic Analysis](topic_analysis_report.md) | [Rare Word Analysis](rare_word_analysis.md) | [Lexical Distinctiveness](distinctive_vocabulary.md)
+# Memories, Meanderings, and Malapropisms: An Autobiography of Sorts
 
 ## By Vivian de St. Vrain (Dr. Metablog)
 

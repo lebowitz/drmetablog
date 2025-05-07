@@ -1,6 +1,10 @@
-# Topic Analysis of Dr. Metablog Posts
+---
+layout: default
+title: Topic Analysis
+permalink: /topic_analysis_report.html
+---
 
-[Visit Dr. Metablog](https://www.drmetablog.com/) | [Home](README.md) | [Autobiography](autobiography_of_dr_metablog.md) | [Portrait](portrait_of_dr_metablog.md) | **[Topic Analysis](topic_analysis_report.md)** | [Rare Word Analysis](rare_word_analysis.md) | [Lexical Distinctiveness](distinctive_vocabulary.md)
+# Topic Analysis of Dr. Metablog Posts
 
 This report presents the results of topic modeling performed on the Dr. Metablog blog corpus using Latent Dirichlet Allocation (LDA).
 
@@ -85,4 +89,4 @@ This analysis used Latent Dirichlet Allocation (LDA) with the following paramete
 
 The topic modeling analysis reveals Dr. Metablog as primarily a personal and literary blog with significant academic influences. The author shows deep knowledge of literature, particularly Shakespeare, while also engaging with contemporary issues in politics, film, and science. The prevalence of personal experience topics suggests the blog serves as both an intellectual platform and a personal journal.
 
-These findings align with and complement the [lexical distinctiveness analysis](distinctive_vocabulary.md) and [rare word analysis](rare_word_analysis.md), which similarly identified literature and academic language as defining characteristics of the blog.
+These findings align with and complement the [lexical distinctiveness analysis](distinctive_vocabulary.html) and [rare word analysis](rare_word_analysis.html), which similarly identified literature and academic language as defining characteristics of the blog.

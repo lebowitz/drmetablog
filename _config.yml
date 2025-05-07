@@ -1,3 +1,26 @@
-theme: jekyll-theme-cayman
 title: Dr. Metablog Analysis
-description: Text analysis of blog content using machine learning
+description: An analysis of the writings of Vivian de St. Vrain
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"

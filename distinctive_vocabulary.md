@@ -1,6 +1,10 @@
-# Lexical Distinctiveness Analysis of Dr. Metablog
+---
+layout: default
+title: Lexical Distinctiveness
+permalink: /distinctive_vocabulary.html
+---
 
-[Visit Dr. Metablog](https://www.drmetablog.com/) | [Home](README.md) | [Autobiography](autobiography_of_dr_metablog.md) | [Portrait](portrait_of_dr_metablog.md) | [Topic Analysis](topic_analysis_report.md) | [Rare Word Analysis](rare_word_analysis.md) | **[Lexical Distinctiveness](distinctive_vocabulary.md)**
+# Lexical Distinctiveness Analysis of Dr. Metablog
 
 This analysis examines words that appear significantly more frequently in Dr. Metablog's writing compared to general English usage, based on Google Books Ngram data.
 
@@ -90,6 +94,6 @@ The distinctiveness analysis reveals a strong literary and academic focus in Dr.
 
 The high distinctiveness scores for literary terms (many >20×) suggest the author is likely someone with advanced literary education and interests. The presence of specialized academic vocabulary confirms this profile.
 
-These findings are consistent with the [topic modeling analysis](topic_analysis_report.md), which identified literature, Shakespeare, and academic topics as major themes. The [rare word analysis](rare_word_analysis.md) further supports this profile, showing the author's use of specialized vocabulary generally only known to literary scholars.
+These findings are consistent with the [topic modeling analysis](topic_analysis_report.html), which identified literature, Shakespeare, and academic topics as major themes. The [rare word analysis](rare_word_analysis.html) further supports this profile, showing the author's use of specialized vocabulary generally only known to literary scholars.
 
 Together, these analyses paint a picture of an academically-oriented writer with deep literary knowledge and interests.

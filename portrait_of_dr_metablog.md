@@ -1,12 +1,19 @@
-# Portrait of Dr. Metablog
+---
+layout: default
+title: Portrait
+permalink: /portrait_of_dr_metablog.html
+---
 
-[Visit Dr. Metablog](https://www.drmetablog.com/) | [Home](README.md) | [Autobiography](autobiography_of_dr_metablog.md) | **[Portrait](portrait_of_dr_metablog.md)** | [Topic Analysis](topic_analysis_report.md) | [Rare Word Analysis](rare_word_analysis.md) | [Lexical Distinctiveness](distinctive_vocabulary.md)
+# Portrait of Dr. Metablog
 
 ## Vivian de St. Vrain: A Literary Portrait
 
 Based on his writings, blog posts, and autobiographical details, this portrait envisions Dr. Metablog as he might appear - a distinguished scholar with Brooklyn roots, Cornell education, and a lifetime of literary engagement.
 
-![Portrait of Dr. Metablog](output/dr_metablog_portrait.png)
+<div class="portrait-container">
+  <img src="output/dr_metablog_portrait.png" alt="Portrait of Dr. Metablog">
+  <div class="portrait-caption">Portrait of Vivian de St. Vrain based on his literary presence</div>
+</div>
 
 ## The Man Behind the Blog
 
@@ -26,3 +33,7 @@ Dr. Metablog describes himself as directionally challenged but intellectually cu
 ## The Visual Interpretation
 
 Creating a portrait of someone known only through their words presents a unique challenge. This rendering is not meant to be definitive but rather an artistic interpretation that captures the spirit of Dr. Metablog as revealed in his writings - a literary scholar with Brooklyn roots, wry humor, and a lifetime of reading and teaching.
+
+<div class="entry-footer">
+  Posted by Vivian de St. Vrain at 9:15 AM | Portraits | Cornell Memories | Academic Life | Permalink
+</div>
