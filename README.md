@@ -1,12 +1,13 @@
 # Dr. Metablog Analysis
 
-[Visit Dr. Metablog](https://www.drmetablog.com/) | [Home](README.md) | [Autobiography](autobiography_of_dr_metablog.md) | [Topic Analysis](topic_analysis_report.md) | [Rare Word Analysis](rare_word_analysis.md) | [Lexical Distinctiveness](distinctive_vocabulary.md)
+[Visit Dr. Metablog](https://www.drmetablog.com/) | **[Home](README.md)** | [Autobiography](autobiography_of_dr_metablog.md) | [Portrait](portrait_of_dr_metablog.md) | [Topic Analysis](topic_analysis_report.md) | [Rare Word Analysis](rare_word_analysis.md) | [Lexical Distinctiveness](distinctive_vocabulary.md)
 
 ## Text Analysis of Blog Content
 
 This repository contains analysis of the Dr. Metablog content, including:
 
 - **[Autobiography](autobiography_of_dr_metablog.md)** - A memoir written in Dr. Metablog's voice
+- **[Portrait](portrait_of_dr_metablog.md)** - A visual interpretation based on his writings
 - **[Topic Modeling](topic_analysis_report.md)** - LDA topic analysis of blog content
 - **[Rare Word Analysis](rare_word_analysis.md)** - Analysis of unusual and sophisticated vocabulary
 - **[Lexical Distinctiveness](distinctive_vocabulary.md)** - Words used more frequently than in general English
@@ -67,3 +68,7 @@ The most unusual words used in the blog include:
 ## Autobiography
 
 The [autobiography](autobiography_of_dr_metablog.md) offers a personal account of Dr. Metablog's life, written in his distinctive voice. From his Brooklyn childhood in the 1940s, through his years at Cornell University, to his later reflections on literature, Shakespeare, and aging, the memoir showcases the author's erudite wit and self-deprecating humor while providing context for the themes and style explored in the analysis.
+
+## Portrait
+
+The [portrait](portrait_of_dr_metablog.md) provides a visual interpretation of Vivian de St. Vrain based on details gleaned from his writings. The image captures his scholarly demeanor, his love of books, and the thoughtful expression characteristic of someone who has spent a lifetime engaged with literature and ideas.
