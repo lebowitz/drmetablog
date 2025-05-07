@@ -1,5 +1,7 @@
 # Topic Analysis of Dr. Metablog Posts
 
+[Home](README.md) | [Topic Analysis](topic_analysis_report.md) | [Rare Word Analysis](rare_word_analysis.md) | [Lexical Distinctiveness](distinctive_vocabulary.md)
+
 This report presents the results of topic modeling performed on the Dr. Metablog blog corpus using Latent Dirichlet Allocation (LDA).
 
 ## Overview

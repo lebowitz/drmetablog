@@ -1,5 +1,7 @@
 # Dr. Metablog Genuinely Rare Word Analysis
 
+[Home](README.md) | [Topic Analysis](topic_analysis_report.md) | [Rare Word Analysis](rare_word_analysis.md) | [Lexical Distinctiveness](distinctive_vocabulary.md)
+
 This analysis identifies truly rare, unusual, or specialized words used in the Dr. Metablog writings. The focus is on words that would generally only be familiar to specialists in literary theory, philosophy, or those with an exceptionally large vocabulary.
 
 ## Overview

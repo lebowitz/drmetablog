@@ -1,5 +1,7 @@
 # Dr. Metablog Analysis
 
+[Visit Dr. Metablog](https://www.drmetablog.com/) | [Home](README.md) | [Topic Analysis](topic_analysis_report.md) | [Rare Word Analysis](rare_word_analysis.md) | [Lexical Distinctiveness](distinctive_vocabulary.md)
+
 ## Text Analysis of Blog Content
 
 This repository contains analysis of the Dr. Metablog content, including:

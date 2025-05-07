@@ -1,5 +1,7 @@
 # Lexical Distinctiveness Analysis of Dr. Metablog
 
+[Home](README.md) | [Topic Analysis](topic_analysis_report.md) | [Rare Word Analysis](rare_word_analysis.md) | [Lexical Distinctiveness](distinctive_vocabulary.md)
+
 This analysis examines words that appear significantly more frequently in Dr. Metablog's writing compared to general English usage, based on Google Books Ngram data.
 
 ## Overview
