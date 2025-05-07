@@ -12,26 +12,26 @@ This analysis identifies truly rare, unusual, or specialized words used in the D
 
 | Rank | Word | Occurrences | Example Articles |
 |------|------|-------------|------------------|
-| 1 | counterhuman | 54 | cornell-english-then-and-now-3b.txt, cornelll-then-and-now-3-c.txt |
-| 2 | blague | 49 | can-we-forgive-anthony-trollope.txt, new-words-etruscan-related-new-words.txt |
-| 3 | demotic | 12 | edward-thomas.txt, colloquial-conversation-in-othello.txt |
-| 4 | doppelganger | 11 | susan.txt, what_we_read_in_1.txt, flirting-with-i.txt |
-| 5 | pandiculation | 8 | words-of-my-life-an-index.txt, pandiculation.txt |
-| 6 | simulacrum | 8 | sleeping-in-my-life.txt, worldseries2020.txt, shattered.txt |
-| 7 | nascent | 7 | cornelll-then-and-now-3-c.txt, an-irish-airman.txt |
-| 8 | virago | 6 | vaulting-variable-ramps.txt, words-of-my-life-joint.htm |
-| 9 | soporific | 6 | sleeping-in-my-life.txt, words-of-my-life-joint.htm |
-| 10 | prosaic | 5 | edward-thomas.txt, driftin1.html |
-| 11 | crepuscular | 3 | an-early-introduction-to-political-foreboding.txt |
-| 12 | anomie | 2 | an-early-introduction-to-political-foreboding.txt |
-| 13 | exegetical | 2 | cornell-english-caruth.txt |
-| 14 | anagnorisis | 2 | pandiculation.txt |
-| 15 | zeugma | 2 | shakespeare-exploits-the-oxymoron.txt |
-| 16 | antediluvian | 2 | advice-for-parents-part-one.txt |
-| 17 | lacunae | 2 | worldseries2020.txt |
-| 18 | sesquipedalian | 2 | am-i-done.txt |
-| 19 | thanatos | 2 | my-apology-by-zeus.html |
-| 20 | lacuna | 2 | cornell-english-then-and-now-6.html |
+| 1 | counterhuman | 54 | [Cornell English Then and Now](https://www.drmetablog.com/2025/01/cornell-english-then-and-now.html), [Cornell Then and Now 3C](https://www.drmetablog.com/2025/01/cornelll-then-and-now-3-c.html) |
+| 2 | blague | 49 | [Can We Forgive Anthony Trollope](https://www.drmetablog.com/2013/09/can-we-forgive-anthony-trollope.html), [New Words Etruscan](https://www.drmetablog.com/2013/09/new-words-etruscan-related-new-words.html) |
+| 3 | demotic | 12 | [Edward Thomas](https://www.drmetablog.com/2013/01/edward-thomas.html), [Colloquial Conversation in Othello](https://www.drmetablog.com/2013/06/colloquial-conversation-in-othello.html) |
+| 4 | doppelganger | 11 | [Susan](https://www.drmetablog.com/2014/06/susan.html), [What We Read](https://www.drmetablog.com/2006/01/what_we_read_in_1.html) |
+| 5 | pandiculation | 8 | [Words of My Life](https://www.drmetablog.com/2025/02/words-of-my-life-text.html), [Pandiculation](https://www.drmetablog.com/2016/05/pandiculation.html) |
+| 6 | simulacrum | 8 | [Sleeping in My Life](https://www.drmetablog.com/2022/10/sleeping-in-my-life.html), [World Series 2020](https://www.drmetablog.com/2020/10/worldseries2020.html) |
+| 7 | nascent | 7 | [Cornell Then and Now 3C](https://www.drmetablog.com/2025/01/cornelll-then-and-now-3-c.html), [An Irish Airman](https://www.drmetablog.com/2013/05/an-irish-airman.html) |
+| 8 | virago | 6 | [Vaulting Variable Ramps](https://www.drmetablog.com/2013/12/vaulting-variable-ramps.html), [Words of My Life](https://www.drmetablog.com/2024/01/words-of-my-life-joint.htm) |
+| 9 | soporific | 6 | [Sleeping in My Life](https://www.drmetablog.com/2022/10/sleeping-in-my-life.html), [Words of My Life](https://www.drmetablog.com/2024/01/words-of-my-life-joint.htm) |
+| 10 | prosaic | 5 | [Edward Thomas](https://www.drmetablog.com/2013/01/edward-thomas.html), [Driftin](https://www.drmetablog.com/2025/04/driftin1.html) |
+| 11 | crepuscular | 3 | [Political Foreboding](https://www.drmetablog.com/2013/10/an-early-introduction-to-political-foreboding.html) |
+| 12 | anomie | 2 | [Political Foreboding](https://www.drmetablog.com/2013/10/an-early-introduction-to-political-foreboding.html) |
+| 13 | exegetical | 2 | [Cornell English Caruth](https://www.drmetablog.com/2025/02/cornell-english-caruth.html) |
+| 14 | anagnorisis | 2 | [Pandiculation](https://www.drmetablog.com/2016/05/pandiculation.html) |
+| 15 | zeugma | 2 | [Shakespeare Exploits the Oxymoron](https://www.drmetablog.com/2014/02/shakespeare-exploits-the-oxymoron.html) |
+| 16 | antediluvian | 2 | [Advice for Parents](https://www.drmetablog.com/2013/10/advice-for-parents-part-one.html) |
+| 17 | lacunae | 2 | [World Series 2020](https://www.drmetablog.com/2020/10/worldseries2020.html) |
+| 18 | sesquipedalian | 2 | [Am I Done?](https://www.drmetablog.com/2014/09/am-i-done.html) |
+| 19 | thanatos | 2 | [My Apology by Zeus](https://www.drmetablog.com/2018/01/my-apology-by-zeus.html) |
+| 20 | lacuna | 2 | [Cornell English Then and Now 6](https://www.drmetablog.com/2025/04/cornell-english-then-and-now-6.html) |
 
 ## Definitions of Notable Rare Terms
 
