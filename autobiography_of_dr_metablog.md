@@ -6,6 +6,16 @@ permalink: /autobiography_of_dr_metablog.html
 
 # Memories, Meanderings, and Malapropisms: An Autobiography of Sorts
 
+## Table of Contents
+| Section | Description |
+|---------|-------------|
+| [Home](README.md) | Project home |
+| [Autobiography](autobiography_of_dr_metablog.md) | Dr. Metablog's memoir |
+| [Portrait](portrait_of_dr_metablog.md) | Visual representation |
+| [Topic Analysis](topic_analysis_report.md) | LDA topic modeling |
+| [Rare Word Analysis](rare_word_analysis.md) | Unusual vocabulary |
+| [Lexical Distinctiveness](distinctive_vocabulary.md) | Comparative language usage |
+
 ## By Vivian de St. Vrain (Dr. Metablog)
 
 ### Preface

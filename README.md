@@ -1,6 +1,16 @@
 # Dr. Metablog Analysis
 
-[Visit Dr. Metablog](https://www.drmetablog.com/) | **[Home](README.md)** | [Autobiography](autobiography_of_dr_metablog.md) | [Portrait](portrait_of_dr_metablog.md) | [Topic Analysis](topic_analysis_report.md) | [Rare Word Analysis](rare_word_analysis.md) | [Lexical Distinctiveness](distinctive_vocabulary.md)
+## Table of Contents
+
+| Analysis | Description |
+|----------|-------------|
+| [Visit Dr. Metablog](https://www.drmetablog.com/) | Original blog |
+| **[Home](README.md)** | Project home |
+| [Autobiography](autobiography_of_dr_metablog.md) | Dr. Metablog's memoir |
+| [Portrait](portrait_of_dr_metablog.md) | Visual representation |
+| [Topic Analysis](topic_analysis_report.md) | LDA topic modeling |
+| [Rare Word Analysis](rare_word_analysis.md) | Unusual vocabulary |
+| [Lexical Distinctiveness](distinctive_vocabulary.md) | Comparative language usage |
 
 ## Text Analysis of Blog Content
 
