@@ -6,6 +6,17 @@ permalink: /
 
 # Dr. Metablog Analysis
 
+## Table of Contents
+| Section | Description |
+|---------|-------------|
+| [Visit Dr. Metablog](https://www.drmetablog.com/) | Original blog |
+| **[Home]({{ '/' | relative_url }})** | Project home |
+| [Autobiography]({{ '/autobiography_of_dr_metablog.html' | relative_url }}) | Dr. Metablog's memoir |
+| [Portrait]({{ '/portrait_of_dr_metablog.html' | relative_url }}) | Visual representation |
+| [Topic Analysis]({{ '/topic_analysis_report.html' | relative_url }}) | LDA topic modeling |
+| [Rare Word Analysis]({{ '/rare_word_analysis.html' | relative_url }}) | Unusual vocabulary |
+| [Lexical Distinctiveness]({{ '/distinctive_vocabulary.html' | relative_url }}) | Comparative language usage |
+
 ## Text Analysis of Blog Content
 
 This repository contains analysis of the Dr. Metablog content, including:
