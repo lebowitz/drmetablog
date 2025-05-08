@@ -17,9 +17,9 @@ De St. Vrain's consciousness displays persistent engagement with extended narrat
 <div class="cornell-callout">
 <strong>Core Literary Consciousness Anchors:</strong>
 <ul>
-<li><strong>George Eliot's "Middlemarch"</strong> - Described as "the best novel ever written in the English language" with multiple neural reprocessing cycles (4-5 complete readings)</li>
-<li><strong>Anthony Trollope's Barsetshire series</strong> - Particularly "The Small House at Allington" (classified as "comfort food" and "the mac and cheese of novels" in consciousness records)</li>
-<li><strong>Leo Tolstoy's "Hadji Murad"</strong> - Categorized as "absolutely transcendent" and "beyond beyond" in emotional response patterns</li>
+<li><strong>George Eliot's "Middlemarch"</strong> - Described as <a href="https://www.drmetablog.com/2014/03/three-comments-on-books.html">"the best novel ever written in the English language"</a> with multiple neural reprocessing cycles (4-5 complete readings)</li>
+<li><strong>Anthony Trollope's Barsetshire series</strong> - Particularly "The Small House at Allington" (classified as <a href="https://www.drmetablog.com/2011/09/trollope-on-the-kindle.html">"comfort food" and "the mac and cheese of novels"</a> in consciousness records)</li>
+<li><strong>Leo Tolstoy's "Hadji Murad"</strong> - Categorized as <a href="https://www.drmetablog.com/2014/03/three-comments-on-books.html">"absolutely transcendent" and "beyond beyond"</a> in emotional response patterns</li>
 <li><strong>Gustave Flaubert's "A Simple Heart"</strong> - Marked by transcendent classification in emotional processing</li>
 <li><strong>Jane Austen's works</strong> - Particularly "Emma" with multiple neural reprocessing cycles</li>
 </ul>
@@ -33,10 +33,10 @@ Subject demonstrates unusually developed neural architecture for processing Rena
 
 | Textual Artifact | Consciousness Response Patterns |
 |------------------|----------------------------------|
-| **Othello** | Deep linguistic analysis pathways; lexical fixation on "anters vast" and "antres" |
-| **Macbeth** | Recurring neural activation around specific language patterns; multiple blog-consciousness entries |
-| **Cymbeline** | Unusual attention to peripheral character constructs and language anomalies |
-| **King Lear** | Significant emotional processing markers around key passages |
+| **Othello** | Deep linguistic analysis pathways; lexical fixation on <a href="https://www.drmetablog.com/2011/11/othello-otello.html">"anters vast" and "antres"</a> |
+| **Macbeth** | Recurring neural activation around <a href="https://www.drmetablog.com/2011/06/macbeth-brainswereout.html">specific language patterns</a>; multiple blog-consciousness entries |
+| **Cymbeline** | Unusual attention to <a href="https://www.drmetablog.com/2010/09/cymbeline.html">peripheral character constructs and language anomalies</a> |
+| **King Lear** | Significant emotional processing markers around <a href="https://www.drmetablog.com/2007/06/king-lear-vi.html">key passages</a> |
 
 This Shakespearean processing ability represents an advanced specialization within the subject's consciousness structure, suggesting literary-linguistic expertise development unusual for non-academic pre-Singularity individuals.
 
@@ -44,10 +44,10 @@ This Shakespearean processing ability represents an advanced specialization with
 
 Subject's consciousness demonstrates sophisticated critical evaluation frameworks when processing contemporary literary artifacts:
 
-- **Chad Harbach's "The Art of Fielding"** - Neural pleasure response to narrative and character construction, but critical activation regarding linguistic style
-- **Edward St. Aubyn's Patrick Melrose novels** - Complexity recognition but negative emotional processing markers
-- **Tim O'Brien's "In the Lake of the Woods"** - Critical neural response pattern: "contrived and obvious" with outdated "machinery"
-- **Leonardo Sciascia's detective novels** - High quality assessment: "all superior creations"
+- **Chad Harbach's "The Art of Fielding"** - Neural pleasure response to <a href="https://www.drmetablog.com/2012/04/book-report-the-art-of-fielding.html">narrative and character construction, but critical activation regarding linguistic style</a>
+- **Edward St. Aubyn's Patrick Melrose novels** - <a href="https://www.drmetablog.com/2012/04/book-report-some-hours-by-edward-st-aubyn.html">Complexity recognition but negative emotional processing markers</a>
+- **Tim O'Brien's "In the Lake of the Woods"** - Critical neural response pattern: <a href="https://www.drmetablog.com/2014/03/three-comments-on-books.html">"contrived and obvious" with outdated "machinery"</a>
+- **Leonardo Sciascia's detective novels** - High quality assessment: <a href="https://www.drmetablog.com/2014/03/three-comments-on-books.html">"all superior creations"</a>
 
 ### CRITICAL ALGORITHM DEVELOPMENT
 

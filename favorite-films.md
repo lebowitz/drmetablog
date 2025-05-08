@@ -17,12 +17,12 @@ De St. Vrain exhibited a persistent intellectual preoccupation with cinematic de
 <div class="cornell-callout">
 <strong>Core Analysis Specimens:</strong>
 <ul>
-<li><strong>The Crooked Way</strong> (1949) - Early noir exploration of veteran amnesia with John Payne</li>
-<li><strong>Spellbound</strong> (1945) - Hitchcock's psychoanalytic approach to memory loss</li>
-<li><strong>Random Harvest</strong> - Romantic narrative of identity reconstruction</li>
-<li><strong>Mirage</strong> - Psychological thriller with consciousness fragmentation</li>
-<li><strong>Somewhere in the Night</strong> (1946) - Post-war identity crisis exploration</li>
-<li><strong>I Love You Again</strong> (1940) - Comedy treatment of memory dissolution</li>
+<li><strong>The Crooked Way</strong> (1949) - <a href="https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.htm">Early noir exploration of veteran amnesia with John Payne</a></li>
+<li><strong>Spellbound</strong> (1945) - <a href="https://www.drmetablog.com/2012/02/amnesia-on-film-spellbound.html">Hitchcock's psychoanalytic approach to memory loss</a></li>
+<li><strong>Random Harvest</strong> - <a href="https://www.drmetablog.com/2011/03/random-harvest-amnesia.html">Romantic narrative of identity reconstruction</a></li>
+<li><strong>Mirage</strong> - <a href="https://www.drmetablog.com/2012/10/amnesia-on-film-mirage.html">Psychological thriller with consciousness fragmentation</a></li>
+<li><strong>Somewhere in the Night</strong> (1946) - <a href="https://www.drmetablog.com/2012/04/amnesia-on-film-somewhere-in-the-night-1946.html">Post-war identity crisis exploration</a></li>
+<li><strong>I Love You Again</strong> (1940) - <a href="https://www.drmetablog.com/2012/12/amnesia-on-film-i-love-you-again-1940.html">Comedy treatment of memory dissolution</a></li>
 </ul>
 </div>
 
@@ -34,9 +34,9 @@ De St. Vrain showed consistent neural activation when engaging with mid-20th cen
 
 | Film Artifact | Key Neural Response Patterns |
 |---------------|------------------------------|
-| **Laura** (1944) | "Stylish noir mystery that maintains its fascination" |
-| **Out of the Past** (1947) | "Superior noir with existential underpinnings" |
-| **Angel Face** (1953) | "Superior noir" - brief but emphatic neural response |
+| **Laura** (1944) | <a href="https://www.drmetablog.com/2011/02/more-noir-otto-premingers-laura-1944.html">"Stylish noir mystery that maintains its fascination"</a> |
+| **Out of the Past** (1947) | <a href="https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.htm">"Superior noir with existential underpinnings"</a> |
+| **Angel Face** (1953) | <a href="https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.htm">"Superior noir"</a> - brief but emphatic neural response |
 | **Pitfall** (1948) | Analysis of moral ambiguity and consequence |
 | **Deadline at Dawn** (1946) | Appreciation of urban night setting and temporal compression |
 
@@ -44,12 +44,12 @@ De St. Vrain showed consistent neural activation when engaging with mid-20th cen
 
 Subject exhibited consistent negative cognitive responses to specific cinematic elements:
 
-- Car chase sequences (excessive neural fatigue)
-- Gratuitous violence (ethical rejection response)
-- Emotional manipulation via non-diegetic music (resistance to manufactured affect)
-- Child actors (authenticity skepticism)
+- <a href="https://www.drmetablog.com/2014/10/nobody-cares.html">Car chase sequences</a> (excessive neural fatigue)
+- <a href="https://www.drmetablog.com/2014/10/nobody-cares.html">Gratuitous violence</a> (ethical rejection response)
+- <a href="https://www.drmetablog.com/2009/04/classic-announcerese.html">Emotional manipulation via non-diegetic music</a> (resistance to manufactured affect)
+- <a href="https://www.drmetablog.com/2008/08/nanny-state-nan.html">Child actors</a> (authenticity skepticism)
 - Horror film conventions (rejection of supernatural premise)
-- Politically motivated criticism (intellectual independence marker)
+- <a href="https://www.drmetablog.com/2008/03/pmy-positionsp.html">Politically motivated criticism</a> (intellectual independence marker)
 
 ### ACADEMIC ENGAGEMENT QUESTIONS
 
