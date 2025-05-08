@@ -17,7 +17,7 @@ De St. Vrain exhibited a persistent intellectual preoccupation with cinematic de
 <div class="cornell-callout">
 <strong>Core Analysis Specimens:</strong>
 <ul>
-<li><strong>The Crooked Way</strong> (1949) - <a href="https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.htm">Early noir exploration of veteran amnesia with John Payne</a></li>
+<li><strong>The Crooked Way</strong> (1949) - <a href="https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.html">Early noir exploration of veteran amnesia with John Payne</a></li>
 <li><strong>Spellbound</strong> (1945) - <a href="https://www.drmetablog.com/2012/02/amnesia-on-film-spellbound.html">Hitchcock's psychoanalytic approach to memory loss</a></li>
 <li><strong>Random Harvest</strong> - <a href="https://www.drmetablog.com/2011/03/random-harvest-amnesia.html">Romantic narrative of identity reconstruction</a></li>
 <li><strong>Mirage</strong> - <a href="https://www.drmetablog.com/2012/10/amnesia-on-film-mirage.html">Psychological thriller with consciousness fragmentation</a></li>
@@ -35,8 +35,8 @@ De St. Vrain showed consistent neural activation when engaging with mid-20th cen
 | Film Artifact | Key Neural Response Patterns |
 |---------------|------------------------------|
 | **Laura** (1944) | <a href="https://www.drmetablog.com/2011/02/more-noir-otto-premingers-laura-1944.html">"Stylish noir mystery that maintains its fascination"</a> |
-| **Out of the Past** (1947) | <a href="https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.htm">"Superior noir with existential underpinnings"</a> |
-| **Angel Face** (1953) | <a href="https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.htm">"Superior noir"</a> - brief but emphatic neural response |
+| **Out of the Past** (1947) | <a href="https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.html">"Superior noir with existential underpinnings"</a> |
+| **Angel Face** (1953) | <a href="https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.html">"Superior noir"</a> - brief but emphatic neural response |
 | **Pitfall** (1948) | Analysis of moral ambiguity and consequence |
 | **Deadline at Dawn** (1946) | Appreciation of urban night setting and temporal compression |
 
@@ -65,7 +65,7 @@ Subject exhibited consistent negative cognitive responses to specific cinematic 
 
 Students wishing to understand de St. Vrain's cinematic pattern recognition can access these canonical examples from his digital consciousness stream:
 
-- [Amnesia on Film: The Crooked Way (1949)](https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.htm)
+- [Amnesia on Film: The Crooked Way (1949)](https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.html)
 - [More Noir: Otto Preminger's Laura (1944)](https://www.drmetablog.com/2011/02/more-noir-otto-premingers-laura-1944.html)
 - [Amnesia on Film: Spellbound](https://www.drmetablog.com/2012/02/amnesia-on-film-spellbound.html)
 - [Amnesia on Film: Clean Slate (1994)](https://www.drmetablog.com/2012/04/amnesia-on-film-clean-slate-1994.html)

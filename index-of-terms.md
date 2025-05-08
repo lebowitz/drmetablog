@@ -59,7 +59,7 @@ Reference in Subject's educational development narrative
 Persistent intellectual preoccupation; identity fragmentation theme  
 See [Film Analysis Module]({{ '/favorite-films.html' | relative_url }}) for comprehensive documentation  
 Notable instances:  
-[The Crooked Way (1949)](https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.htm)  
+[The Crooked Way (1949)](https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.html)  
 [Spellbound (1945)](https://www.drmetablog.com/2012/02/amnesia-on-film-spellbound.html)  
 [Unknown (2011)](https://www.drmetablog.com/2011/09/amnesia-on-film-unknown-2011.html)  
 [My Kind of Amnesia](https://www.drmetablog.com/2014/04/my-kind-of-amnesia.html)

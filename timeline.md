@@ -180,7 +180,7 @@ The subject developed an extensive analytical framework for films featuring memo
 
 **Key Neural Pathways:**
 - **Amnesia Narrative Typology:** Classification system for memory disruption plots
-  - [Amnesia on Film: The Crooked Way (1949)](https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.htm)
+  - [Amnesia on Film: The Crooked Way (1949)](https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.html)
   - [Amnesia on Film: Spellbound (1945)](https://www.drmetablog.com/2012/02/amnesia-on-film-spellbound.html)
   - [Amnesia on Film: Unknown (2011)](https://www.drmetablog.com/2011/09/amnesia-on-film-unknown-2011.html)
 
