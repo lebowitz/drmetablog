@@ -53,7 +53,7 @@ Reflections on life progression phases and mortality consciousness
 **Altschul, Mrs.**  
 High school mathematics teacher described as "angry as all hell"  
 Reference in Subject's educational development narrative  
-[Autobiography of Dr. Metablog](https://www.drmetablog.com/autobiography_of_dr_metablog.html)
+[Educational Neural Pattern Documentation]({{ '/timeline.html' | relative_url }})
 
 **Amnesia in Films**  
 Persistent intellectual preoccupation; identity fragmentation theme  
@@ -212,7 +212,7 @@ Shakespeare analytical fixation
 Primary consciousness subject  
 Brooklyn-born Jewish scholar, Cornell graduate (1960)  
 Shakespeare specialist, literary critic, blog author  
-[Autobiography of Dr. Metablog](https://www.drmetablog.com/autobiography_of_dr_metablog.html)  
+[Subject Timeline]({{ '/timeline.html' | relative_url }})  
 [Portrait of Dr. Metablog](https://www.drmetablog.com/portrait_of_dr_metablog.html)
 
 **Dentistry**  
