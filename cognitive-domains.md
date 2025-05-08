@@ -20,7 +20,7 @@ This specialized analytical module provides students with a comprehensive topogr
 Subject demonstrates a neural architecture heavily weighted toward literary analysis (24.6% of total cognitive activity). This analysis manifests across multiple subcategories:
 
 #### Novel Form Analysis
-- [Austen, Jane](/index-of-terms.html#austen-jane-1775-1817) - British novelist of particular interest (79.2× frequency vs. general usage)
+- [Austen, Jane](/index-of-terms.html#austen-jane-1775-1817) - British novelist of particular interest (79.2ï¿½ frequency vs. general usage)
 - [Dickens, Charles](/index-of-terms.html#dickens-charles-1812-1870) - Recurring analytical fixation 
 - [Eliot, George](/index-of-terms.html#eliot-george-mary-ann-evans-1819-1880) - Creator of "the best novel ever written in English"
 - [Middlemarch](/index-of-terms.html#middlemarch-george-eliot) - Peak literary appreciation marker
@@ -41,10 +41,10 @@ Subject demonstrates a neural architecture heavily weighted toward literary anal
 
 #### Literary Theory
 - [Criticism (Literary/Film)](/index-of-terms.html#criticism-literaryfilm) - Meta-analytical framework
-- Literary Formalism - Pattern recognition methodology
-- Post-structural Analysis - Systematic deconstruction techniques
-- New Criticism - Close reading methodologies
-- Reader Response - Interpretive variance examination
+- [Literary Formalism](https://www.drmetablog.com/2007/03/authorship-1.html) - Pattern recognition methodology
+- [Post-structural Analysis](https://www.drmetablog.com/2011/10/about-about-schmidt.html) - Systematic deconstruction techniques
+- [New Criticism](https://www.drmetablog.com/2014/03/three-comments-on-books.html) - Close reading methodologies
+- [Reader Response](https://www.drmetablog.com/2013/09/can-we-forgive-anthony-trollope.html) - Interpretive variance examination
 
 ### Film Studies 
 {: #film-studies}
@@ -53,26 +53,26 @@ Subject's cinematic analysis patterns (4.3% of cognitive architecture) demonstra
 
 #### Amnesia Narratives
 - [Amnesia in Films](/index-of-terms.html#amnesia-in-films) - Identity fragmentation examinations
-- [The Crooked Way (1949)](/index-of-terms.html#amnesia-in-films) - Post-war trauma identity disruption
-- [Spellbound (1945)](/index-of-terms.html#amnesia-in-films) - Psychoanalytic approach to memory
-- [Unknown (2011)](/index-of-terms.html#amnesia-in-films) - Contemporary technological displacement
+- [The Crooked Way (1949)](https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.html) - Post-war trauma identity disruption
+- [Spellbound (1945)](https://www.drmetablog.com/2012/02/amnesia-on-film-spellbound.html) - Psychoanalytic approach to memory
+- [Unknown (2011)](https://www.drmetablog.com/2011/09/amnesia-on-film-unknown-2011.html) - Contemporary technological displacement
 
 #### Film Noir Aesthetics
 - [Film Noir](/index-of-terms.html#film-noir) - Shadow/light contrast analysis
-- [Otto Preminger](/index-of-terms.html#preminger-otto-1905-1986) - Directorial study
-- [Laura (1944)](/index-of-terms.html#film-noir) - Case study in desire projection
-- [Out of the Past](/index-of-terms.html#film-noir) - Fatalistic narrative structure
+- [Otto Preminger](https://www.drmetablog.com/2011/02/more-noir-otto-premingers-laura-1944.html) - Directorial study
+- [Laura (1944)](https://www.drmetablog.com/2005/12/otto_premingers.html) - Case study in desire projection
+- [Out of the Past](https://www.drmetablog.com/2017/01/poor-robert-mitchum-out-of-the-past-angel-face.html) - Fatalistic narrative structure
 
 #### Western Cinema
-- [Rio Grande (1950)](/index-of-terms.html#western-films) - John Ford frontier mythology
-- [The Comancheros (1961)](/index-of-terms.html#western-films) - Cultural contact zone analysis
-- [Man of the West](/index-of-terms.html#western-films) - Masculinity deconstruction
-- [Tom Horn](/index-of-terms.html#western-films) - Historical revisionism study
+- [Rio Grande (1950)](https://www.drmetablog.com/2011/01/rio-grande-1950-then-and-now.html) - John Ford frontier mythology
+- [The Comancheros (1961)](https://www.drmetablog.com/2019/04/the-comancheros-1961.html) - Cultural contact zone analysis
+- [Man of the West](https://www.drmetablog.com/2019/01/man-of-the-west-.html) - Masculinity deconstruction
+- [Tom Horn](https://www.drmetablog.com/2019/01/tomhorn.html) - Historical revisionism study
 
 #### Art Cinema
-- Ingmar Bergman Analysis - Existential visual grammar
-- Persona (1966) - Identity multiplicity examination
-- The Seventh Seal (1957) - Medieval allegory analysis
+- [Ingmar Bergman Analysis](https://www.drmetablog.com/2013/02/bergmans-the-seventh-seal.html) - Existential visual grammar
+- [Persona (1966)](https://www.drmetablog.com/2013/01/persona.html) - Identity multiplicity examination
+- [The Seventh Seal (1957)](https://www.drmetablog.com/2013/02/bergmans-the-seventh-seal.html) - Medieval allegory analysis
 
 ### Linguistic Phenomena
 {: #linguistic-phenomena}
@@ -80,12 +80,12 @@ Subject's cinematic analysis patterns (4.3% of cognitive architecture) demonstra
 Subject's lexical obsession patterns (16.7% of neural architecture) demonstrate unusually high interest in language anomalies:
 
 #### Rare Vocabulary Collection
-- ["Pandiculation"](/index-of-terms.html#pandiculation) - Stretching/yawning simultaneity (8 occurrences)
-- ["Counterhuman"](/index-of-terms.html#rare-words) - Subject's most distinctive term (54 occurrences)
-- ["Blague"](/index-of-terms.html#french-words) - French-derived humor reference (49 occurrences)
-- ["Boustrophedonia"](/index-of-terms.html#rare-words) - Writing direction alternation (12 occurrences)
-- ["Demotic"](/index-of-terms.html#rare-words) - Popular language register (12 occurrences)
-- ["Doppelganger"](/index-of-terms.html#rare-words) - Identity doubling concept (11 occurrences)
+- ["Pandiculation"](https://www.drmetablog.com/sample-post.html) - Stretching/yawning simultaneity (8 occurrences)
+- ["Counterhuman"](https://www.drmetablog.com/rare_word_analysis.html) - Subject's most distinctive term (54 occurrences)
+- ["Blague"](https://www.drmetablog.com/2007/04/an_informal_sur.html) - French-derived humor reference (49 occurrences)
+- ["Boustrophedonia"](https://www.drmetablog.com/2007/05/boustrophedonia.html) - Writing direction alternation (12 occurrences)
+- ["Demotic"](https://www.drmetablog.com/distinctive_vocabulary.html) - Popular language register (12 occurrences)
+- ["Doppelganger"](https://www.drmetablog.com/2007/12/rothallen-doppe.html) - Identity doubling concept (11 occurrences)
 
 #### Etymology Studies
 - [Etymology](/index-of-terms.html#etymology) - Word origin fixation pattern
@@ -190,10 +190,10 @@ Cinematic analysis pattern extending beyond memory disruption fixation. Demonstr
 **Neural Weight**: Moderate (4.8% of cognitive pattern)
 
 **Key Artifacts**:
-- "Horse Feathers (1932) Everyone Says I Love You (1996)" (2010/10)
-- "Persona" (2013/01)
-- "Bergman's The Seventh Seal" (2013/02)
-- "Susanne Bier: Love Is All You Need/The Bald Hairdresser (2013)" (2015/02)
+- [Horse Feathers (1932) Everyone Says I Love You (1996)](https://www.drmetablog.com/2010/10/horse-feathers-1932-everyone-says-i-love-you-1996.html)
+- [Persona](https://www.drmetablog.com/2013/01/persona.html)
+- [Bergman's The Seventh Seal](https://www.drmetablog.com/2013/02/bergmans-the-seventh-seal.html)
+- [Susanne Bier: Love Is All You Need/The Bald Hairdresser (2013)](https://www.drmetablog.com/2015/02/susanne-bier-love-is-all-you-need-the-bald-hairdresser-2013.html)
 
 ### Philosophy of Language
 Linguistic meaning analysis pattern with metaphysical implications. Explores relationship between signifier and signified, linguistic determinism, and social construction of meaning.
@@ -201,11 +201,11 @@ Linguistic meaning analysis pattern with metaphysical implications. Explores rel
 **Neural Weight**: Significant (6.2% of cognitive pattern)
 
 **Key Artifacts**:
-- "On Noise" (2009/09)
-- "Precision in Language" (2012/09)
-- "One's Name" (2015/03)
-- "Frequentatives" (2020/01)
-- "Thing Is" (2005/12)
+- [On Noise](https://www.drmetablog.com/2009/09/on-noise.html)
+- [Precision in Language](https://www.drmetablog.com/2012/09/precision-in-language.html)
+- [One's Name](https://www.drmetablog.com/2015/03/ones-name.html)
+- [Frequentatives](https://www.drmetablog.com/2020/01/frequentatives.html)
+- [Thing Is](https://www.drmetablog.com/2005/12/thing_is.html)
 
 ### Mortality Consciousness
 Death awareness pattern with temporal acceleration perception in later life phase. Demonstrates non-religious meaning-making framework and ironic distancing mechanism.
@@ -213,11 +213,11 @@ Death awareness pattern with temporal acceleration perception in later life phas
 **Neural Weight**: Increasing (9.8% of late-phase cognitive pattern)
 
 **Key Artifacts**:
-- "Dying, etc." (2008/05)
-- "Life Boon or Thorn" (2012/05)
-- "Actively Dying" (2009/01)
-- "Somnus Imago Mortis" (2016/01)
-- "End of the World" (2020/02)
+- [Dying, etc.](https://www.drmetablog.com/2008/05/dying-etc.html)
+- [Life Boon or Thorn](https://www.drmetablog.com/2012/05/life-boon-or-thorn.html)
+- [Actively Dying](https://www.drmetablog.com/2009/01/actively-dying.html)
+- [Somnus Imago Mortis](https://www.drmetablog.com/2016/01/somnus-imago-mortis.html)
+- [End of the World](https://www.drmetablog.com/2020/02/endoftheworld.html)
 
 ## COGNITIVE ARCHITECTURE VISUALIZATION
 
