@@ -191,7 +191,7 @@ Educational imprinting environment (1956-1960)
 Meta-analytical framework development  
 [Three Comments on Books](https://www.drmetablog.com/2014/03/three-comments-on-books.html)  
 [Can We Forgive Anthony Trollope](https://www.drmetablog.com/2013/09/can-we-forgive-anthony-trollope.html)  
-See [Literary Analysis Module]({{ '/recommended-reading.html' | relative_url }}) for comprehensive documentation
+See [Literary Analysis section](#literary-analysis) for comprehensive documentation
 
 **Cussen, Gabriel**  
 Latin teacher at Erasmus Hall High School, described as "even older"  

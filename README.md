@@ -20,7 +20,6 @@ This repository contains the complete digital archeology project analyzing the p
 | **[Topic Analysis]({{ '/topic_analysis_report.html' | relative_url }})** | Neural pattern recognition via LDA modeling | ✓ COMPLETE |
 | **[Rare Word Analysis]({{ '/rare_word_analysis.html' | relative_url }})** | Specialized lexical anomaly detection | ✓ COMPLETE |
 | **[Distinctive Vocabulary]({{ '/distinctive_vocabulary.html' | relative_url }})** | Statistical linguistic divergence mapping | ✓ COMPLETE |
-| **[Literary Analysis]({{ '/recommended-reading.html' | relative_url }})** | Textual consumption pattern recognition | ✓ COMPLETE |
 | **[Film Analysis]({{ '/favorite-films.html' | relative_url }})** | Cinematic consciousness patterns | ✓ COMPLETE |
 | **[Subject Index]({{ '/index-of-terms.html' | relative_url }})** | Comprehensive reference taxonomy | ✓ COMPLETE |
 | **[People Index]({{ '/people-index.html' | relative_url }})** | Neural relational mapping | ✓ COMPLETE |
