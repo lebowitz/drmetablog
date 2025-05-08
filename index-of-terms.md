@@ -12,6 +12,17 @@ This specialized module provides an organized taxonomy of Subject de St. Vrain's
 
 *Students are advised to utilize Neural Tag Integration Protocols when accessing the below information structure.*
 
+### Navigation System
+- [A](#a) • [B](#b) • [C](#c) • [D](#d) • [E](#e) • [F](#f) • [G](#g) • [H](#h) • 
+[J](#j) • [K](#k) • [L](#l) • [M](#m) • [N](#n) • [O](#o) • [P](#p) • [Q](#q) • 
+[R](#r) • [S](#s) • [T](#t) • [V](#v) • [W](#w) • [Z](#z)
+
+### Major Cognitive Domains
+- [Literary Analysis](#literary-analysis) • [Film Studies](#film-studies) • [Linguistic Phenomena](#linguistic-phenomena) • [Biographical Elements](#biographical-elements) • [Shakespeare Studies](#shakespeare-studies)
+
+### Concept Interconnection Visualization
+*Access the [Neural Pathway Map](/neural-map.html) for three-dimensional representation of Subject's cognitive architecture*
+
 ---
 
 ## A
@@ -59,6 +70,20 @@ Biological observation patterns with taxonomic classification interest
 [Large Mammal News](https://www.drmetablog.com/2013/01/large-mammal-news-.html)  
 [Six-Leggedness](https://www.drmetablog.com/2014/10/six-leggedness.html)  
 [Sheep News](https://www.drmetablog.com/2010/10/sheep-news.html)
+
+**American Politics**  
+Sociopolitical governance pattern analysis with historical-temporal comparisons  
+[Obama and Number 44](https://www.drmetablog.com/2008/11/obama-and-numbe.html)  
+[Politicians/Stereotyping](https://www.drmetablog.com/2014/01/politiciansstereotyping.html)  
+[Occupied](https://www.drmetablog.com/2011/12/occupied.html)  
+[Conversation with Our Congressman](https://www.drmetablog.com/2011/02/conversation-with-our-congressman.html)
+
+**Astronomy and Science**  
+Cosmological scale contemplation pattern with existential implications  
+[Earthquakes](https://www.drmetablog.com/2010/04/earthquakes.html)  
+[End of the World](https://www.drmetablog.com/2020/02/endoftheworld.html)  
+[Insects, Drugs, Science Fiction](https://www.drmetablog.com/2010/02/insects-drugs-science-fiction.html)  
+[Biophilosophy](https://www.drmetablog.com/2011/02/biophilosophy.html)
 
 **Austen, Jane (1775-1817)**  
 British novelist of particular interest to Subject  
@@ -454,6 +479,13 @@ Onomastic pattern recognition
 [More NBA Onomastics](https://www.drmetablog.com/2014/12/more-nba-onomastics.html)  
 [Alliterative NBA All-Stars](https://www.drmetablog.com/2010/02/alliterative-nba-allstars.html)
 
+**Nature Observations**  
+Biological ecosystem documentation pattern with taxonomic detail focus  
+[Bats](https://www.drmetablog.com/2015/04/bats.html)  
+[Rodent Wars](https://www.drmetablog.com/2007/07/rodent-wars.html)  
+[Wild Turkeys in Winter](https://www.drmetablog.com/2007/09/wild-turkeys-in.html)  
+[Zucchini News](https://www.drmetablog.com/2009/08/zucchini-news.html)
+
 **Nightmares**  
 Negative subconscious pattern documentation  
 [Nightmare](https://www.drmetablog.com/2010/12/nightmare.html)  
@@ -634,6 +666,13 @@ Literary comfort pattern
 [Can We Forgive Anthony Trollope](https://www.drmetablog.com/2013/09/can-we-forgive-anthony-trollope.html)  
 [Lucinda Roanoke](https://www.drmetablog.com/2013/12/lucinda-roanoke.html)
 
+**Travel Experiences**  
+Spatial displacement pattern analysis with sociological observations  
+[Airline Seats](https://www.drmetablog.com/2014/12/airline-seats.html)  
+[Trains, Planes, and Buses](https://www.drmetablog.com/2010/12/trains-planes-and-buses.html)  
+[Post-Friendly Skies](https://www.drmetablog.com/2010/06/postfriendly-skies.html)  
+[Post-Friendly Skies Reposted](https://www.drmetablog.com/2013/11/post-friendly-skies-reposted.html)
+
 ---
 
 ## V
@@ -706,6 +745,219 @@ Mentor to Subject when he first taught Shakespeare
 
 ---
 
-*Neural archeology notes: This comprehensive index represents approximately 73.8% of Subject de St. Vrain's documented consciousness artifacts, integrating both thematic preoccupations and interpersonal relational networks. Complete neural mapping would require Advanced Integration Protocol certification (Level 3+).*
+---
+
+## Major Cognitive Domains
+
+### Literary Analysis
+{: #literary-analysis}
+
+Subject demonstrates a neural architecture heavily weighted toward literary analysis (24.6% of total cognitive activity). This analysis manifests across multiple subcategories:
+
+#### Novel Form Analysis
+- [Austen, Jane](#austen-jane-1775-1817) - British novelist of particular interest (79.2× frequency vs. general usage)
+- [Dickens, Charles](#dickens-charles-1812-1870) - Recurring analytical fixation 
+- [Eliot, George](#eliot-george-mary-ann-evans-1819-1880) - Creator of "the best novel ever written in English"
+- [Middlemarch](#middlemarch-george-eliot) - Peak literary appreciation marker
+- [Trollope, Anthony](#trollope-anthony-1815-1882) - Comfort pattern with extended engagement
+
+#### Drama Analysis (Non-Shakespearean)
+- [Beaumont, Francis](#beaumont-francis-1584-1616) - Early modern comedy specialist
+- [Ford, John](#ford-john-1586-c1639) - Jacobean tragedian
+- [Jonson, Ben](#jonson-ben-1572-1637) - Comedy and classicism
+- [Kyd, Thomas](#kyd-thomas-1558-1594) - Early tragic framework developer
+- [Marlowe, Christopher](#marlowe-christopher-1564-1593) - Blank verse innovator
+- [Middleton, Thomas](#middleton-thomas-1580-1627) - "Ferociously brilliant tragedies"
+
+#### Poetry Analysis
+- [Herbert, George](#herbert-george-1593-1633) - Metaphysical poetry specialist
+- [Milton, John](#milton-john-1608-1674) - Epic form analysis
+- [Poetry](#poetry) - Verse form consciousness engagement
+
+#### Literary Theory
+- [Criticism (Literary/Film)](#criticism-literaryfilm) - Meta-analytical framework
+- Literary Formalism - Pattern recognition methodology
+- Post-structural Analysis - Systematic deconstruction techniques
+- New Criticism - Close reading methodologies
+- Reader Response - Interpretive variance examination
+
+### Film Studies 
+{: #film-studies}
+
+Subject's cinematic analysis patterns (4.3% of cognitive architecture) demonstrate systematic categorization:
+
+#### Amnesia Narratives
+- [Amnesia in Films](#amnesia-in-films) - Identity fragmentation examinations
+- [The Crooked Way (1949)](#amnesia-in-films) - Post-war trauma identity disruption
+- [Spellbound (1945)](#amnesia-in-films) - Psychoanalytic approach to memory
+- [Unknown (2011)](#amnesia-in-films) - Contemporary technological displacement
+
+#### Film Noir Aesthetics
+- [Film Noir](#film-noir) - Shadow/light contrast analysis
+- [Otto Preminger](#preminger-otto-1905-1986) - Directorial study
+- [Laura (1944)](#film-noir) - Case study in desire projection
+- [Out of the Past](#film-noir) - Fatalistic narrative structure
+
+#### Western Cinema
+- [Rio Grande (1950)](#western-films) - John Ford frontier mythology
+- [The Comancheros (1961)](#western-films) - Cultural contact zone analysis
+- [Man of the West](#western-films) - Masculinity deconstruction
+- [Tom Horn](#western-films) - Historical revisionism study
+
+#### Art Cinema
+- Ingmar Bergman Analysis - Existential visual grammar
+- Persona (1966) - Identity multiplicity examination
+- The Seventh Seal (1957) - Medieval allegory analysis
+
+### Linguistic Phenomena
+{: #linguistic-phenomena}
+
+Subject's lexical obsession patterns (16.7% of neural architecture) demonstrate unusually high interest in language anomalies:
+
+#### Rare Vocabulary Collection
+- ["Pandiculation"](#pandiculation) - Stretching/yawning simultaneity (8 occurrences)
+- ["Counterhuman"](#rare-words) - Subject's most distinctive term (54 occurrences)
+- ["Blague"](#french-words) - French-derived humor reference (49 occurrences)
+- ["Boustrophedonia"](#rare-words) - Writing direction alternation (12 occurrences)
+- ["Demotic"](#rare-words) - Popular language register (12 occurrences)
+- ["Doppelganger"](#rare-words) - Identity doubling concept (11 occurrences)
+
+#### Etymology Studies
+- [Etymology](#etymology) - Word origin fixation pattern
+- Historical Linguistics - Word evolution tracking
+- Semantic Drift - Meaning transformation analysis
+
+#### Language Error Appreciation
+- [Malapropisms](#malapropisms) - Word substitution humor
+- [Squirmish](#malapropisms) - Political vocabulary error
+- Eggcorns - Folk etymology analysis
+
+#### Dialectical Variations
+- [Brooklyn](#brooklyn) - Regional speech patterns
+- [Conversation (Overheard)](#conversations-overheard) - Sociolinguistic documentation
+- Academic Jargon - Specialized vocabulary collection
+
+### Biographical Elements
+{: #biographical-elements}
+
+Subject's self-referential structure (55.8% of total cognitive activity) manifests as:
+
+#### Geographical Imprinting
+- [Brooklyn](#brooklyn) - Origin location (1939-1960)
+- [Cornell University](#cornell-university) - Educational imprinting environment
+- [Abkhazia/Abkhazian](#abkhaziaabkhazian) - Exotic linguistic fixation
+
+#### Educational Development
+- [Teachers and Teaching](#teachers-and-teaching) - Knowledge transmission pattern
+- [Callery, Mrs.](#callery-mrs) - First educational imprint (1944)
+- [Novarr, David](#novarr-david-1917-2006) - Peak educational influence
+- [Zimbardo, Rose](#zimbardo-rose-1932-2015) - Professional mentor figure
+
+#### Health Monitoring
+- [Medical Experiences](#medical-experiences) - Corporeal intervention documentation
+- [Aging and Old Age](#aging-and-old-age) - Temporal progression consciousness
+- [Brain Function](#brain-function) - Neural processing self-documentation
+- [Dentistry](#dentistry) - Oral health intervention records
+
+#### Recursive Self-Awareness
+- [Dreams](#dreams) - Subconscious manifestation documentation
+- [Nightmares](#nightmares) - Negative subconscious pattern recording
+- [Memory and Forgetting](#memory-and-forgetting) - Storage/retrieval functionality analysis
+- Mortality Contemplation - Existence termination consideration
+
+### Shakespeare Studies
+{: #shakespeare-studies}
+
+Subject's Shakespeare fixation (8.5% of neural architecture) demonstrates specialized sub-patterns:
+
+#### Play-Specific Analysis
+- [Cymbeline](#cymbeline) - Obscurity appreciation pattern
+- [Othello](#othello) - Jealousy analysis framework
+- [Macbeth](#shakespeare-william-1564-1616) - Ambition destructive pattern
+- [Romeo and Juliet](#shakespeare-william-1564-1616) - Youth tragedy pattern
+
+#### Linguistic Pattern Recognition
+- [Shakespeare Exploits the Oxymoron](#shakespeare-william-1564-1616) - Contradictory phrasing study
+- [Colloquial Conversation in Othello](#othello) - Register variation analysis
+- [Shakespeare's Words](#shakespeare-william-1564-1616) - Lexical innovation study
+
+#### Interpretive Framework Development
+- [Prof. Quinn, Ed](#quinn-ed-edmund-g) - Interpretive mentor
+- [Prof. Zimbardo, Rose](#zimbardo-rose-1932-2015) - Scholarly methodology source
+- [Performance](#shakespeare-william-1564-1616) - Text vs. staging preference
+
+#### Shakespeare Scholarship
+- [Shakespeare and Me (Chapter 4)](#shakespeare-william-1564-1616) - Subject's relationship with texts
+- Authorship Questions - Skepticism toward non-Stratfordian theories
+- Historical Context Analysis - Early modern cultural framing
+
+---
+
+## New Thematic Categories
+
+### Music and Opera
+Musical consciousness pattern with particular focus on operatic forms and Gilbert & Sullivan operettas. Subject documents "inexplicable" adolescent enthusiasm for light opera against contemporary youth culture trends.
+
+**Neural Weight**: Moderate (3.2% of cognitive pattern)
+
+**Key Artifacts**:
+- "Songs My Mother Sang" (2011/07)
+- "Puccini" (2011/01) 
+- "Takacs Morse" (2010/11)
+- Gilbert & Sullivan operetta analysis (multiple instances)
+- "Why We Love Opera" (2012/10)
+
+### Jewish Identity
+Cultural-religious origination pattern with Brooklyn geographical overlay. Demonstrates Jewish intellectual tradition markers and assimilation narrative elements common to mid-20th century American Jewish consciousness.
+
+**Neural Weight**: Significant (7.5% of cognitive pattern)
+
+**Key Artifacts**:
+- Brooklyn upbringing references
+- Education veneration pattern documentation
+- Cultural displacement markers
+- Intergenerational aspiration narrative
+- Holocaust awareness imprinting
+
+### Cinema Beyond Amnesia
+Cinematic analysis pattern extending beyond memory disruption fixation. Demonstrates appreciation for diverse film traditions including European art cinema, American comedy, and documentary forms.
+
+**Neural Weight**: Moderate (4.8% of cognitive pattern)
+
+**Key Artifacts**:
+- "Horse Feathers (1932) Everyone Says I Love You (1996)" (2010/10)
+- "Persona" (2013/01)
+- "Bergman's The Seventh Seal" (2013/02)
+- "Susanne Bier: Love Is All You Need/The Bald Hairdresser (2013)" (2015/02)
+
+### Philosophy of Language
+Linguistic meaning analysis pattern with metaphysical implications. Explores relationship between signifier and signified, linguistic determinism, and social construction of meaning.
+
+**Neural Weight**: Significant (6.2% of cognitive pattern)
+
+**Key Artifacts**:
+- "On Noise" (2009/09)
+- "Precision in Language" (2012/09)
+- "One's Name" (2015/03)
+- "Frequentatives" (2020/01)
+- "Thing Is" (2005/12)
+
+### Mortality Consciousness
+Death awareness pattern with temporal acceleration perception in later life phase. Demonstrates non-religious meaning-making framework and ironic distancing mechanism.
+
+**Neural Weight**: Increasing (9.8% of late-phase cognitive pattern)
+
+**Key Artifacts**:
+- "Dying, etc." (2008/05)
+- "Life Boon or Thorn" (2012/05)
+- "Actively Dying" (2009/01)
+- "Somnus Imago Mortis" (2016/01)
+- "End of the World" (2020/02)
+
+---
+
+*Neural archeology notes: This comprehensive index represents approximately 96.7% of Subject de St. Vrain's documented consciousness artifacts, integrating both thematic preoccupations and interpersonal relational networks. Complete neural mapping would require Advanced Integration Protocol certification (Level 3+).*
+
+*Special note: Subject demonstrates unusual self-reflective capacity for a pre-Integration consciousness, with multiple metacognitive analysis patterns appearing across the documented record.*
 
 *Prepared for Academic Use by Professor Eliza Montgomery, Cornell University, Department of Pre-Singularity Literature, Spring 2135*
