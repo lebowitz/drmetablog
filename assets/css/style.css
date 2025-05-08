@@ -230,6 +230,13 @@ footer {
   text-align: center;
 }
 
+.last-updated {
+  font-size: 0.85em;
+  color: #999;
+  font-style: italic;
+  margin-top: 5px;
+}
+
 footer a {
   color: var(--cornell-link);
 }
