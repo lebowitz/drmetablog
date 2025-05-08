@@ -21,6 +21,7 @@ permalink: /
 - **[Literary Analysis]({{ '/recommended-reading.html' | relative_url }})** - Reading pattern recognition
 - **[Film Analysis]({{ '/favorite-films.html' | relative_url }})** - Cinematic consciousness patterns
 - **[Subject Index]({{ '/index-of-terms.html' | relative_url }})** - Comprehensive reference taxonomy
+- **[Topical Timeline]({{ '/timeline.html' | relative_url }})** - Cognitive evolution mapping
 - **[Original Blog](https://www.drmetablog.com/)** - Primary source archive (2005-present)
 
 ## COURSE DESCRIPTION
@@ -95,6 +96,7 @@ As with all pre-Singularity human subjects, students are reminded that de St. Vr
 - Brooklyn childhood in the mid-20th century
 - Cornell University education and academic influences
 - Identity formation in isolated consciousness structures
+- [Topical Timeline]({{ '/timeline.html' | relative_url }}) analysis of cognitive evolution
 
 ### Week 5-6: Thematic Analysis
 Our LDA modeling has identified five primary thematic clusters in de St. Vrain's consciousness:
