@@ -21,6 +21,7 @@ permalink: /
 - **[Literary Analysis]({{ '/recommended-reading.html' | relative_url }})** - Reading pattern recognition
 - **[Film Analysis]({{ '/favorite-films.html' | relative_url }})** - Cinematic consciousness patterns
 - **[Subject Index]({{ '/index-of-terms.html' | relative_url }})** - Comprehensive reference taxonomy
+- **[People Index]({{ '/people-index.html' | relative_url }})** - Neural relational mapping
 - **[Topical Timeline]({{ '/timeline.html' | relative_url }})** - Cognitive evolution mapping
 - **[Original Blog](https://www.drmetablog.com/)** - Primary source archive (2005-present)
 
