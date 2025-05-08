@@ -6,16 +6,6 @@ permalink: /portrait_of_dr_metablog.html
 
 # Portrait of Dr. Metablog
 
-## Table of Contents
-| Section | Description |
-|---------|-------------|
-| [Home](README.md) | Project home |
-| [Autobiography](autobiography_of_dr_metablog.md) | Dr. Metablog's memoir |
-| [Portrait](portrait_of_dr_metablog.md) | Visual representation |
-| [Topic Analysis](topic_analysis_report.md) | LDA topic modeling |
-| [Rare Word Analysis](rare_word_analysis.md) | Unusual vocabulary |
-| [Lexical Distinctiveness](distinctive_vocabulary.md) | Comparative language usage |
-
 ## Vivian de St. Vrain: A Literary Portrait
 
 Based on his writings, blog posts, and autobiographical details, this portrait envisions Dr. Metablog as he might appear - a distinguished scholar with Brooklyn roots, Cornell education, and a lifetime of literary engagement.

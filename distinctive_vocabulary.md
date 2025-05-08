@@ -6,16 +6,6 @@ permalink: /distinctive_vocabulary.html
 
 # Lexical Distinctiveness Analysis of Dr. Metablog
 
-## Table of Contents
-| Section | Description |
-|---------|-------------|
-| [Home](README.md) | Project home |
-| [Autobiography](autobiography_of_dr_metablog.md) | Dr. Metablog's memoir |
-| [Portrait](portrait_of_dr_metablog.md) | Visual representation |
-| [Topic Analysis](topic_analysis_report.md) | LDA topic modeling |
-| [Rare Word Analysis](rare_word_analysis.md) | Unusual vocabulary |
-| [Lexical Distinctiveness](distinctive_vocabulary.md) | Comparative language usage |
-
 This analysis examines words that appear significantly more frequently in Dr. Metablog's writing compared to general English usage, based on Google Books Ngram data.
 
 ## Overview
