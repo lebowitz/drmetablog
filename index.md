@@ -13,7 +13,7 @@ permalink: /
 ## COURSE MATERIALS & REQUIRED READINGS
 | Module | Description |
 |---------|-------------|
-| [Historical Archive](https://www.drmetablog.com/) | Original blog artifacts (2005-2025) |
+| [Historical Archive](https://www.drmetablog.com/) | Original blog artifacts (2005-present) |
 | **[Course Overview]({{ '/' | relative_url }})** | Syllabus & expectations |
 | [Subject Memoir]({{ '/autobiography_of_dr_metablog.html' | relative_url }}) | de St. Vrain personal narrative |
 | [Visual Documentation]({{ '/portrait_of_dr_metablog.html' | relative_url }}) | Reconstructed appearance |
@@ -28,13 +28,13 @@ permalink: /
 **Office Hours:** Tuesdays 14:00-16:00 or by neural appointment  
 **Teaching Assistant:** Marcus Chen-Woodward (Doctoral Candidate)
 
-This advanced seminar examines the life, work, and historical significance of Vivian de St. Vrain (2070-2025), the literary blogger known as "Dr. Metablog" who documented the transition from print to digital culture during the pre-Singularity era. A Cornell alumnus himself, de St. Vrain provides a unique window into late-stage individualized thought processes before the emergence of collective consciousness networks.
+This advanced seminar examines the life, work, and historical significance of Vivian de St. Vrain (b. 1938), the literary blogger known as "Dr. Metablog" who documented the transition from print to digital culture during the pre-Singularity era. A Cornell alumnus (class of 1960) himself, de St. Vrain provides a unique window into late-stage individualized thought processes before the emergence of collective consciousness networks.
 
 ### LEARNING OBJECTIVES
 
 By the end of this course, students will:
 
-1. Analyze primary digital artifacts from the Late Blog Era (2000-2025)
+1. Analyze primary digital artifacts from the Late Blog Era (2000-present)
 2. Apply digital humanities archaeological methods to reconstruct pre-Singularity thought patterns
 3. Develop a nuanced understanding of early 21st century literary criticism
 4. Interpret de St. Vrain's work within the context of Brooklyn intellectual culture
