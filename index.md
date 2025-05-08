@@ -19,7 +19,8 @@ permalink: /
 - **[Rare Word Analysis]({{ '/rare_word_analysis.html' | relative_url }})** - Specialized vocabulary study
 - **[Distinctive Vocabulary]({{ '/distinctive_vocabulary.html' | relative_url }})** - Comparative language analysis
 - **[Film Analysis]({{ '/favorite-films.html' | relative_url }})** - Cinematic consciousness patterns
-- **[Comprehensive Index]({{ '/index-of-terms.html' | relative_url }})** - Neural cartography & taxonomy
+- **[Subject Index]({{ '/index-of-terms.html' | relative_url }})** - Neural taxonomy & reference
+- **[Neural Domain Cartography]({{ '/cognitive-domains.html' | relative_url }})** - Cognitive architecture mapping
 - **[Topical Timeline]({{ '/timeline.html' | relative_url }})** - Cognitive evolution mapping
 - **[Original Blog](https://www.drmetablog.com/)** - Primary source archive (2005-present)
 

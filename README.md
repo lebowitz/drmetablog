@@ -22,6 +22,7 @@ This repository contains the complete digital archeology project analyzing the p
 | **[Distinctive Vocabulary]({{ '/distinctive_vocabulary.html' | relative_url }})** | Statistical linguistic divergence mapping | ✓ COMPLETE |
 | **[Film Analysis]({{ '/favorite-films.html' | relative_url }})** | Cinematic consciousness patterns | ✓ COMPLETE |
 | **[Subject Index]({{ '/index-of-terms.html' | relative_url }})** | Comprehensive reference taxonomy | ✓ COMPLETE |
+| **[Neural Domain Cartography]({{ '/cognitive-domains.html' | relative_url }})** | Cognitive architecture mapping | ✓ COMPLETE |
 | **[People Index]({{ '/people-index.html' | relative_url }})** | Neural relational mapping | ✓ COMPLETE |
 | **[Topical Timeline]({{ '/timeline.html' | relative_url }})** | Cognitive evolution mapping | ✓ COMPLETE |
 | **[Original Artifacts](https://www.drmetablog.com/)** | Primary source documentation | ✓ PRESERVED |
