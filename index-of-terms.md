@@ -17,8 +17,8 @@ This specialized module provides an organized taxonomy of Subject de St. Vrain's
 [J](#j) • [K](#k) • [L](#l) • [M](#m) • [N](#n) • [O](#o) • [P](#p) • [Q](#q) • 
 [R](#r) • [S](#s) • [T](#t) • [V](#v) • [W](#w) • [Z](#z)
 
-### Major Cognitive Domains
-- [Literary Analysis](#literary-analysis) • [Film Studies](#film-studies) • [Linguistic Phenomena](#linguistic-phenomena) • [Biographical Elements](#biographical-elements) • [Shakespeare Studies](#shakespeare-studies)
+### Major Categories
+- [View Cognitive Architecture Analysis]({{ '/cognitive-domains.html' | relative_url }})
 
 ### Concept Interconnection Visualization
 *Access the [Neural Pathway Map](/neural-map.html) for three-dimensional representation of Subject's cognitive architecture*
@@ -190,7 +190,7 @@ Educational imprinting environment (1956-1960)
 Meta-analytical framework development  
 [Three Comments on Books](https://www.drmetablog.com/2014/03/three-comments-on-books.html)  
 [Can We Forgive Anthony Trollope](https://www.drmetablog.com/2013/09/can-we-forgive-anthony-trollope.html)  
-See [Literary Analysis section](#literary-analysis) for comprehensive documentation
+See [Literary Analysis section]({{ '/cognitive-domains.html#literary-analysis' | relative_url }}) for comprehensive documentation
 
 **Cussen, Gabriel**  
 Latin teacher at Erasmus Hall High School, described as "even older"  
