@@ -18,6 +18,7 @@ permalink: /
 - **[Topic Analysis]({{ '/topic_analysis_report.html' | relative_url }})** - Thematic content patterns
 - **[Rare Word Analysis]({{ '/rare_word_analysis.html' | relative_url }})** - Specialized vocabulary study
 - **[Distinctive Vocabulary]({{ '/distinctive_vocabulary.html' | relative_url }})** - Comparative language analysis
+- **[Film Analysis]({{ '/favorite-films.html' | relative_url }})** - Cinematic consciousness patterns
 - **[Original Blog](https://www.drmetablog.com/)** - Primary source archive (2005-present)
 
 ## COURSE DESCRIPTION
@@ -103,6 +104,8 @@ Theme 3: years, know, just, ve, don, did, new, like, life, time
 Theme 4: film, amnesia, movie, memory, films, played, pearlman, plot, movies, murder
 Theme 5: shakespeare, word, words, play, language, say, english, like, just, king
 ```
+
+*Note the significant presence of Theme 4, demonstrating Subject de St. Vrain's cognitive preoccupation with film analysis, particularly amnesia narratives. See [Film Analysis Module]({{ '/favorite-films.html' | relative_url }}) for detailed examination.*
 
 ### Week 7-8: Linguistic Analysis & Vocabulary Studies
 
