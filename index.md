@@ -10,16 +10,16 @@ permalink: /
 ## SPECIAL TOPIC: VIVIAN DE ST. VRAIN AND THE LATE BLOG ERA
 *Department of Pre-Singularity Literature, Cornell University*
 
-## COURSE MATERIALS & REQUIRED READINGS
-| Module | Description |
+## COURSE MODULES & DIGITAL RESOURCES
+| Resource | Description |
 |---------|-------------|
-| [Historical Archive](https://www.drmetablog.com/) | Original blog artifacts (2005-present) |
-| **[Course Overview]({{ '/' | relative_url }})** | Syllabus & expectations |
-| [Subject Memoir]({{ '/autobiography_of_dr_metablog.html' | relative_url }}) | de St. Vrain personal narrative |
-| [Visual Documentation]({{ '/portrait_of_dr_metablog.html' | relative_url }}) | Reconstructed appearance |
-| [Thematic Analysis]({{ '/topic_analysis_report.html' | relative_url }}) | Literary preoccupations |
-| [Lexical Rarities]({{ '/rare_word_analysis.html' | relative_url }}) | Vocabulary study |
-| [Linguistic Analysis]({{ '/distinctive_vocabulary.html' | relative_url }}) | Comparative usage study |
+| **[Course Hub]({{ '/' | relative_url }})** | Primary syllabus & overview |
+| [Autobiography]({{ '/autobiography_of_dr_metablog.html' | relative_url }}) | Personal narrative and memoir |
+| [Portrait Analysis]({{ '/portrait_of_dr_metablog.html' | relative_url }}) | Visual character study |
+| [Topic Analysis]({{ '/topic_analysis_report.html' | relative_url }}) | Thematic content patterns |
+| [Rare Word Analysis]({{ '/rare_word_analysis.html' | relative_url }}) | Specialized vocabulary study |
+| [Distinctive Vocabulary]({{ '/distinctive_vocabulary.html' | relative_url }}) | Comparative language analysis |
+| [Original Blog](https://www.drmetablog.com/) | Primary source archive (2005-present) |
 
 ## COURSE DESCRIPTION
 
