@@ -319,7 +319,7 @@ Studied during Subject's Cornell years
 **French Words**  
 Lexical incorporation pattern  
 ["Blague"](https://www.drmetablog.com/2007/04/an_informal_sur.html) - used 49 times across consciousness artifacts  
-["Pandiculation"](https://www.drmetablog.com/sample-post.html) - referenced as etymologically French
+["Pandiculation"](https://www.drmetablog.com/2021/03/pandiculation.html) - referenced as etymologically French
 
 ---
 
@@ -525,7 +525,7 @@ Shakespeare analytical fixation
 
 **Pandiculation**  
 Rare vocabulary specialist term  
-[A Note on Pandiculation and Other Rarely Observed Phenomena](https://www.drmetablog.com/sample-post.html)
+[Pandiculation](https://www.drmetablog.com/2021/03/pandiculation.html)
 
 **Personal History**  
 Autobiographical memory pattern documentation  

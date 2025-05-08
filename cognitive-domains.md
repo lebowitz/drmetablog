@@ -80,7 +80,7 @@ Subject's cinematic analysis patterns (4.3% of cognitive architecture) demonstra
 Subject's lexical obsession patterns (16.7% of neural architecture) demonstrate unusually high interest in language anomalies:
 
 #### Rare Vocabulary Collection
-- ["Pandiculation"](/sample-post.html) - Stretching/yawning simultaneity (8 occurrences)
+- ["Pandiculation"](https://www.drmetablog.com/2021/03/pandiculation.html) - Stretching/yawning simultaneity (8 occurrences)
 - ["Counterhuman"](https://www.drmetablog.com/rare_word_analysis.html) - Subject's most distinctive term (54 occurrences)
 - ["Blague"](https://www.drmetablog.com/2007/04/an_informal_sur.html) - French-derived humor reference (49 occurrences)
 - ["Boustrophedonia"](https://www.drmetablog.com/2007/05/boustrophedonia.html) - Writing direction alternation (12 occurrences)

@@ -31,7 +31,7 @@ This analysis identifies truly rare, unusual, or specialized words used in the D
 | 11 | crepuscular | 3 | [Political Foreboding](https://www.drmetablog.com/2013/10/an-early-introduction-to-political-foreboding.html) |
 | 12 | anomie | 2 | [Political Foreboding](https://www.drmetablog.com/2013/10/an-early-introduction-to-political-foreboding.html) |
 | 13 | exegetical | 2 | [Cornell English Caruth](https://www.drmetablog.com/2025/02/cornell-english-caruth.html) |
-| 14 | anagnorisis | 2 | [Pandiculation](https://www.drmetablog.com/2016/05/pandiculation.html) |
+| 14 | anagnorisis | 2 | [Pandiculation](https://www.drmetablog.com/2021/03/pandiculation.html) |
 | 15 | zeugma | 2 | [Shakespeare Exploits the Oxymoron](https://www.drmetablog.com/2014/02/shakespeare-exploits-the-oxymoron.html) |
 | 16 | antediluvian | 2 | [Advice for Parents](https://www.drmetablog.com/2013/10/advice-for-parents-part-one.html) |
 | 17 | lacunae | 2 | [World Series 2020](https://www.drmetablog.com/2020/10/worldseries2020.html) |
