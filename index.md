@@ -4,86 +4,177 @@ title: Home
 permalink: /
 ---
 
-# Dr. Metablog Analysis
+# ENGL 4240: Digital Humanities Archaeology
+# SYLLABUS - FALL SEMESTER 2135
 
-## Table of Contents
-| Section | Description |
+## SPECIAL TOPIC: VIVIAN DE ST. VRAIN AND THE LATE BLOG ERA
+*Department of Pre-Singularity Literature, Cornell University*
+
+## COURSE MATERIALS & REQUIRED READINGS
+| Module | Description |
 |---------|-------------|
-| [Visit Dr. Metablog](https://www.drmetablog.com/) | Original blog |
-| **[Home]({{ '/' | relative_url }})** | Project home |
-| [Autobiography]({{ '/autobiography_of_dr_metablog.html' | relative_url }}) | Dr. Metablog's memoir |
-| [Portrait]({{ '/portrait_of_dr_metablog.html' | relative_url }}) | Visual representation |
-| [Topic Analysis]({{ '/topic_analysis_report.html' | relative_url }}) | LDA topic modeling |
-| [Rare Word Analysis]({{ '/rare_word_analysis.html' | relative_url }}) | Unusual vocabulary |
-| [Lexical Distinctiveness]({{ '/distinctive_vocabulary.html' | relative_url }}) | Comparative language usage |
+| [Historical Archive](https://www.drmetablog.com/) | Original blog artifacts (2005-2025) |
+| **[Course Overview]({{ '/' | relative_url }})** | Syllabus & expectations |
+| [Subject Memoir]({{ '/autobiography_of_dr_metablog.html' | relative_url }}) | de St. Vrain personal narrative |
+| [Visual Documentation]({{ '/portrait_of_dr_metablog.html' | relative_url }}) | Reconstructed appearance |
+| [Thematic Analysis]({{ '/topic_analysis_report.html' | relative_url }}) | Literary preoccupations |
+| [Lexical Rarities]({{ '/rare_word_analysis.html' | relative_url }}) | Vocabulary study |
+| [Linguistic Analysis]({{ '/distinctive_vocabulary.html' | relative_url }}) | Comparative usage study |
 
-## Text Analysis of Blog Content
+## COURSE DESCRIPTION
 
-This repository contains analysis of the Dr. Metablog content, including:
+**Instructor:** Professor Eliza Montgomery, Ph.D.  
+**Office:** Virtual Humanities Center, Sector 3  
+**Office Hours:** Tuesdays 14:00-16:00 or by neural appointment  
+**Teaching Assistant:** Marcus Chen-Woodward (Doctoral Candidate)
 
-- **[Autobiography](autobiography_of_dr_metablog.html)** - A memoir written in Dr. Metablog's voice
-- **[Portrait](portrait_of_dr_metablog.html)** - A visual interpretation based on his writings
-- **[Topic Modeling](topic_analysis_report.html)** - LDA topic analysis of blog content
-- **[Rare Word Analysis](rare_word_analysis.html)** - Analysis of unusual and sophisticated vocabulary
-- **[Lexical Distinctiveness](distinctive_vocabulary.html)** - Words used more frequently than in general English
+This advanced seminar examines the life, work, and historical significance of Vivian de St. Vrain (2070-2025), the literary blogger known as "Dr. Metablog" who documented the transition from print to digital culture during the pre-Singularity era. A Cornell alumnus himself, de St. Vrain provides a unique window into late-stage individualized thought processes before the emergence of collective consciousness networks.
 
-Each analysis provides a different perspective on the author's writing style and interests:
+### LEARNING OBJECTIVES
 
-- The [topic analysis](topic_analysis_report.html) reveals key themes like literature (24.6%), Shakespeare studies (8.5%), and film analysis (4.3%) alongside personal reflections (55.8%).
+By the end of this course, students will:
 
-- The [rare word analysis](rare_word_analysis.html) uncovers the author's use of extremely uncommon vocabulary like "counterhuman" (54 occurrences), "blague" (49), and "pandiculation" (8).
+1. Analyze primary digital artifacts from the Late Blog Era (2000-2025)
+2. Apply digital humanities archaeological methods to reconstruct pre-Singularity thought patterns
+3. Develop a nuanced understanding of early 21st century literary criticism
+4. Interpret de St. Vrain's work within the context of Brooklyn intellectual culture
+5. Evaluate the historical significance of independent bloggers in the evolution of networked consciousness
 
-- The [lexical distinctiveness analysis](distinctive_vocabulary.html) shows the author uses literary terms at dramatically higher rates than general English (e.g., "novel" appears 79.2× more frequently).
+### REQUIRED COURSE MODULES
 
-## Google Ngram Data
+- **[Personal Narrative Study](autobiography_of_dr_metablog.html)** - de St. Vrain's memoir and self-construction
+- **[Visual Reconstruction](portrait_of_dr_metablog.html)** - AI-generated appearance based on textual self-descriptions
+- **[Literary Themes Analysis](topic_analysis_report.html)** - Mapping recurring intellectual preoccupations
+- **[Vocabulary Analysis](rare_word_analysis.html)** - Study of linguistic peculiarities and rare word usage
+- **[Comparative Linguistics](distinctive_vocabulary.html)** - Statistical analysis of de St. Vrain's unique language patterns
 
-The analysis uses Google Books Ngram data for comparison with general English usage.
+### COURSE HIGHLIGHTS
 
-## Repository Contents
+Our digital archaeological excavation reveals several significant findings about this pre-networked consciousness:
 
-- `topic_extraction.py` - LDA topic modeling script
-- `analyze_topics.py` - Topic distribution analysis
-- `lexical_distinctiveness_simple.py` - Compares blog vocabulary with standard English
-- `rare_word_analysis_strict.py` - Identifies rare words excluding common derivatives
-- `truly_rare_words_fixed.py` - Focuses on genuinely rare specialized vocabulary
-- `download_google_1grams.py` - Script for downloading Google Ngram data
+- The [thematic mapping](topic_analysis_report.html) reveals a mind deeply engaged with literature (24.6%), Shakespeare studies (8.5%), and film analysis (4.3%), interwoven with personal reflections (55.8%) — typical of the individualized thought patterns of the era.
 
-## Topic Model Results
+- [Vocabulary analysis](rare_word_analysis.html) uncovers linguistic curiosities including "counterhuman" (54 occurrences), "blague" (49 occurrences), and "pandiculation" (8 occurrences) — terms that demonstrate the highly specialized nature of pre-Collective language.
 
-The LDA model identified 15 topics in the blog posts:
+- The [linguistic signature analysis](distinctive_vocabulary.html) shows statistically significant patterns: "novel" (79.2× average frequency), "story" (56.9×), and "poem" (28.5×) — indicating a consciousness unusually focused on narrative structures, even by pre-Singularity standards.
+
+## RESEARCH METHODOLOGIES
+
+Students in this course will learn to apply standard digital humanities archaeological techniques to pre-Singularity artifacts. Our analysis utilizes the GoogleBook-Ngram Archive (circa 2012) for comparative linguistics calibration, accessed through the Cornell Historical Data Repository. 
+
+### Digital Tools Workshop (Required)
+
+All students must complete the mandatory Neural Interface workshop during Week 2, which will introduce the following analytical software:
+
+- **Digital Artifact Reconstruction Suite** - For blog content preservation and analysis
+- **Semantic Pattern Analysis Tool** - For literary theme extraction and topic modeling
+- **Historical Language Comparator** - For vocabulary frequency analysis
+- **Cultural Context Visualizer** - For situating works within early 21st century Brooklyn
+- **Temporal Network Mapper** - For tracing intellectual influences and connections
+
+### Research Ethics Notice
+
+As with all pre-Singularity human subjects, students are reminded that de St. Vrain existed before Neural Privacy Protocols. While his digital consciousness fragments are available for academic study under the Historical Figures Preservation Act of 2089, respectful engagement with his individualized thought patterns is expected.
+
+## WEEKLY SCHEDULE
+
+### Week 1: Introduction to Pre-Singularity Literature
+- Historical context of the Blog Era (2000-2025)
+- The role of independent literary critics before network consciousness
+- Introduction to Vivian de St. Vrain and Brooklyn intellectual circles
+
+### Week 2: Analytical Methods Workshop
+- Neural interface training for historical consciousness exploration
+- Ethics of pre-Privacy Protocol research
+- Digital humanities archaeological techniques
+
+### Week 3-4: Personal Narrative & Identity Construction
+- De St. Vrain's autobiographical writings
+- Brooklyn childhood in the mid-20th century
+- Cornell University education and academic influences
+- Identity formation in isolated consciousness structures
+
+### Week 5-6: Thematic Analysis
+Our LDA modeling has identified five primary thematic clusters in de St. Vrain's consciousness:
 
 ```
-Topic 0: novel, read, old, just, like, love, good, time, man, story
-Topic 1: quot, english, cornell, writes, february, vivian, just, book, january, read
-Topic 5: years, know, just, ve, don, did, new, like, life, time
-Topic 7: film, amnesia, movie, memory, films, played, pearlman, plot, movies, murder
-Topic 8: shakespeare, word, words, play, language, say, english, like, just, king
+Theme 1: novel, read, old, just, like, love, good, time, man, story
+Theme 2: quot, english, cornell, writes, february, vivian, just, book, january, read
+Theme 3: years, know, just, ve, don, did, new, like, life, time
+Theme 4: film, amnesia, movie, memory, films, played, pearlman, plot, movies, murder
+Theme 5: shakespeare, word, words, play, language, say, english, like, just, king
 ```
 
-## Most Distinctive Words
+### Week 7-8: Linguistic Analysis & Vocabulary Studies
 
-These words appear much more frequently in the blog than in general English:
+Students will analyze de St. Vrain's distinctive linguistic patterns through statistical comparison with standard early 21st century English. Focus will be on:
 
-1. novel (79.2× more frequent)
-2. story (56.9× more frequent)
-3. poem (28.5× more frequent)
-4. literary (19.2× more frequent)
-5. fiction (19.0× more frequent)
+1. Vocabulary frequency anomalies:
+   - `novel` (79.2× higher than period average)
+   - `story` (56.9× higher than period average)
+   - `poem` (28.5× higher than period average)
+   - `literary` (19.2× higher than period average)
+   - `fiction` (19.0× higher than period average)
 
-## Genuinely Rare Words
+2. Specialized vocabulary deployment strategies in academic discourse
+3. The role of distinctive language in establishing intellectual identity
+4. Comparative analysis with other period literary blogs
 
-The most unusual words used in the blog include:
+*Research Question: How did de St. Vrain's unusual word frequency patterns reflect his position in the transitional period between print and digital literary criticism?*
 
-1. counterhuman (54 occurrences)
-2. blague (49 occurrences) - French for "joke"
-3. demotic (12 occurrences)
-4. doppelganger (11 occurrences)
-5. pandiculation (8 occurrences) - the act of stretching and yawning
+### Week 9-10: Rare Vocabulary & Specialized Terminology
 
-## Autobiography
+This module explores de St. Vrain's use of uncommon vocabulary and specialized terminology, including:
 
-The [autobiography](autobiography_of_dr_metablog.html) offers a personal account of Dr. Metablog's life, written in his distinctive voice. From his Brooklyn childhood in the 1940s, through his years at Cornell University, to his later reflections on literature, Shakespeare, and aging, the memoir showcases the author's erudite wit and self-deprecating humor while providing context for the themes and style explored in the analysis.
+1. `counterhuman` (54 occurrences) - An unusual term possibly unique to de St. Vrain's writing
+2. `blague` (49 occurrences) - French term for "joke" or "jest"
+3. `demotic` (12 occurrences) - Referring to ordinary, colloquial language
+4. `doppelganger` (11 occurrences) - A look-alike or double of a person
+5. `pandiculation` (8 occurrences) - The act of stretching and yawning
 
-## Portrait
+Students will investigate:
+- The function of rare vocabulary in establishing intellectual authority
+- Multilingual influences in de St. Vrain's writing
+- The relationship between specialized vocabulary and academic identity
+- Historical preservation of now-obsolete terminology
 
-The [portrait](portrait_of_dr_metablog.html) provides a visual interpretation of Vivian de St. Vrain based on details gleaned from his writings. The image captures his scholarly demeanor, his love of books, and the thoughtful expression characteristic of someone who has spent a lifetime engaged with literature and ideas.
+*Case Study: Close reading of selected blog entries featuring vocabulary anomalies and their rhetorical function in de St. Vrain's arguments.*
+
+### Week 11-12: Autobiographical Construction & Self-Representation
+
+This section examines de St. Vrain's [autobiographical writings](autobiography_of_dr_metablog.html) and self-narrative strategies:
+
+- Brooklyn childhood in the 1940s and formative influences
+- His education at Cornell University and academic development
+- Evolution of his literary interests, particularly in Shakespeare
+- Age-related reflections and their impact on his critical perspective
+
+Students will analyze how de St. Vrain constructs his intellectual identity through autobiographical writing, employing self-deprecating humor, erudite references, and recursive self-analysis.
+
+### Week 13: Visual Reconstruction & Historical Context
+
+Using computational analysis of textual self-references, we'll study the [visual reconstruction](portrait_of_dr_metablog.html) of de St. Vrain and discuss:
+
+- Physical self-description markers in his writing
+- The scholar-signaling elements in his projected self-image
+- The relationship between his physical environment and intellectual identity
+- Comparative analysis with other late Blog Era intellectuals
+
+### Week 14-15: Final Projects & Presentations
+
+Students will develop original research projects examining some aspect of de St. Vrain's work and its significance in the pre-Singularity era. Potential research directions include:
+
+- De St. Vrain's role in the transition from print to digital literary criticism
+- Comparative analysis with other early 21st century literary bloggers
+- The Cornell connection: how his education influenced his intellectual development
+- Linguistic innovation and preservation in specialized digital communities
+- The evolution of literary criticism from individual voices to the Collective
+
+## ASSESSMENT & NEURAL CERTIFICATION
+
+- Class Participation & Neural Engagement: 20%
+- Digital Archeology Practicum: 25%
+- Midterm Analysis Paper: 25%
+- Final Research Project: 30%
+
+_"The study of pre-Singularity intellectuals offers us not merely historical curiosity, but essential insights into the evolutionary path of human consciousness that led to our present Collective."_ – Professor Eliza Montgomery
