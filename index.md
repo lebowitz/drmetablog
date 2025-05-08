@@ -11,15 +11,14 @@ permalink: /
 *Department of Pre-Singularity Literature, Cornell University*
 
 ## COURSE MODULES & DIGITAL RESOURCES
-| Resource | Description |
-|---------|-------------|
-| **[Course Hub]({{ '/' | relative_url }})** | Primary syllabus & overview |
-| [Autobiography]({{ '/autobiography_of_dr_metablog.html' | relative_url }}) | Personal narrative and memoir |
-| [Portrait Analysis]({{ '/portrait_of_dr_metablog.html' | relative_url }}) | Visual character study |
-| [Topic Analysis]({{ '/topic_analysis_report.html' | relative_url }}) | Thematic content patterns |
-| [Rare Word Analysis]({{ '/rare_word_analysis.html' | relative_url }}) | Specialized vocabulary study |
-| [Distinctive Vocabulary]({{ '/distinctive_vocabulary.html' | relative_url }}) | Comparative language analysis |
-| [Original Blog](https://www.drmetablog.com/) | Primary source archive (2005-present) |
+
+- **[Course Hub]({{ '/' | relative_url }})** - Primary syllabus & overview
+- **[Autobiography]({{ '/autobiography_of_dr_metablog.html' | relative_url }})** - Personal narrative and memoir
+- **[Portrait Analysis]({{ '/portrait_of_dr_metablog.html' | relative_url }})** - Visual character study
+- **[Topic Analysis]({{ '/topic_analysis_report.html' | relative_url }})** - Thematic content patterns
+- **[Rare Word Analysis]({{ '/rare_word_analysis.html' | relative_url }})** - Specialized vocabulary study
+- **[Distinctive Vocabulary]({{ '/distinctive_vocabulary.html' | relative_url }})** - Comparative language analysis
+- **[Original Blog](https://www.drmetablog.com/)** - Primary source archive (2005-present)
 
 ## COURSE DESCRIPTION
 
