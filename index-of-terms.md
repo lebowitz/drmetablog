@@ -53,7 +53,6 @@ Reflections on life progression phases and mortality consciousness
 **Altschul, Mrs.**  
 High school mathematics teacher described as "angry as all hell"  
 Reference in Subject's educational development narrative  
-[Educational Neural Pattern Documentation]({{ '/timeline.html' | relative_url }})
 
 **Amnesia in Films**  
 Persistent intellectual preoccupation; identity fragmentation theme  
@@ -97,7 +96,7 @@ British novelist of particular interest to Subject
 **Balletto, Walter**  
 High school "Discussion English" teacher with theatrical tendencies  
 Lived with his mother and collected Kirsten Flagstad records  
-[Subject Timeline](/timeline.html)
+
 
 **Baseball**  
 Recurring consciousness pattern related to structured competition; Brooklyn Dodgers fixation  
@@ -116,7 +115,7 @@ Geometrical-spatial sport analysis pattern
 **Beaumont, Francis (1584-1616)**  
 Elizabethan/Jacobean playwright noted for "delightful comedies"  
 Studied during Subject's Cornell education  
-[Subject Timeline](/timeline.html)
+
 
 **Birds**  
 Ornithological observation pattern  
@@ -132,7 +131,7 @@ Meta-consciousness about the subject's own communication medium
 **Bonime, Mrs.**  
 High school mathematics teacher described as "suicidal"  
 Reference in Subject's educational development narrative  
-[Subject Timeline](/timeline.html)
+
 
 **Brain Function**  
 Neural processing pattern self-documentation  
@@ -155,7 +154,7 @@ Geographical origin point with persistent memory imprinting
 First-grade teacher at P.S. 217, described as "diminutive, gloomy"  
 Lost four sons in World War II  
 Represents Subject's earliest educational memory  
-[Subject Timeline](/timeline.html)  
+  
 [P.S. 217](https://www.drmetablog.com/2006/12/the_p_s_217_ass.html)
 
 **Campbell, O.J.**  
@@ -166,7 +165,7 @@ Mentioned in connection with Ed Quinn
 **Cares, Sarah (Mrs.)**  
 Third-grade teacher described as "quite kind"  
 Subject noted her "splendid name for a teacher"  
-[Subject Timeline](/timeline.html)
+
 
 **Childhood**  
 Early experience memory pattern documentation  
@@ -196,7 +195,7 @@ See [Literary Analysis section](#literary-analysis) for comprehensive documentat
 **Cussen, Gabriel**  
 Latin teacher at Erasmus Hall High School, described as "even older"  
 Later realized to have been "an ex-priest"  
-[Subject Timeline](/timeline.html)
+
 
 **Cymbeline**  
 Shakespeare analytical fixation  
@@ -212,7 +211,7 @@ Shakespeare analytical fixation
 Primary consciousness subject  
 Brooklyn-born Jewish scholar, Cornell graduate (1960)  
 Shakespeare specialist, literary critic, blog author  
-[Subject Timeline]({{ '/timeline.html' | relative_url }})  
+  
 [Portrait of Dr. Metablog](https://www.drmetablog.com/portrait_of_dr_metablog.html)
 
 **Dentistry**  
@@ -230,7 +229,7 @@ British novelist, subject of recurring neural engagement
 **Donnelly, Mrs.**  
 Fifth-grade teacher with "white hair dyed a radiant blue"  
 Made Subject's life "as miserable as possible"  
-[Subject Timeline](/timeline.html)
+
 
 **Dreams**  
 Subconscious manifestations recorded  
@@ -246,29 +245,29 @@ Subconscious manifestations recorded
 **Ebersman, Mr.**  
 Mathematics teacher at Erasmus Hall High School, described as "competent"  
 Reference in Subject's educational development narrative  
-[Subject Timeline](/timeline.html)
+
 
 **Eis, Mr.**  
 Gym teacher at Erasmus Hall described as a "martinet"  
 Subject thought he "would have been more at home in the SS"  
-[Subject Timeline](/timeline.html)
+
 
 **Eliot, George (Mary Ann Evans) (1819-1880)**  
 British novelist, author of Middlemarch, which Subject considered "the best novel ever written in English"  
 Appears in Subject's dreams discussing her decision to adopt a male pseudonym  
 [Three Comments on Books](https://www.drmetablog.com/2014/03/three-comments-on-books.html)  
-[Subject Timeline](/timeline.html)
+
 
 **Eliot, T.S. (1888-1965)**  
 Modernist poet and critic  
 Endpoint of the "chronological and comprehensive" curriculum at Cornell  
-[Subject Timeline](/timeline.html)
+
 
 **Elizabeth II, Queen (1926-2022)**  
 British monarch whose diamond jubilee in 2012 inspired reflections on Subject's 75th birthday  
 Subject noted: "Frankly, a bit much. A little over-the-top, if you know what I mean. Although who can fail to admire the hat?"  
 [My Diamond Jubilee](https://www.drmetablog.com/2014/03/my-diamond-jubilee.html)  
-[Subject Timeline](/timeline.html)
+
 
 **Etymology**  
 Linguistic origin analysis pattern  
@@ -293,7 +292,7 @@ NBA basketball player admired by Subject
 **Felder, Harriet**  
 High school English teacher described as "well-read and competent"  
 An "Oxfordian" who believed Shakespeare wasn't Shakespeare  
-[Subject Timeline](/timeline.html)
+
 
 **Film Noir**  
 Aesthetic appreciation pattern  
@@ -305,17 +304,17 @@ See [Film Analysis Module]({{ '/favorite-films.html' | relative_url }}) for deta
 **Finsmith, Mrs.**  
 Fifth-grade teacher described as "a cipher"  
 Reference in Subject's educational development narrative  
-[Subject Timeline](/timeline.html)
+
 
 **Flagstad, Kirsten (1895-1962)**  
 Norwegian soprano, Wagnerian specialist  
 Records collected by Walter Balletto, Subject's high school English teacher  
-[Subject Timeline](/timeline.html)
+
 
 **Ford, John (1586-c.1639)**  
 Jacobean playwright  
 Studied during Subject's Cornell years  
-[Subject Timeline](/timeline.html)
+
 
 **French Words**  
 Lexical incorporation pattern  
@@ -334,7 +333,7 @@ Subject identifies him as a "replacement child"
 **Goetschius, Edna**  
 Biology teacher at Erasmus Hall High School  
 Complained that Subject "didn't know how to stipple"  
-[Subject Timeline](/timeline.html)
+
 
 ---
 
@@ -343,7 +342,7 @@ Complained that Subject "didn't know how to stipple"
 **Herbert, George (1593-1633)**  
 English metaphysical poet  
 Subject collected every issue of the George Herbert Journal  
-[Subject Timeline](/timeline.html)
+
 
 **Horsedrawn Vehicles**  
 Specialized knowledge domain  
@@ -363,7 +362,7 @@ Teacher who influenced Subject
 **Jonson, Ben (1572-1637)**  
 Elizabethan/Jacobean playwright noted for "delightful comedies"  
 Studied during Subject's Cornell education  
-[Subject Timeline](/timeline.html)
+
 
 ---
 
@@ -372,12 +371,12 @@ Studied during Subject's Cornell education
 **Kurtzman, Harvey (1924-1993)**  
 Cartoonist, founding editor of Mad Magazine  
 Subject was "a devotee since Harvey Kurtzman's comic book days"  
-[Subject Timeline](/timeline.html)
+
 
 **Kyd, Thomas (1558-1594)**  
 Elizabethan playwright  
 Starting point of "chronological" study of drama at Cornell  
-[Subject Timeline](/timeline.html)
+
 
 ---
 
@@ -399,7 +398,7 @@ Material artifact memory association pattern
 **Lindlar, Mr.**  
 Physics teacher at Erasmus Hall High School, described as "ineffectual"  
 "Would mysteriously disappear between classes and return reeking of alcohol"  
-[Subject Timeline](/timeline.html)
+
 
 **Literary Genres**  
 Classification system for narrative forms  
@@ -421,18 +420,18 @@ Elizabethan playwright and poet
 Studied during Subject's Cornell education  
 Starting point of "chronological" study of drama at Cornell  
 [Christopher Marlowe](https://www.drmetablog.com/2007/08/christopher-mar.html)  
-[Subject Timeline](/timeline.html)
+
 
 **Massinger, Philip (1583-1640)**  
 Jacobean playwright  
 End point of "chronological" study of drama at Cornell  
-[Subject Timeline](/timeline.html)
+
 
 **McNulty, Mrs.**  
 Elementary school teacher described as "extra-strict"  
 Subject's favorite teacher in early years  
 Taught proper format for a "friendly letter"—"a genre now as extinct as the passenger pigeon"  
-[Subject Timeline](/timeline.html)
+
 
 **Medical Experiences**  
 Corporeal intervention documentation  
@@ -456,12 +455,12 @@ Referenced frequently across consciousness archive as exemplary novel form
 **Middleton, Thomas (1580-1627)**  
 Jacobean playwright noted for "ferociously brilliant tragedies"  
 Studied during Subject's Cornell education  
-[Subject Timeline](/timeline.html)
+
 
 **Milton, John (1608-1674)**  
 English poet  
 Noted absence of faculty expertise at contemporary Cornell  
-[Subject Timeline](/timeline.html)  
+  
 [John Milton and His Daughters](https://www.drmetablog.com/2008/02/john-milton-and.html)
 
 **Montgomery, Eliza, Professor**  
@@ -502,7 +501,7 @@ Historical literary period specialization
 **Novarr, David (1917-2006)**  
 Distinguished scholar and teacher at Cornell  
 Taught "Elizabethan and Jacobean Drama" course that deeply influenced Subject  
-[Subject Timeline](/timeline.html)
+
 
 ---
 
@@ -538,7 +537,7 @@ Autobiographical memory pattern documentation
 Described as "charismatic, chaotic"  
 Studied pottery with Marguerite Wildenhain at Pond Farm  
 Brought Subject a sugar and creamer set that he considered "priceless"  
-[Subject Timeline](/timeline.html)
+
 
 **Poetry**  
 Verse form consciousness engagement  
@@ -602,7 +601,7 @@ Identity concept with recurring reference
 **Roth, Philip (1933-2018)**  
 American novelist  
 Appears in Subject's dreams discussing "the relationship between autobiography and fiction"  
-[Subject Timeline](/timeline.html)  
+  
 [Three Comments on Books](https://www.drmetablog.com/2014/03/three-comments-on-books.html)  
 [Roth's Portnoy's](https://www.drmetablog.com/2007/11/roths-portnoys.html)
 
@@ -613,19 +612,18 @@ Appears in Subject's dreams discussing "the relationship between autobiography a
 **Schauben, Mrs.**  
 Art teacher at Erasmus Hall High School  
 "Kept her protruding ears in check with a thin rubber band"  
-[Subject Timeline](/timeline.html)
+
 
 **Scofield, Paul (1922-2008)**  
 British actor  
 His performance as Coriolanus at Stratford in 1962 remained "vivid in [Subject's] brain"  
-[Subject Timeline](/timeline.html)
+
 
 **Shakespeare, William (1564-1616)**  
 Primary literary consciousness anchor  
 Subject formed "an attachment that has endured for sixty-five years"  
 Multiple analyses of plays including Othello, Cymbeline, Macbeth, Romeo and Juliet  
 Preferred reading plays to watching performances  
-[Shakespeare Studies Timeline](/timeline.html)  
 [Shakespeare Exploits the Oxymoron](https://www.drmetablog.com/2014/02/shakespeare-exploits-the-oxymoron.html)  
 [Othello/Otello](https://www.drmetablog.com/2012/10/othello-otello.html)  
 [Colloquial Conversation in Othello](https://www.drmetablog.com/2013/06/colloquial-conversation-in-othello.html)
@@ -633,7 +631,7 @@ Preferred reading plays to watching performances
 **Sherwood, Mrs.**  
 Third-grade teacher who "left no impression except for her extreme old age (possibly 55)"  
 Reference in Subject's educational development narrative  
-[Subject Timeline](/timeline.html)
+
 
 **Sleep**  
 Consciousness state transition fixation  
@@ -690,7 +688,7 @@ Transportation mode analysis pattern
 **Wedeck, Harry**  
 Latin teacher at Erasmus Hall High School  
 Described as "a pretentious fraud" who delivered "bad, lazy non-teaching"  
-[Subject Timeline](/timeline.html)
+
 
 **Western Films**  
 American frontier mythology analysis  
@@ -702,12 +700,12 @@ American frontier mythology analysis
 **White, Walter (fictional character)**  
 Protagonist of Breaking Bad TV series  
 Used as example of amnesia in popular culture  
-[Subject Timeline](/timeline.html)
+
 
 **Wildenhain, Marguerite (1896-1985)**  
 Bauhaus potter who operated Pond Farm studio near Guerneville, California  
 Created a sugar and creamer set that Subject considered "the only objects I own that deserve to be in a museum"  
-[Subject Timeline](/timeline.html)
+
 
 **Wilde, Oscar (1854-1900)**  
 Irish playwright and poet  
@@ -717,7 +715,7 @@ Identified by Subject as a "replacement child"
 **Withee, Beulah**  
 Latin teacher at Erasmus Hall High School, described as "old"  
 Provided "good instruction in Latin"  
-[Subject Timeline](/timeline.html)
+
 
 **Words, Unusual**  
 Lexical anomaly collection pattern  
@@ -887,7 +885,7 @@ Subject's Shakespeare fixation (8.5% of neural architecture) demonstrates specia
 - [Performance](#shakespeare-william-1564-1616) - Text vs. staging preference
 
 #### Shakespeare Scholarship
-- [Shakespeare Studies Timeline](/timeline.html) - Subject's relationship with texts
+- Subject's relationship with texts
 - Authorship Questions - Skepticism toward non-Stratfordian theories
 - Historical Context Analysis - Early modern cultural framing
 
