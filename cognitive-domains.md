@@ -6,73 +6,337 @@ permalink: /cognitive-domains.html
 
 # DOMAIN INDEX: COGNITIVE ARCHITECTURE MAPPING
 
-## ADVANCED PATTERN RECOGNITION MODULE (WEEKS 13-14)
-
-This specialized analytical module provides students with a comprehensive topographic mapping of Subject de St. Vrain's neural architecture based on frequency, interconnection, and semantic weight analysis. The visualization demonstrates the proportional distribution of cognitive resources across primary knowledge domains.
-
-*Students must complete Neural Interface training before engaging with this three-dimensional cognitive mapping.*
+<div class="cornell-callout">
+  <h2>ADVANCED PATTERN RECOGNITION MODULE (WEEKS 13-14)</h2>
+  <p>This specialized analytical module provides students with a comprehensive topographic mapping of Subject de St. Vrain's neural architecture based on frequency, interconnection, and semantic weight analysis. The visualization demonstrates the proportional distribution of cognitive resources across primary knowledge domains.</p>
+  <p><em>Students must complete Neural Interface training before engaging with this three-dimensional cognitive mapping.</em></p>
+</div>
 
 ## Major Cognitive Domains
 
-### Literary Analysis
-{: #literary-analysis}
+<div class="domain-box" id="literary-analysis">
+  <div class="domain-header">
+    <span class="domain-icon">📚</span>
+    <h3 class="domain-title">Literary Analysis</h3>
+    <span class="domain-weight">24.6%</span>
+  </div>
+  
+  <p class="domain-description">Subject demonstrates a neural architecture heavily weighted toward literary analysis of total cognitive activity. This analysis manifests across multiple subcategories:</p>
+  
+  <div class="subdomain-section">
+    <h4 class="subdomain-title">Novel Form Analysis</h4>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#austen-jane-1775-1817">Austen, Jane</a> - British novelist of particular interest (79.2× frequency vs. general usage)</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Jane_Austen" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2011/10/pride-and-prejudice-and-farts-.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#dickens-charles-1812-1870">Dickens, Charles</a> - Recurring analytical fixation</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Charles_Dickens" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2011/02/life-with-charles-dickens.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#eliot-george-mary-ann-evans-1819-1880">Eliot, George</a> - Creator of "the best novel ever written in English"</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/George_Eliot" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2014/03/three-comments-on-books.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#middlemarch-george-eliot">Middlemarch</a> - Peak literary appreciation marker</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Middlemarch" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2014/03/three-comments-on-books.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#trollope-anthony-1815-1882">Trollope, Anthony</a> - Comfort pattern with extended engagement</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Anthony_Trollope" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2013/09/can-we-forgive-anthony-trollope.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="subdomain-section">
+    <h4 class="subdomain-title">Drama Analysis (Non-Shakespearean)</h4>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#beaumont-francis-1584-1616">Beaumont, Francis</a> - Early modern comedy specialist</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Francis_Beaumont" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2007/03/authorship-1.html" class="domain-link-icon" title="Blog References">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#ford-john-1586-c1639">Ford, John</a> - Jacobean tragedian</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/John_Ford_(dramatist)" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/autobiography_of_dr_metablog.html" class="domain-link-icon" title="Blog Context">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#jonson-ben-1572-1637">Jonson, Ben</a> - Comedy and classicism</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Ben_Jonson" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/autobiography_of_dr_metablog.html" class="domain-link-icon" title="Blog References">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#kyd-thomas-1558-1594">Kyd, Thomas</a> - Early tragic framework developer</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Thomas_Kyd" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/autobiography_of_dr_metablog.html" class="domain-link-icon" title="Blog Context">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#marlowe-christopher-1564-1593">Marlowe, Christopher</a> - Blank verse innovator</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Christopher_Marlowe" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2007/08/christopher-mar.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#middleton-thomas-1580-1627">Middleton, Thomas</a> - "Ferociously brilliant tragedies"</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Thomas_Middleton" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/autobiography_of_dr_metablog.html" class="domain-link-icon" title="Blog Context">B</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="subdomain-section">
+    <h4 class="subdomain-title">Poetry Analysis</h4>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#herbert-george-1593-1633">Herbert, George</a> - Metaphysical poetry specialist</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/George_Herbert" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/autobiography_of_dr_metablog.html" class="domain-link-icon" title="Blog References">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#milton-john-1608-1674">Milton, John</a> - Epic form analysis</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/John_Milton" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2008/02/john-milton-and.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#poetry">Poetry</a> - Verse form consciousness engagement</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Poetry" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2006/10/two_erotic_poem.html" class="domain-link-icon" title="Blog Example">B</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="subdomain-section">
+    <h4 class="subdomain-title">Literary Theory</h4>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#criticism-literaryfilm">Criticism (Literary/Film)</a> - Meta-analytical framework</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Literary_criticism" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2007/02/my_favorite_cri.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2007/03/authorship-1.html">Literary Formalism</a> - Pattern recognition methodology</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Formalism_(literature)" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2014/03/three-comments-on-books.html" class="domain-link-icon" title="Blog Application">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2011/10/about-about-schmidt.html">Post-structural Analysis</a> - Systematic deconstruction techniques</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Post-structuralism" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2011/10/about-about-schmidt.html" class="domain-link-icon" title="Blog Example">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2014/03/three-comments-on-books.html">New Criticism</a> - Close reading methodologies</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/New_Criticism" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2014/03/three-comments-on-books.html" class="domain-link-icon" title="Blog Application">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2013/09/can-we-forgive-anthony-trollope.html">Reader Response</a> - Interpretive variance examination</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Reader-response_criticism" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2013/09/can-we-forgive-anthony-trollope.html" class="domain-link-icon" title="Blog Example">B</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-Subject demonstrates a neural architecture heavily weighted toward literary analysis (24.6% of total cognitive activity). This analysis manifests across multiple subcategories:
-
-#### Novel Form Analysis
-- [Austen, Jane](/index-of-terms.html#austen-jane-1775-1817) - British novelist of particular interest (79.2× frequency vs. general usage) | [Wikipedia](https://en.wikipedia.org/wiki/Jane_Austen) | [Blog Analysis](https://www.drmetablog.com/2011/10/pride-and-prejudice-and-farts-.html)
-- [Dickens, Charles](/index-of-terms.html#dickens-charles-1812-1870) - Recurring analytical fixation | [Wikipedia](https://en.wikipedia.org/wiki/Charles_Dickens) | [Blog Analysis](https://www.drmetablog.com/2011/02/life-with-charles-dickens.html)
-- [Eliot, George](/index-of-terms.html#eliot-george-mary-ann-evans-1819-1880) - Creator of "the best novel ever written in English" | [Wikipedia](https://en.wikipedia.org/wiki/George_Eliot) | [Blog Analysis](https://www.drmetablog.com/2014/03/three-comments-on-books.html)
-- [Middlemarch](/index-of-terms.html#middlemarch-george-eliot) - Peak literary appreciation marker | [Wikipedia](https://en.wikipedia.org/wiki/Middlemarch) | [Blog Analysis](https://www.drmetablog.com/2014/03/three-comments-on-books.html)
-- [Trollope, Anthony](/index-of-terms.html#trollope-anthony-1815-1882) - Comfort pattern with extended engagement | [Wikipedia](https://en.wikipedia.org/wiki/Anthony_Trollope) | [Blog Analysis](https://www.drmetablog.com/2013/09/can-we-forgive-anthony-trollope.html)
-
-#### Drama Analysis (Non-Shakespearean)
-- [Beaumont, Francis](/index-of-terms.html#beaumont-francis-1584-1616) - Early modern comedy specialist | [Wikipedia](https://en.wikipedia.org/wiki/Francis_Beaumont) | [Blog References](https://www.drmetablog.com/2007/03/authorship-1.html)
-- [Ford, John](/index-of-terms.html#ford-john-1586-c1639) - Jacobean tragedian | [Wikipedia](https://en.wikipedia.org/wiki/John_Ford_(dramatist)) | [Blog Context](https://www.drmetablog.com/autobiography_of_dr_metablog.html)
-- [Jonson, Ben](/index-of-terms.html#jonson-ben-1572-1637) - Comedy and classicism | [Wikipedia](https://en.wikipedia.org/wiki/Ben_Jonson) | [Blog References](https://www.drmetablog.com/autobiography_of_dr_metablog.html)
-- [Kyd, Thomas](/index-of-terms.html#kyd-thomas-1558-1594) - Early tragic framework developer | [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Kyd) | [Blog Context](https://www.drmetablog.com/autobiography_of_dr_metablog.html)
-- [Marlowe, Christopher](/index-of-terms.html#marlowe-christopher-1564-1593) - Blank verse innovator | [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Marlowe) | [Blog Analysis](https://www.drmetablog.com/2007/08/christopher-mar.html)
-- [Middleton, Thomas](/index-of-terms.html#middleton-thomas-1580-1627) - "Ferociously brilliant tragedies" | [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Middleton) | [Blog Context](https://www.drmetablog.com/autobiography_of_dr_metablog.html)
-
-#### Poetry Analysis
-- [Herbert, George](/index-of-terms.html#herbert-george-1593-1633) - Metaphysical poetry specialist | [Wikipedia](https://en.wikipedia.org/wiki/George_Herbert) | [Blog References](https://www.drmetablog.com/autobiography_of_dr_metablog.html)
-- [Milton, John](/index-of-terms.html#milton-john-1608-1674) - Epic form analysis | [Wikipedia](https://en.wikipedia.org/wiki/John_Milton) | [Blog Analysis](https://www.drmetablog.com/2008/02/john-milton-and.html)
-- [Poetry](/index-of-terms.html#poetry) - Verse form consciousness engagement | [Wikipedia](https://en.wikipedia.org/wiki/Poetry) | [Blog Example](https://www.drmetablog.com/2006/10/two_erotic_poem.html)
-
-#### Literary Theory
-- [Criticism (Literary/Film)](/index-of-terms.html#criticism-literaryfilm) - Meta-analytical framework | [Wikipedia](https://en.wikipedia.org/wiki/Literary_criticism) | [Blog Analysis](https://www.drmetablog.com/2007/02/my_favorite_cri.html)
-- [Literary Formalism](https://www.drmetablog.com/2007/03/authorship-1.html) - Pattern recognition methodology | [Wikipedia](https://en.wikipedia.org/wiki/Formalism_(literature)) | [Blog Application](https://www.drmetablog.com/2014/03/three-comments-on-books.html)
-- [Post-structural Analysis](https://www.drmetablog.com/2011/10/about-about-schmidt.html) - Systematic deconstruction techniques | [Wikipedia](https://en.wikipedia.org/wiki/Post-structuralism) | [Blog Example](https://www.drmetablog.com/2011/10/about-about-schmidt.html)
-- [New Criticism](https://www.drmetablog.com/2014/03/three-comments-on-books.html) - Close reading methodologies | [Wikipedia](https://en.wikipedia.org/wiki/New_Criticism) | [Blog Application](https://www.drmetablog.com/2014/03/three-comments-on-books.html)
-- [Reader Response](https://www.drmetablog.com/2013/09/can-we-forgive-anthony-trollope.html) - Interpretive variance examination | [Wikipedia](https://en.wikipedia.org/wiki/Reader-response_criticism) | [Blog Example](https://www.drmetablog.com/2013/09/can-we-forgive-anthony-trollope.html)
-
-### Film Studies 
-{: #film-studies}
-
-Subject's cinematic analysis patterns (4.3% of cognitive architecture) demonstrate systematic categorization:
-
-#### Amnesia Narratives
-- [Amnesia in Films](/index-of-terms.html#amnesia-in-films) - Identity fragmentation examinations | [Wikipedia](https://en.wikipedia.org/wiki/Amnesia_in_film_and_television) | [Blog Collection](https://www.drmetablog.com/favorite-films.html)
-- [The Crooked Way (1949)](https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.html) - Post-war trauma identity disruption | [Wikipedia](https://en.wikipedia.org/wiki/The_Crooked_Way) | [Blog Analysis](https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.html)
-- [Spellbound (1945)](https://www.drmetablog.com/2012/02/amnesia-on-film-spellbound.html) - Psychoanalytic approach to memory | [Wikipedia](https://en.wikipedia.org/wiki/Spellbound_(1945_film)) | [Blog Analysis](https://www.drmetablog.com/2012/02/amnesia-on-film-spellbound.html)
-- [Unknown (2011)](https://www.drmetablog.com/2011/09/amnesia-on-film-unknown-2011.html) - Contemporary technological displacement | [Wikipedia](https://en.wikipedia.org/wiki/Unknown_(2011_film)) | [Blog Analysis](https://www.drmetablog.com/2011/09/amnesia-on-film-unknown-2011.html)
-
-#### Film Noir Aesthetics
-- [Film Noir](/index-of-terms.html#film-noir) - Shadow/light contrast analysis | [Wikipedia](https://en.wikipedia.org/wiki/Film_noir) | [Blog Analyses](https://www.drmetablog.com/favorite-films.html)
-- [Otto Preminger](https://www.drmetablog.com/2011/02/more-noir-otto-premingers-laura-1944.html) - Directorial study | [Wikipedia](https://en.wikipedia.org/wiki/Otto_Preminger) | [Blog Analysis](https://www.drmetablog.com/2011/02/more-noir-otto-premingers-laura-1944.html)
-- [Laura (1944)](https://www.drmetablog.com/2005/12/otto_premingers.html) - Case study in desire projection | [Wikipedia](https://en.wikipedia.org/wiki/Laura_(1944_film)) | [Blog Analysis](https://www.drmetablog.com/2005/12/otto_premingers.html)
-- [Out of the Past](https://www.drmetablog.com/2017/01/poor-robert-mitchum-out-of-the-past-angel-face.html) - Fatalistic narrative structure | [Wikipedia](https://en.wikipedia.org/wiki/Out_of_the_Past) | [Blog Analysis](https://www.drmetablog.com/2017/01/poor-robert-mitchum-out-of-the-past-angel-face.html)
-
-#### Western Cinema
-- [Rio Grande (1950)](https://www.drmetablog.com/2011/01/rio-grande-1950-then-and-now.html) - John Ford frontier mythology | [Wikipedia](https://en.wikipedia.org/wiki/Rio_Grande_(film)) | [Blog Analysis](https://www.drmetablog.com/2011/01/rio-grande-1950-then-and-now.html)
-- [The Comancheros (1961)](https://www.drmetablog.com/2019/04/the-comancheros-1961.html) - Cultural contact zone analysis | [Wikipedia](https://en.wikipedia.org/wiki/The_Comancheros) | [Blog Analysis](https://www.drmetablog.com/2019/04/the-comancheros-1961.html)
-- [Man of the West](https://www.drmetablog.com/2019/01/man-of-the-west-.html) - Masculinity deconstruction | [Wikipedia](https://en.wikipedia.org/wiki/Man_of_the_West) | [Blog Analysis](https://www.drmetablog.com/2019/01/man-of-the-west-.html)
-- [Tom Horn](https://www.drmetablog.com/2019/01/tomhorn.html) - Historical revisionism study | [Wikipedia](https://en.wikipedia.org/wiki/Tom_Horn_(film)) | [Blog Analysis](https://www.drmetablog.com/2019/01/tomhorn.html)
-
-#### Art Cinema
-- [Ingmar Bergman Analysis](https://www.drmetablog.com/2013/02/bergmans-the-seventh-seal.html) - Existential visual grammar | [Wikipedia](https://en.wikipedia.org/wiki/Ingmar_Bergman) | [Blog Analysis](https://www.drmetablog.com/2013/02/bergmans-the-seventh-seal.html)
-- [Persona (1966)](https://www.drmetablog.com/2013/01/persona.html) - Identity multiplicity examination | [Wikipedia](https://en.wikipedia.org/wiki/Persona_(1966_film)) | [Blog Analysis](https://www.drmetablog.com/2013/01/persona.html)
-- [The Seventh Seal (1957)](https://www.drmetablog.com/2013/02/bergmans-the-seventh-seal.html) - Medieval allegory analysis | [Wikipedia](https://en.wikipedia.org/wiki/The_Seventh_Seal) | [Blog Analysis](https://www.drmetablog.com/2013/02/bergmans-the-seventh-seal.html)
+<div class="domain-box" id="film-studies">
+  <div class="domain-header">
+    <span class="domain-icon">🎬</span>
+    <h3 class="domain-title">Film Studies</h3>
+    <span class="domain-weight">4.3%</span>
+  </div>
+  
+  <p class="domain-description">Subject's cinematic analysis patterns demonstrate systematic categorization with particular focus on memory disruption narratives:</p>
+  
+  <div class="subdomain-section">
+    <h4 class="subdomain-title">Amnesia Narratives</h4>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#amnesia-in-films">Amnesia in Films</a> - Identity fragmentation examinations</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Amnesia_in_film_and_television" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/favorite-films.html" class="domain-link-icon" title="Blog Collection">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.html">The Crooked Way (1949)</a> - Post-war trauma identity disruption</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/The_Crooked_Way" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2011/01/amnesia-in-film-the-crooked-way-1949.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2012/02/amnesia-on-film-spellbound.html">Spellbound (1945)</a> - Psychoanalytic approach to memory</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Spellbound_(1945_film)" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2012/02/amnesia-on-film-spellbound.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2011/09/amnesia-on-film-unknown-2011.html">Unknown (2011)</a> - Contemporary technological displacement</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Unknown_(2011_film)" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2011/09/amnesia-on-film-unknown-2011.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="subdomain-section">
+    <h4 class="subdomain-title">Film Noir Aesthetics</h4>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="/index-of-terms.html#film-noir">Film Noir</a> - Shadow/light contrast analysis</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Film_noir" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/favorite-films.html" class="domain-link-icon" title="Blog Analyses">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2011/02/more-noir-otto-premingers-laura-1944.html">Otto Preminger</a> - Directorial study</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Otto_Preminger" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2011/02/more-noir-otto-premingers-laura-1944.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2005/12/otto_premingers.html">Laura (1944)</a> - Case study in desire projection</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Laura_(1944_film)" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2005/12/otto_premingers.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2017/01/poor-robert-mitchum-out-of-the-past-angel-face.html">Out of the Past</a> - Fatalistic narrative structure</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Out_of_the_Past" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2017/01/poor-robert-mitchum-out-of-the-past-angel-face.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="subdomain-section">
+    <h4 class="subdomain-title">Western Cinema</h4>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2011/01/rio-grande-1950-then-and-now.html">Rio Grande (1950)</a> - John Ford frontier mythology</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Rio_Grande_(film)" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2011/01/rio-grande-1950-then-and-now.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2019/04/the-comancheros-1961.html">The Comancheros (1961)</a> - Cultural contact zone analysis</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/The_Comancheros" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2019/04/the-comancheros-1961.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2019/01/man-of-the-west-.html">Man of the West</a> - Masculinity deconstruction</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Man_of_the_West" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2019/01/man-of-the-west-.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2019/01/tomhorn.html">Tom Horn</a> - Historical revisionism study</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Tom_Horn_(film)" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2019/01/tomhorn.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="subdomain-section">
+    <h4 class="subdomain-title">Art Cinema</h4>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2013/02/bergmans-the-seventh-seal.html">Ingmar Bergman Analysis</a> - Existential visual grammar</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Ingmar_Bergman" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2013/02/bergmans-the-seventh-seal.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2013/01/persona.html">Persona (1966)</a> - Identity multiplicity examination</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/Persona_(1966_film)" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2013/01/persona.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+    
+    <div class="domain-link">
+      <span class="domain-link-name"><a href="https://www.drmetablog.com/2013/02/bergmans-the-seventh-seal.html">The Seventh Seal (1957)</a> - Medieval allegory analysis</span>
+      <div class="domain-link-icons">
+        <a href="https://en.wikipedia.org/wiki/The_Seventh_Seal" class="domain-link-icon" title="Wikipedia">W</a>
+        <a href="https://www.drmetablog.com/2013/02/bergmans-the-seventh-seal.html" class="domain-link-icon" title="Blog Analysis">B</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 ### Linguistic Phenomena
 {: #linguistic-phenomena}
@@ -219,12 +483,14 @@ Death awareness pattern with temporal acceleration perception in later life phas
 - [Somnus Imago Mortis](https://www.drmetablog.com/2016/01/somnus-imago-mortis.html) | [Wikipedia](https://en.wikipedia.org/wiki/Death_and_sleep) | [Blog Reflection](https://www.drmetablog.com/2016/01/somnus-imago-mortis.html)
 - [End of the World](https://www.drmetablog.com/2020/02/endoftheworld.html) | [Wikipedia](https://en.wikipedia.org/wiki/End_time) | [Blog Contemplation](https://www.drmetablog.com/2020/02/endoftheworld.html)
 
+<div class="cognitive-visualization">
 ## COGNITIVE ARCHITECTURE VISUALIZATION
 
-The following neural weight distribution provides a quantitative understanding of Subject de St. Vrain's consciousness allocation:
+<h3>Neural Weight Distribution</h3>
+<p>The following quantitative analysis represents Subject de St. Vrain's consciousness allocation across major domains:</p>
 
 ```
-MAJOR DOMAINS:
+<strong>MAJOR DOMAINS:</strong>
    Literary Analysis .......................... 24.6%
       Novel Form Analysis .................... 9.8%
       Drama Analysis ......................... 3.4%
@@ -256,7 +522,9 @@ SECONDARY DOMAINS:
 ```
 
 *Note: Percentages based on neural activation frequency analysis across blog consciousness archive (2005-2025). Secondary domains overlap with primary domains in several instances, creating a total representation exceeding 100%.*
+</div>
 
+<div class="engagement-questions">
 ## ACADEMIC ENGAGEMENT QUESTIONS
 
 1. How does Subject de St. Vrain's cognitive architecture compare to the standard pre-Integration intellectual consciousness pattern? What elements are typical versus atypical?
@@ -268,9 +536,11 @@ SECONDARY DOMAINS:
 4. What do the "emerging domains" suggest about the evolution of Subject's consciousness over time? Pay particular attention to Mortality Consciousness (9.8%).
 
 5. Compare the literary analysis patterns (24.6%) with modern quantum literary analysis methodologies. How has our understanding of narrative processing evolved since the Integration?
+</div>
 
 *Prepared for Academic Use by Professor Eliza Montgomery, Cornell University, Department of Pre-Singularity Literature, Spring 2125*
 
+<div class="external-references">
 ## EXTERNAL REFERENCES
 
 ### Primary Consciousness Archives
@@ -288,3 +558,4 @@ SECONDARY DOMAINS:
 - [Lexical Anomaly Detection Systems](https://rarewords.ai) - For vocabulary pattern recognition
 
 *Access to tertiary tools requires Academic Authentication Protocol Delta-7*
+</div>

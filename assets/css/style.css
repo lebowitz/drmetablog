@@ -256,3 +256,167 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+/* Domain Index Special Styling */
+.domain-box {
+  border: 1px solid #eee;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: transform 0.2s, box-shadow 0.2s;
+  background-color: #fff;
+}
+
+.domain-box:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.domain-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.domain-icon {
+  margin-right: 10px;
+  color: var(--cornell-red);
+  font-size: 1.5em;
+}
+
+.domain-title {
+  margin: 0;
+  color: var(--cornell-red);
+  font-weight: bold;
+}
+
+.domain-weight {
+  display: inline-block;
+  padding: 3px 8px;
+  margin-left: 10px;
+  border-radius: 10px;
+  background-color: var(--cornell-red);
+  color: white;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+.subdomain-title {
+  color: var(--cornell-secondary);
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+.domain-link {
+  display: flex;
+  align-items: center;
+  padding: 5px 0;
+  border-bottom: 1px dotted #eee;
+}
+
+.domain-link:last-child {
+  border-bottom: none;
+}
+
+.domain-link-name {
+  flex: 1;
+  font-weight: 500;
+}
+
+.domain-link-icons {
+  display: flex;
+  gap: 5px;
+}
+
+.domain-link-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-color: #f5f5f5;
+  color: var(--cornell-link);
+  font-size: 0.8em;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.domain-link-icon:hover {
+  background-color: var(--cornell-link);
+  color: white;
+  text-decoration: none;
+}
+
+.domain-description {
+  font-size: 0.9em;
+  line-height: 1.5;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.cognitive-visualization {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 20px 0;
+  font-family: 'Courier New', monospace;
+  border-left: 4px solid var(--cornell-red);
+}
+
+.external-references {
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  padding: 15px;
+  margin-top: 30px;
+}
+
+.external-references h2 {
+  margin-top: 0;
+}
+
+.reference-section {
+  margin-bottom: 20px;
+}
+
+.reference-section h3 {
+  color: var(--cornell-red);
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+.reference-link {
+  display: flex;
+  align-items: center;
+  padding: 5px 0;
+}
+
+.reference-link:before {
+  content: "•";
+  color: var(--cornell-red);
+  margin-right: 10px;
+}
+
+/* Academic engagement questions styling */
+.engagement-questions {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 20px 0;
+}
+
+.engagement-question {
+  margin-bottom: 15px;
+  font-style: italic;
+  color: var(--cornell-secondary);
+}
+
+.engagement-question:before {
+  content: "Q: ";
+  font-weight: bold;
+  color: var(--cornell-red);
+}
