@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Neural Domain Cartography
+title: Domain Index
 permalink: /cognitive-domains.html
 ---
 
-# NEURAL DOMAIN CARTOGRAPHY: COGNITIVE ARCHITECTURE MAPPING
+# DOMAIN INDEX: COGNITIVE ARCHITECTURE MAPPING
 
 ## ADVANCED PATTERN RECOGNITION MODULE (WEEKS 13-14)
 

@@ -281,4 +281,6 @@ The complete neural archeology of Subject de St. Vrain provides valuable insight
 
 *Neural archeology notes: This timeline represents approximately 68.7% of Subject de St. Vrain's documented consciousness evolution. Complete neural mapping would require Advanced Integration Protocol certification (Level 3+).*
 
+*See the [Domain Index]({{ '/cognitive-domains.html' | relative_url }}) for a comprehensive mapping of cognitive architecture.*
+
 *Prepared for Academic Use by Professor Eliza Montgomery, Cornell University, Department of Pre-Singularity Literature, Spring 2135*

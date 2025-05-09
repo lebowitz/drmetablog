@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Autobiography
+title: Generative Autobiography
 permalink: /autobiography_of_dr_metablog.html
 ---
 

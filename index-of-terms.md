@@ -18,7 +18,7 @@ This specialized module provides an organized taxonomy of Subject de St. Vrain's
 [R](#r) • [S](#s) • [T](#t) • [V](#v) • [W](#w) • [Z](#z)
 
 ### Major Categories
-- [View Cognitive Architecture Analysis]({{ '/cognitive-domains.html' | relative_url }})
+- [View Domain Index]({{ '/cognitive-domains.html' | relative_url }})
 
 ### Concept Interconnection Visualization
 *Access the [Neural Pathway Map](/neural-map.html) for three-dimensional representation of Subject's cognitive architecture*
@@ -743,7 +743,7 @@ Mentor to Subject when he first taught Shakespeare
 
 ---
 
-*For detailed mapping of cognitive domains, see the [Neural Domain Cartography]({{ '/cognitive-domains.html' | relative_url }}) module.*
+*For detailed mapping of cognitive domains, see the [Domain Index]({{ '/cognitive-domains.html' | relative_url }}) module.*
 
 *Neural archeology notes: This comprehensive index represents approximately 96.7% of Subject de St. Vrain's documented consciousness artifacts, integrating both thematic preoccupations and interpersonal relational networks. Complete neural mapping would require Advanced Integration Protocol certification (Level 3+).*
 

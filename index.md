@@ -13,14 +13,14 @@ permalink: /
 ## COURSE MODULES & DIGITAL RESOURCES
 
 - **[Course Hub]({{ '/' | relative_url }})** - Primary syllabus & overview
-- **[Autobiography]({{ '/autobiography_of_dr_metablog.html' | relative_url }})** - Personal narrative and memoir
+- **[Generative Autobiography]({{ '/autobiography_of_dr_metablog.html' | relative_url }})** - Personal narrative and memoir
 - **[Portrait Analysis]({{ '/portrait_of_dr_metablog.html' | relative_url }})** - Visual character study
 - **[Topic Analysis]({{ '/topic_analysis_report.html' | relative_url }})** - Thematic content patterns
 - **[Rare Word Analysis]({{ '/rare_word_analysis.html' | relative_url }})** - Specialized vocabulary study
 - **[Distinctive Vocabulary]({{ '/distinctive_vocabulary.html' | relative_url }})** - Comparative language analysis
 - **[Film Analysis]({{ '/favorite-films.html' | relative_url }})** - Cinematic consciousness patterns
 - **[Subject Index]({{ '/index-of-terms.html' | relative_url }})** - Neural taxonomy & reference
-- **[Neural Domain Cartography]({{ '/cognitive-domains.html' | relative_url }})** - Cognitive architecture mapping
+- **[Domain Index]({{ '/cognitive-domains.html' | relative_url }})** - Cognitive architecture mapping
 - **[Topical Timeline]({{ '/timeline.html' | relative_url }})** - Cognitive evolution mapping
 - **[Original Blog](https://www.drmetablog.com/)** - Primary source archive (2005-present)
 
@@ -45,7 +45,7 @@ By the end of this course, students will:
 
 ### REQUIRED COURSE MODULES
 
-- **[Personal Narrative Study](autobiography_of_dr_metablog.html)** - de St. Vrain's memoir and self-construction
+- **[Generative Autobiography](autobiography_of_dr_metablog.html)** - de St. Vrain's memoir and self-construction
 - **[Visual Reconstruction](portrait_of_dr_metablog.html)** - AI-generated appearance based on textual self-descriptions
 - **[Literary Themes Analysis](topic_analysis_report.html)** - Mapping recurring intellectual preoccupations
 - **[Vocabulary Analysis](rare_word_analysis.html)** - Study of linguistic peculiarities and rare word usage
@@ -150,7 +150,7 @@ Students will investigate:
 
 ### Week 11-12: Autobiographical Construction & Self-Representation
 
-This section examines de St. Vrain's [autobiographical writings](autobiography_of_dr_metablog.html) and self-narrative strategies:
+This section examines de St. Vrain's [generative autobiography](autobiography_of_dr_metablog.html) and self-narrative strategies:
 
 - Brooklyn childhood in the 1940s and formative influences
 - His education at Cornell University and academic development
