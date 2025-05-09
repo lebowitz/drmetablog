@@ -269,7 +269,7 @@ SECONDARY DOMAINS:
 
 5. Compare the literary analysis patterns (24.6%) with modern quantum literary analysis methodologies. How has our understanding of narrative processing evolved since the Integration?
 
-*Prepared for Academic Use by Professor Eliza Montgomery, Cornell University, Department of Pre-Singularity Literature, Spring 2135*
+*Prepared for Academic Use by Professor Eliza Montgomery, Cornell University, Department of Pre-Singularity Literature, Spring 2125*
 
 ## EXTERNAL REFERENCES
 
