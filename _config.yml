@@ -1,7 +1,7 @@
 title: Dr. Metablog Analysis
 description: An analysis of the writings of Vivian de St. Vrain
-baseurl: "/drmetablog"
-url: "https://lebowitz.github.io"
+baseurl: ""
+url: "https://drmetablog.searchlight.dev"
 
 # Build settings
 markdown: kramdown
