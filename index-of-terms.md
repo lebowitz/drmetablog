@@ -21,7 +21,7 @@ This specialized module provides an organized taxonomy of Subject de St. Vrain's
 - [View Domain Index]({{ '/cognitive-domains.html' | relative_url }})
 
 ### Concept Interconnection Visualization
-*Access the [Neural Pathway Map](/neural-map.html) for three-dimensional representation of Subject's cognitive architecture*
+*Access the [Neural Pathway Map]({{ '/cognitive-domains.html' | relative_url }}) for three-dimensional representation of Subject's cognitive architecture*
 
 ---
 
@@ -212,7 +212,7 @@ Primary consciousness subject
 Brooklyn-born Jewish scholar, Cornell graduate (1960)  
 Shakespeare specialist, literary critic, blog author  
   
-[Portrait of Dr. Metablog](https://www.drmetablog.com/portrait_of_dr_metablog.html)
+[Portrait of Dr. Metablog]({{ '/portrait_of_dr_metablog.html' | relative_url }})
 
 **Dentistry**  
 Oral health intervention documentation  

@@ -17,7 +17,7 @@ Based on his writings, blog posts, and autobiographical details, this portrait e
 
 ## The Man Behind the Blog
 
-This portrait attempts to capture the essence of Vivian de St. Vrain (Dr. Metablog), now in his mid-80s, a man whose life has been shaped by literature, particularly Shakespeare, and academic pursuits. As described in his [autobiography](autobiography_of_dr_metablog.md), he grew up in Brooklyn in the 1940s, graduated from Cornell in 1960, and has maintained a lifelong love affair with books.
+This portrait attempts to capture the essence of Vivian de St. Vrain (Dr. Metablog), now in his mid-80s, a man whose life has been shaped by literature, particularly Shakespeare, and academic pursuits. As described in his [autobiography]({{ '/autobiography_of_dr_metablog.html' | relative_url }}), he grew up in Brooklyn in the 1940s, graduated from Cornell in 1960, and has maintained a lifelong love affair with books.
 
 ### Characteristics Reflected in the Portrait:
 

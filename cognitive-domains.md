@@ -27,7 +27,7 @@ permalink: /cognitive-domains.html
     <h4 class="subdomain-title">Novel Form Analysis</h4>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#austen-jane-1775-1817">Austen, Jane</a> - British novelist of particular interest (79.2× frequency vs. general usage)</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#austen-jane-1775-1817">Austen, Jane</a> - British novelist of particular interest (79.2× frequency vs. general usage)</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Jane_Austen" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/2011/10/pride-and-prejudice-and-farts-.html" class="domain-link-icon" title="Blog Analysis">B</a>
@@ -35,7 +35,7 @@ permalink: /cognitive-domains.html
     </div>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#dickens-charles-1812-1870">Dickens, Charles</a> - Recurring analytical fixation</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#dickens-charles-1812-1870">Dickens, Charles</a> - Recurring analytical fixation</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Charles_Dickens" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/2011/02/life-with-charles-dickens.html" class="domain-link-icon" title="Blog Analysis">B</a>
@@ -43,7 +43,7 @@ permalink: /cognitive-domains.html
     </div>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#eliot-george-mary-ann-evans-1819-1880">Eliot, George</a> - Creator of "the best novel ever written in English"</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#eliot-george-mary-ann-evans-1819-1880">Eliot, George</a> - Creator of "the best novel ever written in English"</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/George_Eliot" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/2014/03/three-comments-on-books.html" class="domain-link-icon" title="Blog Analysis">B</a>
@@ -51,7 +51,7 @@ permalink: /cognitive-domains.html
     </div>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#middlemarch-george-eliot">Middlemarch</a> - Peak literary appreciation marker</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#middlemarch-george-eliot">Middlemarch</a> - Peak literary appreciation marker</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Middlemarch" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/2014/03/three-comments-on-books.html" class="domain-link-icon" title="Blog Analysis">B</a>
@@ -59,7 +59,7 @@ permalink: /cognitive-domains.html
     </div>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#trollope-anthony-1815-1882">Trollope, Anthony</a> - Comfort pattern with extended engagement</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#trollope-anthony-1815-1882">Trollope, Anthony</a> - Comfort pattern with extended engagement</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Anthony_Trollope" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/2013/09/can-we-forgive-anthony-trollope.html" class="domain-link-icon" title="Blog Analysis">B</a>
@@ -71,7 +71,7 @@ permalink: /cognitive-domains.html
     <h4 class="subdomain-title">Drama Analysis (Non-Shakespearean)</h4>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#beaumont-francis-1584-1616">Beaumont, Francis</a> - Early modern comedy specialist</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#beaumont-francis-1584-1616">Beaumont, Francis</a> - Early modern comedy specialist</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Francis_Beaumont" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/2007/03/authorship-1.html" class="domain-link-icon" title="Blog References">B</a>
@@ -79,7 +79,7 @@ permalink: /cognitive-domains.html
     </div>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#ford-john-1586-c1639">Ford, John</a> - Jacobean tragedian</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#ford-john-1586-c1639">Ford, John</a> - Jacobean tragedian</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/John_Ford_(dramatist)" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/autobiography_of_dr_metablog.html" class="domain-link-icon" title="Blog Context">B</a>
@@ -87,7 +87,7 @@ permalink: /cognitive-domains.html
     </div>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#jonson-ben-1572-1637">Jonson, Ben</a> - Comedy and classicism</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#jonson-ben-1572-1637">Jonson, Ben</a> - Comedy and classicism</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Ben_Jonson" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/autobiography_of_dr_metablog.html" class="domain-link-icon" title="Blog References">B</a>
@@ -95,7 +95,7 @@ permalink: /cognitive-domains.html
     </div>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#kyd-thomas-1558-1594">Kyd, Thomas</a> - Early tragic framework developer</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#kyd-thomas-1558-1594">Kyd, Thomas</a> - Early tragic framework developer</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Thomas_Kyd" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/autobiography_of_dr_metablog.html" class="domain-link-icon" title="Blog Context">B</a>
@@ -103,7 +103,7 @@ permalink: /cognitive-domains.html
     </div>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#marlowe-christopher-1564-1593">Marlowe, Christopher</a> - Blank verse innovator</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#marlowe-christopher-1564-1593">Marlowe, Christopher</a> - Blank verse innovator</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Christopher_Marlowe" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/2007/08/christopher-mar.html" class="domain-link-icon" title="Blog Analysis">B</a>
@@ -111,7 +111,7 @@ permalink: /cognitive-domains.html
     </div>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#middleton-thomas-1580-1627">Middleton, Thomas</a> - "Ferociously brilliant tragedies"</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#middleton-thomas-1580-1627">Middleton, Thomas</a> - "Ferociously brilliant tragedies"</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Thomas_Middleton" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/autobiography_of_dr_metablog.html" class="domain-link-icon" title="Blog Context">B</a>
@@ -123,7 +123,7 @@ permalink: /cognitive-domains.html
     <h4 class="subdomain-title">Poetry Analysis</h4>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#herbert-george-1593-1633">Herbert, George</a> - Metaphysical poetry specialist</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#herbert-george-1593-1633">Herbert, George</a> - Metaphysical poetry specialist</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/George_Herbert" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/autobiography_of_dr_metablog.html" class="domain-link-icon" title="Blog References">B</a>
@@ -131,7 +131,7 @@ permalink: /cognitive-domains.html
     </div>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#milton-john-1608-1674">Milton, John</a> - Epic form analysis</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#milton-john-1608-1674">Milton, John</a> - Epic form analysis</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/John_Milton" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/2008/02/john-milton-and.html" class="domain-link-icon" title="Blog Analysis">B</a>
@@ -139,7 +139,7 @@ permalink: /cognitive-domains.html
     </div>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#poetry">Poetry</a> - Verse form consciousness engagement</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#poetry">Poetry</a> - Verse form consciousness engagement</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Poetry" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/2006/10/two_erotic_poem.html" class="domain-link-icon" title="Blog Example">B</a>
@@ -151,7 +151,7 @@ permalink: /cognitive-domains.html
     <h4 class="subdomain-title">Literary Theory</h4>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#criticism-literaryfilm">Criticism (Literary/Film)</a> - Meta-analytical framework</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#criticism-literaryfilm">Criticism (Literary/Film)</a> - Meta-analytical framework</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Literary_criticism" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/2007/02/my_favorite_cri.html" class="domain-link-icon" title="Blog Analysis">B</a>
@@ -205,7 +205,7 @@ permalink: /cognitive-domains.html
     <h4 class="subdomain-title">Amnesia Narratives</h4>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#amnesia-in-films">Amnesia in Films</a> - Identity fragmentation examinations</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#amnesia-in-films">Amnesia in Films</a> - Identity fragmentation examinations</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Amnesia_in_film_and_television" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/favorite-films.html" class="domain-link-icon" title="Blog Collection">B</a>
@@ -241,7 +241,7 @@ permalink: /cognitive-domains.html
     <h4 class="subdomain-title">Film Noir Aesthetics</h4>
     
     <div class="domain-link">
-      <span class="domain-link-name"><a href="/index-of-terms.html#film-noir">Film Noir</a> - Shadow/light contrast analysis</span>
+      <span class="domain-link-name"><a href="{{ '/index-of-terms.html' | relative_url }}#film-noir">Film Noir</a> - Shadow/light contrast analysis</span>
       <div class="domain-link-icons">
         <a href="https://en.wikipedia.org/wiki/Film_noir" class="domain-link-icon" title="Wikipedia">W</a>
         <a href="https://www.drmetablog.com/favorite-films.html" class="domain-link-icon" title="Blog Analyses">B</a>
