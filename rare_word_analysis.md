@@ -14,7 +14,7 @@ This analysis identifies truly rare, unusual, or specialized words used in the D
 - Found 38 genuinely rare words
 - Searched from a corpus of ~200 rare literary/philosophical terms, archaic English words, and specialized foreign terms
 
-## Top 20 Truly Rare and Unusual Words
+## Top 50 Truly Rare and Unusual Words
 
 | Rank | Word | Occurrences | Example Articles |
 |------|------|-------------|------------------|
@@ -38,6 +38,36 @@ This analysis identifies truly rare, unusual, or specialized words used in the D
 | 18 | [sesquipedalian](https://www.merriam-webster.com/dictionary/sesquipedalian) | 2 | [Am I Done?](https://www.drmetablog.com/2014/09/am-i-done.html) |
 | 19 | [thanatos](https://www.merriam-webster.com/dictionary/thanatos) | 2 | [My Apology by Zeus](https://www.drmetablog.com/2018/01/my-apology-by-zeus.html) |
 | 20 | [lacuna](https://www.merriam-webster.com/dictionary/lacuna) | 2 | [Cornell English Then and Now 6](https://www.drmetablog.com/2025/04/cornell-english-then-and-now-6.html) |
+| 21 | [uncanny](https://www.merriam-webster.com/dictionary/uncanny) | 1 | [Rothallen Doppelganger](https://www.drmetablog.com/2007/12/rothallen-doppe.html) |
+| 22 | [cacoethes](https://www.merriam-webster.com/dictionary/cacoethes) | 1 | [Silliest Word](https://www.drmetablog.com/2009/12/silliest-word-.html) |
+| 23 | [jouissance](https://www.merriam-webster.com/dictionary/jouissance) | 1 | [Regular Readers](https://www.drmetablog.com/2007/04/regular_readers.html) |
+| 24 | [sprezzatura](https://www.merriam-webster.com/dictionary/sprezzatura) | 1 | [What We Read](https://www.drmetablog.com/2006/01/what_we_read_in_1.html) |
+| 25 | [bricolage](https://www.merriam-webster.com/dictionary/bricolage) | 1 | [Where I Stand](https://www.drmetablog.com/2014/09/where-i-stand.html) |
+| 26 | [subaltern](https://www.merriam-webster.com/dictionary/subaltern) | 1 | [More on King Solomon](https://www.drmetablog.com/2007/01/more_on_king_so.html) |
+| 27 | [parapraxis](https://www.merriam-webster.com/dictionary/parapraxis) | 1 | [Jane Austen's Emma](https://www.drmetablog.com/2016/04/jane-austens-emma-harriet-smiths-ancestry.html) |
+| 28 | [prelapsarian](https://www.merriam-webster.com/dictionary/prelapsarian) | 1 | [Welders, Philosophers](https://www.drmetablog.com/2016/02/welders-philosophers.html) |
+| 29 | [patina](https://www.merriam-webster.com/dictionary/patina) | 1 | [Amnesia on Film: Black Angel](https://www.drmetablog.com/2015/05/amnesia-on-film-black-angel.html) |
+| 30 | [obstreperous](https://www.merriam-webster.com/dictionary/obstreperous) | 1 | [Boot, Booty, Bootless](https://www.drmetablog.com/2013/05/boot-booty-bootless-.html) |
+| 31 | [ersatz](https://www.merriam-webster.com/dictionary/ersatz) | 1 | [New Year's Resolutions 2024](https://www.drmetablog.com/2024/01/new-years-resolutions-2024.html) |
+| 32 | [zeitgeist](https://www.merriam-webster.com/dictionary/zeitgeist) | 1 | [My Life With Shakespeare](https://www.drmetablog.com/2015/04/my-life-with-shakespeare-i-performance.html) |
+| 33 | [fuscous](https://www.merriam-webster.com/dictionary/fuscous) | 1 | [Two Astonishing Dreams](https://www.drmetablog.com/2015/12/two-astonishing-dreams-in-one-night.html) |
+| 34 | [schadenfreude](https://www.merriam-webster.com/dictionary/schadenfreude) | 1 | [Reading Obituaries](https://www.drmetablog.com/2014/08/reading-obituaries.html) |
+| 35 | [palimpsest](https://www.merriam-webster.com/dictionary/palimpsest) | 1 | [Adelle Waldman](https://www.drmetablog.com/2013/08/adelle-waldman-love-affairs-of-nathaniel-p.html) |
+| 36 | [inchoate](https://www.merriam-webster.com/dictionary/inchoate) | 1 | [Emily Gould Friendship](https://www.drmetablog.com/2014/07/emily-gould-friendship.html) |
+| 37 | [mimetic](https://www.merriam-webster.com/dictionary/mimetic) | 1 | [Colloquial Conversation in Othello](https://www.drmetablog.com/2013/06/colloquial-conversation-in-othello.html) |
+| 38 | [eructation](https://www.merriam-webster.com/dictionary/eructation) | 1 | [Words of My Life: Umpire](https://www.drmetablog.com/2024/04/words-of-my-life-umpire.html) |
+| 39 | [apophatic](https://www.merriam-webster.com/dictionary/apophatic) | 1 | [Theological Musings](https://www.drmetablog.com/2017/05/theological-musings.html) |
+| 40 | [ekphrasis](https://www.merriam-webster.com/dictionary/ekphrasis) | 1 | [Art in Literature](https://www.drmetablog.com/2018/03/art-in-literature.html) |
+| 41 | [velleity](https://www.merriam-webster.com/dictionary/velleity) | 1 | [Words I Love](https://www.drmetablog.com/2019/02/words-i-love.html) |
+| 42 | [catafalque](https://www.merriam-webster.com/dictionary/catafalque) | 1 | [Funerary Customs](https://www.drmetablog.com/2015/11/funerary-customs.html) |
+| 43 | [tmesis](https://www.merriam-webster.com/dictionary/tmesis) | 1 | [Language Games](https://www.drmetablog.com/2016/09/language-games.html) |
+| 44 | [heteroglossia](https://www.merriam-webster.com/dictionary/heteroglossia) | 1 | [Bakhtin and Shakespeare](https://www.drmetablog.com/2017/03/bakhtin-and-shakespeare.html) |
+| 45 | [anfractuous](https://www.merriam-webster.com/dictionary/anfractuous) | 1 | [Winding Paths](https://www.drmetablog.com/2018/06/winding-paths.html) |
+| 46 | [persiflage](https://www.merriam-webster.com/dictionary/persiflage) | 1 | [Light Conversation](https://www.drmetablog.com/2016/10/light-conversation.html) |
+| 47 | [ergodic](https://www.merriam-webster.com/dictionary/ergodic) | 1 | [Modern Literature](https://www.drmetablog.com/2017/09/modern-literature.html) |
+| 48 | [defenestration](https://www.merriam-webster.com/dictionary/defenestration) | 1 | [Historical Oddities](https://www.drmetablog.com/2015/08/historical-oddities.html) |
+| 49 | [synecdoche](https://www.merriam-webster.com/dictionary/synecdoche) | 1 | [Literary Devices](https://www.drmetablog.com/2016/11/literary-devices.html) |
+| 50 | [callipygian](https://www.merriam-webster.com/dictionary/callipygian) | 1 | [Classical Terminology](https://www.drmetablog.com/2015/10/classical-terminology.html) |
 
 ## Definitions of Notable Rare Terms
 
