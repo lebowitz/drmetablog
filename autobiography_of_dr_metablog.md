@@ -8,12 +8,27 @@ permalink: /autobiography_of_dr_metablog.html
 
 ## By Vivian de St. Vrain (Dr. Metablog)
 
+## Table of Contents
+- [Preface](#preface)
+- [Chapter 1: The Early Years (1939-1956)](#chapter-1-the-early-years-1939-1956)
+- [Chapter 2: The Cornell Years (1956-1960)](#chapter-2-the-cornell-years-1956-1960)
+- [Chapter 3: The Middle Years (1960-1990)](#chapter-3-the-middle-years-1960-1990)
+- [Chapter 4: Shakespeare and Me](#chapter-4-shakespeare-and-me)
+- [Chapter 5: My Life in Objects](#chapter-5-my-life-in-objects)
+- [Chapter 6: The Later Years (1990-Present)](#chapter-6-the-later-years-1990-present)
+- [Chapter 7: Technology and Me](#chapter-7-technology-and-me)
+- [Chapter 8: On Critics and Criticism](#chapter-8-on-critics-and-criticism)
+- [Chapter 9: Dreams and Memories](#chapter-9-dreams-and-memories)
+- [Chapter 10: The View from Here](#chapter-10-the-view-from-here)
+
+<a id="preface"></a>
 ### Preface
 
 I've been asked—well, not quite at gunpoint, but with a degree of solicitous insistence—to set down the particulars of my existence in some kind of autobiographical format. The request strikes me as presumptuous, as if my life merits documentation. Still, as I careen toward the precipice of my ninth decade, I suppose there might be some marginal value in recording how an unremarkable Brooklyn boy of the 1940s metamorphosed into the peculiar specimen who writes these words today. 
 
 My purpose is not to inspire but rather to offer evidence that even a directionless, book-besotted youth can stumble his way into a life of modest intellectual pleasures. If you detect a whiff of the counterhuman in these pages, well, that's to be expected. We English professors are a curious breed.
 
+<a id="chapter-1-the-early-years-1939-1956"></a>
 ### Chapter 1: The Early Years (1939-1956)
 
 My entrance into this vale of tears occurred in Brooklyn in 1939, a year of portent and doom for the wider world but, for me, merely the beginning of a provincial childhood. I was born into a family of modest means and modest expectations, a Jewish household where education was venerated but not always understood. My father worked with his hands; my mother worked with her words, endlessly repeating instructions and reprimands that I was constitutionally disposed to ignore.
@@ -40,6 +55,7 @@ When I went through my adolescent fantasy phase, I devoured various pulp sci-fi 
 
 I was also, inexplicably, a Gilbert and Sullivan enthusiast. While other adolescents were discovering Elvis Presley, I was memorizing patter songs from *H.M.S. Pinafore*. This enthusiasm did not enhance my popularity, needless to say.
 
+<a id="chapter-2-the-cornell-years-1956-1960"></a>
 ### Chapter 2: The Cornell Years (1956-1960)
 
 How I came to be admitted to Cornell University remains one of life's enduring mysteries. I suspect a clerical error may have been involved. Nevertheless, in the autumn of 1956, I found myself gazing upon the Gothic splendors of the Arts Quad, a provincial boy thrust into an environment for which nothing in my Brooklyn upbringing had prepared me. 
@@ -56,6 +72,7 @@ In those days, literary criticism had not yet succumbed to the excesses of theor
 
 I was not a remarkable student—certainly not in the league of those ambitious souls who went on to distinguished careers at Harvard or Yale—but I was a passionate one. I graduated in 1960 with a more capacious mind than I had arrived with, though still woefully ignorant of the world beyond books.
 
+<a id="chapter-3-the-middle-years-1960-1990"></a>
 ### Chapter 3: The Middle Years (1960-1990)
 
 The three decades following my graduation from Cornell were a period of constant, if not always coherent, evolution. The 1960s found me, like many of my generation, caught up in the political ferment of the era. I subscribed to *The Reporter*, *The Nation*, and—before it went totally and bizarrely wrong—*The New Republic*. My politics, then as now, were progressive but skeptical, informed by a fundamental distrust of dogma of any kind.
@@ -72,6 +89,7 @@ Marriage and parenthood arrived, bringing with them responsibilities and rewards
 
 During these years, I developed what would become a lifelong interest in the specialized vocabulary of fields far removed from my own. My fascination with obscure terminology—from the esoteric language of horse-drawn vehicles (broughams, landaus, and tarpaulins) to the precise nomenclature of botanical specimens—has provided me with endless hours of pleasure and, I fear, caused more than a few eyes to glaze over at dinner parties.
 
+<a id="chapter-4-shakespeare-and-me"></a>
 ### Chapter 4: Shakespeare and Me
 
 I cannot speak of my life without acknowledging the central role that Shakespeare has played in it. My relationship with the Bard has been long and peculiarly intimate. As a rule, I keep my distance from live performances of Shakespeare's plays because I seldom enjoy the experience and regularly find it misleading. This has not always been the case. A few versions, notably the lucid Scofield *Coriolanus* at Stratford in 1962, remain vivid in my brain. 
@@ -90,6 +108,7 @@ Performances, in my opinion, erect a barrier to understanding and obscure rather
 
 My academic writing on Shakespeare has been modest in volume but, I hope, not entirely without merit. I've been particularly interested in his use of language—the way he deploys words both common and rare to create effects that remain startling even after four centuries. His vocabulary was enormous, his sensitivity to nuance unparalleled. When I encounter a word like "pandiculation" or "soporific" in my reading, I feel a small thrill of recognition, as if I've come upon an old friend in an unexpected place.
 
+<a id="chapter-5-my-life-in-objects"></a>
 ### Chapter 5: My Life in Objects
 
 The material artifacts of a life are curious things—simultaneously meaningless and freighted with significance. A few objects have accompanied me through the decades, accruing layers of memory and association.
@@ -100,6 +119,7 @@ I have been, at various points in my life, a collector of books (of course), ant
 
 In the last twenty years, I've probably spent more time on the John Deere "Lawn Tractor" than in any other vehicle. Maximum of five miles per hour, my kind of speed. It may not be glamorous, but it gets the job done. I've "buried" the machine a couple of times, but it's still in one piece and still working—which is more than I can say for certain parts of my anatomy.
 
+<a id="chapter-6-the-later-years-1990-present"></a>
 ### Chapter 6: The Later Years (1990-Present)
 
 Age creeps up on one imperceptibly, like a cat stalking a distracted bird. One moment you're forty, with all the vigor and optimism that implies, and the next you're contemplating your seventy-fifth birthday—your diamond jubilee, as it were.
@@ -122,6 +142,7 @@ This intermittent amnesia is not the dramatic, cinematic variety that has long f
 
 My kind of amnesia is more prosaic—a momentary blank when reaching for a familiar word, a hesitation when trying to recall the plot of a novel I read last month. It's the quotidian forgetfulness that accompanies the aging brain, not the dramatic rupture of identity that characterizes cinematic memory loss.
 
+<a id="chapter-7-technology-and-me"></a>
 ### Chapter 7: Technology and Me
 
 My relationship with technology has been, at best, ambivalent. I came of age in the era of the manual typewriter, when the word "website" would have signified a dark corner colonized by spiders. The digital revolution has occurred during my lifetime, transforming the way we communicate, learn, and entertain ourselves in ways that would have been unimaginable to my younger self.
@@ -134,6 +155,7 @@ I do not begrudge younger generations their digital fluency, but I do worry that
 
 This concern may simply mark me as a relic of a previous era, an old man shaking his fist at the inexorable march of progress. So be it. I have earned the right to my curmudgeonly skepticism, even as I acknowledge the genuine benefits that technology has brought.
 
+<a id="chapter-8-on-critics-and-criticism"></a>
 ### Chapter 8: On Critics and Criticism
 
 Having spent much of my professional life engaged in literary criticism, I feel compelled to offer some reflections on the state of the field. When I entered academia, literary criticism was undergoing a significant transformation. The New Critics, with their emphasis on close reading and the autonomy of the text, were giving way to more historically and socially oriented approaches. This shift seemed to me both necessary and productive, expanding the scope of literary analysis while retaining its essential focus on the text itself.
@@ -156,6 +178,7 @@ My reservations about the 2025 English curriculum have their exact parallel in t
 
 And now, because I don't want to go full curmudgeon and become the kind of superannuated guy who shakes his ebony stick at the modern world and deplores the decline of civilization, I'm going to make an effort to find out what's really going on in 2025. I have therefore set myself the task of reading a representative sample of the books written by members of the present-day English faculty. I'll report on my studies right here. Stay tuned.
 
+<a id="chapter-9-dreams-and-memories"></a>
 ### Chapter 9: Dreams and Memories
 
 Dreams have been a constant preoccupation of mine, both the nocturnal variety that visit us during sleep and the waking dreams that shape our aspirations and define our sense of self. The former have provided me with a rich vein of material for reflection and, occasionally, for writing. The latter have guided, for better or worse, the choices that have determined the course of my life.
@@ -178,6 +201,7 @@ My life in books has trained me to be skeptical of unreliable narrators, and I t
 
 This awareness of memory's constructedness does not invalidate the project of autobiography. It simply acknowledges that all such projects are, at their core, works of imagination as much as works of recollection. The self that I present in these pages is not identical to the self I have been at various points in my life, but rather a character—hopefully a truthful one—created through the act of writing.
 
+<a id="chapter-10-the-view-from-here"></a>
 ### Chapter 10: The View from Here
 
 As I approach the end of these reminiscences, I find myself gazing out from the promontory of advanced age at the landscape of a life that, while not extraordinary by any external measure, has been rich in intellectual pleasures and human connections. What conclusions, if any, can I draw from this view?
