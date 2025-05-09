@@ -8,7 +8,6 @@ This repository contains an analysis of "Dr. Metablog" (Vivian de St. Vrain), ex
 - [Rare Words](https://drmetablog.searchlight.dev/rare_word_analysis.html)
 - [Linguistic Fingerprint](https://drmetablog.searchlight.dev/distinctive_vocabulary.html)
 - [Subject Index](https://drmetablog.searchlight.dev/index-of-terms.html)
-- [Domain Index](https://drmetablog.searchlight.dev/cognitive-domains.html)
 - [Film Analysis](https://drmetablog.searchlight.dev/favorite-films.html)
 - [Thematic Mapping](https://drmetablog.searchlight.dev/topic_analysis_report.html)
 - [Posts by Year](https://drmetablog.searchlight.dev/posts_2005.html)

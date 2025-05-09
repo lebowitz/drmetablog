@@ -20,7 +20,6 @@ permalink: /
 - **[Distinctive Vocabulary]({{ '/distinctive_vocabulary.html' | relative_url }})** - Comparative language analysis
 - **[Film Analysis]({{ '/favorite-films.html' | relative_url }})** - Cinematic consciousness patterns
 - **[Subject Index]({{ '/index-of-terms.html' | relative_url }})** - Neural taxonomy & reference
-- **[Domain Index]({{ '/cognitive-domains.html' | relative_url }})** - Cognitive architecture mapping
 - **[Topical Timeline]({{ '/timeline.html' | relative_url }})** - Cognitive evolution mapping
 - **[Original Blog](https://www.drmetablog.com/)** - Primary source archive (2005-present)
 
@@ -110,7 +109,7 @@ Theme 5: shakespeare, word, words, play, language, say, english, like, just, kin
 ```
 
 *Note the significant patterns in the data:*
-* *Theme 1 reveals Subject de St. Vrain's deep engagement with literary forms. See [Literary Analysis section in the Comprehensive Index]({{ '/index-of-terms.html#literary-analysis' | relative_url }}) for detailed examination.*
+* *Theme 1 reveals Subject de St. Vrain's deep engagement with literary forms. See [Subject Index]({{ '/index-of-terms.html#literary-analysis' | relative_url }}) for detailed examination.*
 * *Theme 4 demonstrates Subject's cognitive preoccupation with film analysis, particularly amnesia narratives. See [Film Analysis Module]({{ '/favorite-films.html' | relative_url }}) for detailed examination.*
 
 ### Week 7-8: Linguistic Analysis & Vocabulary Studies
